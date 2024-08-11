@@ -6,7 +6,7 @@
     import { Button } from "$lib/components/ui/button/index.js";
   </script>
    
-  <Button on:click={toggleMode} variant="ghost" class="rounded-2xl " size="icon">
+  <Button on:click={toggleMode} variant="ghost" class="text-secondary-foreground rounded-2xl hover:text-secondary-foreground" size="icon">
     <Sun
       class="h-[1.2rem] w-[1.2rem] rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0"
     />
