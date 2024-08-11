@@ -34,8 +34,8 @@ text-secondary-forground"
     <nav class="max-w-screen-2xl flex justify-between items-center mx-auto">
         <div class="flex items-center gap-2 text-xl">
             <div class="bg-primary w-4 h-4 me-2" />
-            <span class=" font-bold">Hadeel</span>
-            <span class="text-lg uppercase"> /AI student </span>
+            <span class=" font-bold text-secondary-foreground">Hadeel</span>
+            <span class="text-lg uppercase text-secondary-foreground"> /AI student </span>
         </div>
         <div class="flex">
             <Themeswich>
@@ -53,8 +53,8 @@ text-secondary-forground"
             </div>
            <!---->
             <Sheet.Root bind:open={isSheetOpen}>
-                <Sheet.Trigger>
-                    <Button class="flex n" variant="ghost" size="icon">
+                <Sheet.Trigger class="flex lg:hidden">
+                    <Button class="flex" variant="ghost" size="icon">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
                             class="w-6 h-auto"
@@ -74,7 +74,7 @@ text-secondary-forground"
                 <Sheet.Content class="flex flex-col justify-center">
                     {#each links as link}
                     <Button
-                        class="text-lg {$page.url.pathname == link.href &&
+                        class="text-lg  {$page.url.pathname == link.href &&
                             "text-primary"}"
                         hrf={link.href}
                         variant="link"
