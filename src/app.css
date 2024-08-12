@@ -37,13 +37,13 @@
   }
 
   .dark {
-    --background:0 0% 0% ;
+    --background:184 100% 75%;
     --foreground:0 0% 0%;
     
     --primary:221 100% 50%;
     --primary-foreground: 0 0% 100%;
-    --secondary: 184 100% 75%;
-    --secondary-foreground:0 0% 0% ;
+    --secondary: 0 0% 0%;
+    --secondary-foreground:0 0% 100% ;
    
     --accent: 185, 93%, 83%;
     --accent-foreground:  185, 93%, 83%;
