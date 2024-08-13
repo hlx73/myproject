@@ -1,59 +1,67 @@
 <script>
-// @ts-nocheck
+    // @ts-nocheck
 
-	import Themeswich from './themeswich.svelte';
+    import Themeswich from "./themeswich.svelte";
     import Button from "$lib/components/ui/button/button.svelte";
     import { page } from "$app/stores";
     import * as Sheet from "$lib/components/ui/sheet";
 
     const links = [
         {
-            text: "About me",
+            text: "الرئيسية",
             href: "/",
         },
         {
-            text: "resume",
-            href: "/resume",
+            text: "فطور",
+            href: "/breakfast",
         },
         {
-            text: "projects",
-            href: "/projects",
+            text: "وجبات رئيسية",
+            href: "/mainDishes",
         },
         {
-            text: "contact",
-            href: "/contact",
+            text: " مأكولات خفيفة",
+            href: "/snacks",
+        },
+        {
+            text: " عصيرات",
+            href: "/juices",
+        },
+        {
+            text: " حلويات",
+            href: "/sweets",
         },
     ];
-		let isSheetOpen=false
+    let isSheetOpen = false;
 </script>
 
+
 <div
-    class=" bg-secondary py-8 px-4
-text-secondary-forground"
+    class=" bg-backround text-secondary-foreground py-8 px-4
+"
 >
-    <nav class="max-w-screen-2xl flex justify-between items-center mx-auto">
+    <nav class="max-w-screen-2xl flex justify-start items-center mx-auto">
         <div class="flex items-center gap-2 text-xl">
-            <div class="bg-primary w-4 h-4 me-2" />
-            <span class=" font-bold text-secondary-foreground">Hadeel</span>
-            <span class="text-lg uppercase text-secondary-foreground"> /AI student </span>
+            <div class="" />
+            <img src="/strawberry.png" alt="" class="rounded-full w-25 h-20" />
+
+            <span class=" font-bold text-[#db1a35]">Joy Bites</span>
         </div>
-        <div class="flex">
-            <Themeswich>
-            </Themeswich>
-            <div class="uppercase hidden md:flex">
+        <div class="flex text-secondary-foreground">
+            <div class="uppercase hidden lg:flex">
                 {#each links as link}
-                <Button
-                    class={$page.url.pathname == link.href &&
-                        "text-primary"}
-                    hrf={link.href}
-                    variant="link">
-                    {link.text}
-                </Button>
-            {/each}
+                    <Button
+                        class=" {$page.url.pathname == link.href &&
+                            'text-secondary-foreground/50'}"
+                        href={link.href}
+                        variant="link">{link.text}</Button
+                    >
+                {/each}
             </div>
-           <!---->
+            <!---->
+            <Themeswich></Themeswich>
             <Sheet.Root bind:open={isSheetOpen}>
-                <Sheet.Trigger class="flex lg:hidden">
+                <Sheet.Trigger class=" lg:hidden">
                     <Button class="flex" variant="ghost" size="icon">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
@@ -68,24 +76,22 @@ text-secondary-forground"
                                 /></g
                             ></svg
                         >
-                        
                     </Button>
                 </Sheet.Trigger>
-                <Sheet.Content class="flex flex-col justify-center">
+                <Sheet.Content class="flex flex-col justify-center ">
                     {#each links as link}
-                    <Button
-                        class="text-lg  {$page.url.pathname == link.href &&
-                            "text-primary"}"
-                        hrf={link.href}
-                        variant="link"
-												on:click={()=> isSheetOpen=false}
-                    >
-                        {link.text}
-												
-                    </Button>
-                {/each}
+                        <Button
+                            class="text-xl {$page.url.pathname == link.href &&
+                                'text-secondary-foreground/50'}"
+                            href={link.href}
+                            variant="link"
+                            on:click={() => (isSheetOpen = false)}
+                        >
+                            {link.text}
+                        </Button>
+                    {/each}
                 </Sheet.Content>
-              </Sheet.Root>
+            </Sheet.Root>
         </div>
     </nav>
 </div>
