@@ -31,24 +31,26 @@
             text: " حلويات",
             href: "/sweets",
         },
+        {
+            text: " سلطات",
+            href: "/salad",
+        },
     ];
     let isSheetOpen = false;
 </script>
 
 
 <div
-    class=" bg-backround text-secondary-foreground py-8 px-4
+    class=" bg-backround text-secondary-foreground py-8 px-7 lg:px-25
 "
 >
-    <nav class="max-w-screen-2xl flex justify-start items-center mx-auto">
+    <nav class="max-w-screen-2xl flex justify-between items-center mx-auto ">
         <div class="flex items-center gap-2 text-xl">
-            <div class="" />
+            <div class="me-4" />
             <img src="/strawberry.png" alt="" class="rounded-full w-25 h-20" />
 
             <span class=" font-bold text-[#db1a35]">Joy Bites</span>
-        </div>
-        <div class="flex text-secondary-foreground">
-            <div class="uppercase hidden lg:flex">
+            <div class="uppercase hidden lg:flex  ">
                 {#each links as link}
                     <Button
                         class=" {$page.url.pathname == link.href &&
@@ -57,13 +59,17 @@
                         variant="link">{link.text}</Button
                     >
                 {/each}
+                <Themeswich></Themeswich>
             </div>
-            <!---->
-            <Themeswich></Themeswich>
-            <Sheet.Root bind:open={isSheetOpen}>
-                <Sheet.Trigger class=" lg:hidden">
-                    <Button class="flex" variant="ghost" size="icon">
-                        <svg
+        </div>
+         <!---->
+        <div class="flex text-secondary-foreground px-6 ">
+            <div class="flex justify-center lg:hidden">
+                <Themeswich></Themeswich>
+                <Sheet.Root bind:open={isSheetOpen}>
+                    <Sheet.Trigger class="flex lg:hidden">
+                        <Button variant="ghost" size="icon">
+                            <svg
                             xmlns="http://www.w3.org/2000/svg"
                             class="w-6 h-auto"
                             viewBox="0 0 24 24"
@@ -75,23 +81,26 @@
                                     d="M20 17.5a1.5 1.5 0 0 1 .144 2.993L20 20.5H4a1.5 1.5 0 0 1-.144-2.993L4 17.5zm0-7a1.5 1.5 0 0 1 0 3H4a1.5 1.5 0 0 1 0-3zm0-7a1.5 1.5 0 0 1 0 3H4a1.5 1.5 0 1 1 0-3z"
                                 /></g
                             ></svg
-                        >
-                    </Button>
-                </Sheet.Trigger>
-                <Sheet.Content class="flex flex-col justify-center ">
-                    {#each links as link}
-                        <Button
-                            class="text-xl {$page.url.pathname == link.href &&
-                                'text-secondary-foreground/50'}"
-                            href={link.href}
-                            variant="link"
-                            on:click={() => (isSheetOpen = false)}
-                        >
-                            {link.text}
+                            
+                            >
                         </Button>
-                    {/each}
-                </Sheet.Content>
-            </Sheet.Root>
+                    </Sheet.Trigger>
+                    <Sheet.Content class="flex flex-col justify-center">
+                        {#each links as link}
+                            <Button
+                                class="text-xl {$page.url.pathname == link.href &&
+                                    'text-primary'}"
+                                href={link.href}
+                                variant="link"
+                                on:click={() => (isSheetOpen = false)}
+                            >
+                                {link.text}
+                            </Button>
+                        {/each}
+                    </Sheet.Content>
+                </Sheet.Root>
+            </div>
+          
         </div>
     </nav>
 </div>
