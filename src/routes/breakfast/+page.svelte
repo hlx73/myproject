@@ -1,5 +1,8 @@
-<script>
+<script lang="ts">
+  import { buttonVariants } from "$lib/components/ui/button";
   import Button from "$lib/components/ui/button/button.svelte";
+  import * as Dialog from "$lib/components/ui/dialog";
+  
 </script>
 
 <div class="flex flex-col items-center pb-20">
@@ -7,17 +10,29 @@
     class="lg:h-fit w-[80vw] bg-secondary shadow-[0_10px_60px_-15px_rgba(0,0,0,0.3)]
      rounded-xl grid grid-cols-4 gap-5 p-4 px-2"
   >
-    <div class=" w-[15vw] h-auto rounded-xl">
+    <div class=" w-[15vw] h-auto rounded-xl ">
       <img src="/b3.PNG" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
-        >
-          سكرمبل شوفان
-        </Button>
+      <span class="flex justify-center py-2 pr-2">
+          <Dialog.Root >
+            <Dialog.Trigger class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants({ variant:"outline" })}"
+              >سكرمبل الشوفان</Dialog.Trigger
+            >
+          
+          <Dialog.Content class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh]">
+            <Dialog.Header>
+              <Dialog.Title class="flex justify-center text-secondary-foreground">سكرمبل الشوفان
+               <div class="py-10 flex justify-start text-secondary-foreground">
+                
+               </div>
+              </Dialog.Title>
+
+            </Dialog.Header>
+           
+             
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
+      
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/b4.JPG" alt="" class=" rounded-xl" />
