@@ -13,6 +13,7 @@ const Trigger = DialogPrimitive.Trigger;
 const Close = DialogPrimitive.Close;
 
 export {
+
 	Root,
 	Title,
 	Portal,
