@@ -13,7 +13,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
         >
           ساندوتش روبيان
         </Button>
@@ -25,7 +25,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           بيتزا خضار
         </Button>
@@ -37,7 +37,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
         >
           فاهيتا دجاج
         </Button>
@@ -49,7 +49,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           سبرينغ رول
         </Button>
@@ -61,7 +61,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           زنجر
         </Button>
@@ -73,7 +73,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           كلوب ديلوكس
         </Button>
@@ -85,7 +85,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           صحن فاهيتا
         </Button>
@@ -97,7 +97,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           صينية بطاطس
         </Button>
@@ -109,7 +109,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
         >
           معكرونة لحم
         </Button>
@@ -121,7 +121,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           بيتزا بالشوفان
         </Button>
@@ -133,7 +133,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
         >
           فطيرة بطاطس
         </Button>
@@ -145,7 +145,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           معكرونة بالصلصة
         </Button>

@@ -15,7 +15,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
         >
           كرات التمر
         </Button>
@@ -27,7 +27,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[23vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[23vw] h-7 lg:h-fit "
         >
           كرات الفول اسوداني
         </Button>
@@ -39,7 +39,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
         >
           شوكولاتة دارك
         </Button>
@@ -51,7 +51,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
         >
           بليلة
         </Button>
@@ -63,7 +63,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground  text-xs w-[20vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground  text-xs w-[20vw] h-7 lg:h-fit "
         >
           بطاطس
         </Button>
@@ -75,7 +75,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
         >
           فراولة و شوكلاتة
         </Button>
@@ -87,7 +87,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
         >
           سناك بارد
         </Button>

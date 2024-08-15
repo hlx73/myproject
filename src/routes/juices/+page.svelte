@@ -16,7 +16,7 @@
           <Button
             variant="outline"
             href="/breakfast"
-            class=" bg-secondary text-secondary-foreground  w-[20vw] h-7 lg:h-fit "
+            class="  text-secondary-foreground  w-[20vw] h-7 lg:h-fit "
           >
           مانجو و اناناس
   
@@ -29,7 +29,7 @@
           <Button
             variant="outline"
             href="/breakfast"
-            class=" bg-secondary text-secondary-foreground  w-[20vw] h-7 lg:h-fit "
+            class="  text-secondary-foreground  w-[20vw] h-7 lg:h-fit "
           >
           برتقال و جزر
           </Button>
@@ -41,7 +41,7 @@
           <Button
             variant="outline"
             href="/breakfast"
-            class=" bg-secondary text-secondary-foreground  w-[20vw] h-7 lg:h-fit "
+            class="  text-secondary-foreground  w-[20vw] h-7 lg:h-fit "
           >
            فراولة و موز
           </Button>
@@ -53,7 +53,7 @@
           <Button
             variant="outline"
             href="/breakfast"
-            class=" bg-secondary text-secondary-foreground  w-[20vw] h-7 lg:h-fit "
+            class="  text-secondary-foreground  w-[20vw] h-7 lg:h-fit "
           >
         بطيخ و نعناع
           </Button>
@@ -65,7 +65,7 @@
           <Button
             variant="outline"
             href="/breakfast"
-            class=" bg-secondary text-secondary-foreground  w-[20vw] h-7 lg:h-fit "
+            class="  text-secondary-foreground  w-[20vw] h-7 lg:h-fit "
           >
            عنب و توت
           </Button>
@@ -77,7 +77,7 @@
           <Button
             variant="outline"
             href="/breakfast"
-            class=" bg-secondary text-secondary-foreground  w-[20vw] h-7 lg:h-fit "
+            class="  text-secondary-foreground  w-[20vw] h-7 lg:h-fit "
           >
             أناناس و كيوي
           </Button>

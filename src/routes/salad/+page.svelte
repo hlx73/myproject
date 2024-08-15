@@ -13,7 +13,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
         >
           سلطة دجاج
         </Button>
@@ -25,7 +25,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           سلطة تونة
         </Button>
@@ -37,7 +37,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
         >
           سلطة باذنجان
         </Button>
@@ -49,7 +49,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           سلطة منعشة
         </Button>
@@ -61,7 +61,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           سلطة البطاطس
         </Button>
@@ -73,7 +73,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           سلطة اسيوية
         </Button>
@@ -85,7 +85,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           سلطة بروكلي
         </Button>
@@ -97,7 +97,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           سلطة كينوا
         </Button>

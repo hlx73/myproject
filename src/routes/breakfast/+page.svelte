@@ -13,7 +13,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
         >
           سكرمبل شوفان
         </Button>
@@ -25,7 +25,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           شكشوكة تركية
         </Button>
@@ -37,7 +37,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
         >
           شوفان و بروتين
         </Button>
@@ -49,7 +49,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           فرنش توست
         </Button>
@@ -61,7 +61,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           توست بالبيض
         </Button>
@@ -73,7 +73,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           بانكيك
         </Button>
@@ -85,7 +85,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           أفكار للتوست
         </Button>
@@ -97,7 +97,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           بانكيك غير
         </Button>

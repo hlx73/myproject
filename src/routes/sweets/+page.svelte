@@ -13,7 +13,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
         >
           بودينغ الشوكولاتة
         </Button>
@@ -25,7 +25,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           ميني بانكيك
         </Button>
@@ -37,7 +37,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
         >
           كوكيز
         </Button>
@@ -49,7 +49,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           فاكتوريا كيك
         </Button>
@@ -61,7 +61,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           حلى بارد
         </Button>
@@ -73,7 +73,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           حلى الأوريو
         </Button>
@@ -85,7 +85,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           حلى الايسكريم
         </Button>
@@ -97,7 +97,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           مافن
         </Button>
@@ -109,7 +109,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
         >
           ايسكريم التوت
         </Button>
@@ -121,7 +121,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           حلى الجيلي
         </Button>
@@ -133,7 +133,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
         >
           لافا كيك
         </Button>
@@ -145,7 +145,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           سينابون بانكيك
         </Button>
@@ -157,7 +157,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
         >
           كيكة كندر
         </Button>
@@ -169,7 +169,7 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" bg-secondary text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit ring"
         >
           كيكة ليمون و توت
         </Button>
