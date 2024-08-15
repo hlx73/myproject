@@ -28,7 +28,7 @@
               </Dialog.Title>
               <h2
                 class="py-10 flex justify-start items-start text-secondary-foreground">
-                
+
             </h2>
             </Dialog.Header>
           </Dialog.Content>
@@ -37,86 +37,186 @@
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/b4.JPG" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-        >
-          شكشوكة تركية
-        </Button>
+      <span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              { variant: 'outline' },
+            )}">شكشوكة تركية</Dialog.Trigger
+          >
+          <Dialog.Content
+            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+          >
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                >شكشوكة تركية 
+              </Dialog.Title>
+              <h2
+                class="py-10 flex justify-start items-start text-secondary-foreground">
+                
+            </h2>
+            </Dialog.Header>
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
     </div>
+
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/b1.PNG" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
-        >
-          شوفان و بروتين
-        </Button>
+     
+      <span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              { variant: 'outline' },
+            )}">  بانكيك البروتين</Dialog.Trigger
+          >
+          <Dialog.Content
+            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+          >
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                >بانكيك البروتين 
+              </Dialog.Title>
+              <h2
+                class="py-10 flex justify-start items-start text-secondary-foreground">
+                
+            </h2>
+            </Dialog.Header>
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/b7.jpg" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-        >
-          فرنش توست
-        </Button>
+      <span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              { variant: 'outline' },
+            )}">   فرنش توست</Dialog.Trigger
+          >
+          <Dialog.Content
+            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+          >
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                >فرنش توست  
+              </Dialog.Title>
+              <h2
+                class="py-10 flex justify-start items-start text-secondary-foreground">
+                
+            </h2>
+            </Dialog.Header>
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/b5.JPG" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-        >
-          توست بالبيض
-        </Button>
+      <span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              { variant: 'outline' },
+            )}">  ساندوتش بيض </Dialog.Trigger
+          >
+          <Dialog.Content
+            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+          >
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                >ساندوتش بيض  
+              </Dialog.Title>
+              <h2
+                class="py-10 flex justify-start items-start text-secondary-foreground">
+                
+            </h2>
+            </Dialog.Header>
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/b2.JPG" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-        >
-          بانكيك
-        </Button>
+      <span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              { variant: 'outline' },
+            )}">  بانكيك </Dialog.Trigger
+          >
+          <Dialog.Content
+            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+          >
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                >بانكيك  
+              </Dialog.Title>
+              <h2
+                class="py-10 flex justify-start items-start text-secondary-foreground">
+                
+            </h2>
+            </Dialog.Header>
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/b6.JPG" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-        >
-          أفكار للتوست
-        </Button>
+      <span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              { variant: 'outline' },
+            )}">أفكار للتوست</Dialog.Trigger
+          >
+          <Dialog.Content
+            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+          >
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                >أفكار للتوست  
+              </Dialog.Title>
+              <h2
+                class="py-10 flex justify-start items-start text-secondary-foreground">
+                
+            </h2>
+            </Dialog.Header>
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/b8.jpg" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-        >
-          بانكيك غير
-        </Button>
+      <span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              { variant: 'outline' },
+            )}">  بانكيك غير</Dialog.Trigger
+          >
+          <Dialog.Content
+            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+          >
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                >بانكيك زبدة الفول السوداني 
+              </Dialog.Title>
+              <h2
+                class="py-10 flex justify-start items-start text-secondary-foreground">
+                
+            </h2>
+            </Dialog.Header>
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
     </div>
   </div>
