@@ -12,7 +12,6 @@
         <img src="/breakfast.png" alt="" class=" rounded-xl">
         <span class="flex justify-center py-2 ">
             <Button 
-            
             variant="outline"
              href="/breakfast" 
             class=" bg-secondary text-secondary-foreground  w-[20vw] h-7 lg:h-fit ">
