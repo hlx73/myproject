@@ -55,7 +55,7 @@
         </Button>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl ">
+    <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/b5.JPG" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2">
         <Button

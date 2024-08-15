@@ -29,7 +29,7 @@
           href="/breakfast"
           class=" bg-secondary text-secondary-foreground text-xs w-[23vw] h-7 lg:h-fit "
         >
-         كرات الفول اسوداني 
+          كرات الفول اسوداني
         </Button>
       </span>
     </div>

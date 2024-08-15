@@ -14,7 +14,7 @@
             <Button 
             variant="outline"
              href="/breakfast" 
-            class=" bg-secondary text-secondary-foreground  w-[20vw] h-7 lg:h-fit ">
+            class=" bg-background/20 text-secondary-foreground  w-[20vw] h-7 lg:h-fit ">
                 فطور
               </Button>
             </span>
@@ -25,7 +25,7 @@
             <Button 
             variant="outline"
              href="/mainDishes" 
-            class=" bg-secondary text-secondary-foreground w-[20vw] h-7 lg:h-fit ">
+            class=" bg-background/20 text-secondary-foreground w-[20vw] h-7 lg:h-fit ">
                 وجبات رئيسية
               </Button>
             </span>
@@ -36,7 +36,7 @@
             <Button
             variant="outline"
              href="/snacks"  
-            class=" bg-secondary text-secondary-foreground   w-[20vw] h-7 lg:h-fit">
+            class=" bg-background/20 text-secondary-foreground   w-[20vw] h-7 lg:h-fit">
                 مأكولات خفيفة
               </Button>
             </span>
