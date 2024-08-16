@@ -19,7 +19,7 @@
             )}">سكرمبل الشوفان</Dialog.Trigger
           >
           <Dialog.Content
-            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+            class=" w-[70vw] h-[90vh] bg-secondary shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -45,7 +45,7 @@
             )}">شكشوكة تركية</Dialog.Trigger
           >
           <Dialog.Content
-            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+            class=" bg-secondary shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -73,7 +73,7 @@
             )}">  بانكيك البروتين</Dialog.Trigger
           >
           <Dialog.Content
-            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+            class=" bg-secondary shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -99,7 +99,7 @@
             )}">   فرنش توست</Dialog.Trigger
           >
           <Dialog.Content
-            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+            class=" bg-secondary shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -125,7 +125,7 @@
             )}">  ساندوتش بيض </Dialog.Trigger
           >
           <Dialog.Content
-            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+            class=" bg-secondary shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -151,7 +151,7 @@
             )}">  بانكيك </Dialog.Trigger
           >
           <Dialog.Content
-            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+            class=" bg-secondary shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -177,7 +177,7 @@
             )}">أفكار للتوست</Dialog.Trigger
           >
           <Dialog.Content
-            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+            class="bg-secondary shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -203,7 +203,7 @@
             )}">  بانكيك غير</Dialog.Trigger
           >
           <Dialog.Content
-            class="lg:max-w-[40vw] lg:h-[70vh] w-[70vw] h-[80vh] bg-secondary shadow-md"
+            class=" bg-secondary shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
