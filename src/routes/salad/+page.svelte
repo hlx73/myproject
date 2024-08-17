@@ -522,7 +522,6 @@
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/l8.jpg" alt="" class=" rounded-xl" />
-
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
@@ -581,11 +580,12 @@
                     </ol>
                   </section>
                   <section class="py-2">
-                    <h2 class="text-secondary-foreground py-1">
-                      ملاحظة:
-                    </h2>
-                    <p>يمكن إضافة قطع دجاج مشوية لزيادة كمية البروتين وتعزيز الشبع.</p>
-                  <section/>
+                    <h2 class="text-secondary-foreground py-1">ملاحظة:</h2>
+                    <p>
+                      يمكن إضافة قطع دجاج مشوية لزيادة كمية البروتين وتعزيز
+                      الشبع.
+                    </p>
+                    <section />
                   </section>
                   <section class="py-2">
                     <h2 class="text-secondary-foreground py-1">
