@@ -489,22 +489,25 @@
        <section class="py-2">
         <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
         <ol class="">
+         <li>1. ضع 3 حبات أوريو في وعاء، ثم أضف 10 مل حليب.</li>
          <li>
-          1. ضع 3 حبات أوريو في وعاء، ثم أضف 10 مل حليب.
+          2. لتحضير الطبقة الثانية، اخلط 40 جرام من فيلادلفيا مع ملعقة ونصف من
+          كريم كراميل باودر، سكر ستيفيا، و5 مل حليب. أضف نقطة ماء إذا لزم الأمر،
+          وامزج حتى يتجانس.
+         </li>
+         <li>3. اغمس البسكويت ماري المتبقي في الحليب.</li>
+         <li>
+          4. ذوب قطعة الشوكولاتة بالحليب في حمام مائي، ثم أضف إليها 15 جرام من
+          فيلادلفيا لايت.
          </li>
          <li>
-          2. لتحضير الطبقة الثانية، اخلط 40 جرام من فيلادلفيا مع ملعقة ونصف من كريم كراميل باودر، سكر ستيفيا، و5 مل حليب. أضف نقطة ماء إذا لزم الأمر، وامزج حتى يتجانس.         </li>
-         <li>
-          3. اغمس البسكويت ماري المتبقي في الحليب.         </li>
-         <li>
-          4. ذوب قطعة الشوكولاتة بالحليب في حمام مائي، ثم أضف إليها 15 جرام من فيلادلفيا لايت.
+          5. ضع الحبة الأخيرة من أوريو في الأعلى، ثم أضف خليط الشوكولاتة فوقها.
          </li>
-         <li>5. ضع الحبة الأخيرة من أوريو في الأعلى، ثم أضف خليط الشوكولاتة فوقها.</li>
         </ol>
        </section>
        <section class="py-2">
         <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
-        <p>-249  سعرة حرارية</p>
+        <p>-249 سعرة حرارية</p>
        </section>
       </div>
      </Dialog.Content>
@@ -532,32 +535,22 @@
        <section>
         <h2 class="text-secondary-foreground py-1">المكونات:</h2>
         <ul>
-         <li>
-          - قطعتان من كعك الأرز، 14 جرام.</li>
-         <li>
-          - نصف قطعة شوكولاتة غامقة، 5 جرام.</li>
-         <li>
-          - قطعة كاملة شوكولاتة بالحليب، 10 جرام.</li>
-         <li>
-          - ملعقة كبيرة من آيس كريم فانيلا لايت، 35 جرام.         </li>
-         <li>
-          - للتزيين: توت أحمر مجمد، 2 جرام.</li>
+         <li>- قطعتان من كعك الأرز، 14 جرام.</li>
+         <li>- نصف قطعة شوكولاتة غامقة، 5 جرام.</li>
+         <li>- قطعة كاملة شوكولاتة بالحليب، 10 جرام.</li>
+         <li>- ملعقة كبيرة من آيس كريم فانيلا لايت، 35 جرام.</li>
+         <li>- للتزيين: توت أحمر مجمد، 2 جرام.</li>
         </ul>
        </section>
        <section class="py-2">
         <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
         <ol class="">
-         <li>
-          1. ذوّب الشوكولاتة الغامقة وشوكولاتة الحليب في حمام مائي.
-         </li>
-         <li>
-          2. ضع ملعقة كبيرة من الآيس كريم على إحدى قطع كعك الأرز.<li>
-         <li>3. غطِّها بقطعة أخرى من كعك الأرز.
-         </li>
-         <li>
-          4. صب الشوكولاتة المذابة فوق الكعك وزينه بالتوت الأحمر.         </li>
-         <li>
-          5. اتركه في الفريزر ليجمد لمدة 10 دقائق على الأقل.         </li>
+         <li>1. ذوّب الشوكولاتة الغامقة وشوكولاتة الحليب في حمام مائي.</li>
+         <li>2. ضع ملعقة كبيرة من الآيس كريم على إحدى قطع كعك الأرز.</li>
+         <li></li>
+         <li>3. غطِّها بقطعة أخرى من كعك الأرز.</li>
+         <li>4. صب الشوكولاتة المذابة فوق الكعك وزينه بالتوت الأحمر.</li>
+         <li>5. اتركه في الفريزر ليجمد لمدة 10 دقائق على الأقل.</li>
         </ol>
        </section>
        <section class="py-2">
@@ -590,122 +583,340 @@
        <ScrollArea
         class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
        >
-      <div class="text-sm">
-       <section>
-        <h2 class="text-secondary-foreground py-1">المكونات:</h2>
-        <ul>
-         <li>- شوفان مطحون أو دقيق: 50 جرام
-          </li>
-         <li>
-          - بروتين باودر: 32 جرام </li>
-         <li>
-          - باكينج باودر: 1 جرام <li>
-          <li>
-           - بيضة: 56 جرام </li>
-         <li>
-          - تفاح: 57 جرام </li>
-          <li>- توت أزرق: 35 جرام</li>
-          <li>- توت أحمر: 23 جرام</li>
-          <li>- قرفة: 1 جرام</li>
-          <li>- ماء: 30 مل</li>
-          <li>- بودرة فول سوداني (اختياري): 7 جرام</li>
-        </ul>
-       </section>
-       <section class="py-2">
-        <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
-        <ol class="">
-         <li>
-          1. امزج الشوفان أو الدقيق، بروتين البودر، باكينج باودر، البيضة، التفاح، والتوت (البلوberry والأحمر)، القرفة، والماء في الخلاط.         </li>
-         <li>
-          2. أضف ظرفين من سكر ستيفيا وامزج حتى يتجانس الخليط.         <li>3. غطِّها بقطعة أخرى من كعك الأرز.
-         </li>
-         <li>
-          3. صب الخليط في قوالب المافن وزينه بقطع التفاح والتوت.         <li>
-           <li>4. اخبز في الفرن المسبق تسخينه على درجة حرارة 200 مئوية لمدة 10 دقائق من الأسفل ثم 5 دقائق من الأعلى حتى ينضج.</li>
-           <li>5. بعد أن يبرد، حضر صوص الفول السوداني بخلط بودرة الفول السوداني مع ضعف كمية الماء وسكر ستيفيا، ثم زين المافن بالصوص.</li>
-        </ol>
-       </section>
-       <section class="py-2">
-        <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
-        <p>-158 سعرة حرارية</p>
-       </section>
+        <div class="text-sm">
+         <section>
+          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+          <ul>
+           <li>- شوفان مطحون أو دقيق: 50 جرام</li>
+           <li>- بروتين باودر: 32 جرام</li>
+           <li>- باكينج باودر: 1 جرام</li>
+           <li></li>
+           <li>- بيضة: 56 جرام</li>
+           <li>- تفاح: 57 جرام</li>
+           <li>- توت أزرق: 35 جرام</li>
+           <li>- توت أحمر: 23 جرام</li>
+           <li>- قرفة: 1 جرام</li>
+           <li>- ماء: 30 مل</li>
+           <li>- بودرة فول سوداني (اختياري): 7 جرام</li>
+          </ul>
+         </section>
+         <section class="py-2">
+          <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+          <ol class="">
+           <li>
+            1. امزج الشوفان أو الدقيق، بروتين البودر، باكينج باودر، البيضة،
+            التفاح، والتوت (البلوberry والأحمر)، القرفة، والماء في الخلاط.
+           </li>
+           <li>2. أضف ظرفين من سكر ستيفيا وامزج حتى يتجانس الخليط.</li>
+           <li>3. غطِّها بقطعة أخرى من كعك الأرز.</li>
+           <li>3. صب الخليط في قوالب المافن وزينه بقطع التفاح والتوت.</li>
+           <li></li>
+           <li>
+            4. اخبز في الفرن المسبق تسخينه على درجة حرارة 200 مئوية لمدة 10
+            دقائق من الأسفل ثم 5 دقائق من الأعلى حتى ينضج.
+           </li>
+           <li>
+            5. بعد أن يبرد، حضر صوص الفول السوداني بخلط بودرة الفول السوداني مع
+            ضعف كمية الماء وسكر ستيفيا، ثم زين المافن بالصوص.
+           </li>
+          </ol>
+         </section>
+         <section class="py-2">
+          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <p>-158 سعرة حرارية</p>
+         </section>
+        </div>
+       </ScrollArea>
       </div>
-     </ScrollArea>
+     </Dialog.Content>
+    </Dialog.Root>
+   </span>
+  </div>
+
+  <div class=" w-[15vw] h-auto rounded-xl">
+   <img src="/sw9.jpg" alt="" class=" rounded-xl" />
+   <span class="flex justify-center py-2 pr-2">
+    <Dialog.Root>
+     <Dialog.Trigger
+      class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants({
+       variant: 'outline',
+      })}">حلى منعش</Dialog.Trigger
+     >
+     <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+      <Dialog.Header class="">
+       <Dialog.Title class="flex justify-center text-secondary-foreground"
+        >حلى منعش
+       </Dialog.Title>
+      </Dialog.Header>
+      <div class="flex justify-center items-center">
+       <ScrollArea
+        class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+       >
+        <div class=" text-sm">
+         <section>
+          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+          <ul>
+           <li>- 5 حبات توست أبيض (نقطع الحواف).</li>
+           <li>- 50 جم حليب (لتغميس التوست).</li>
+          </ul>
+         </section>
+         <section class="py-2">
+          <h2 class=" text-secondary-foreground py-1">للكريمة:</h2>
+          <ol>
+           <li>- 24 جم دريم ويب.</li>
+           <li>- ملعقة صغيرة فانيلا.</li>
+           <li>- ظرفين سكر ستيفيا.</li>
+           <li>- 80 جم ماء بارد.</li>
+           <li>- علبتين زبادي بالفراولة (اكتيفيا).</li>
+          </ol>
+         </section>
+         <section class="py-2">
+          <h2 class=" text-secondary-foreground py-2">للجلي:</h2>
+          <p>- 23 جم جيلي.</p>
+          <p></p>
+         </section>
+
+         <section>
+          <h2 class="text-secondary-foreground py-2">الطريقة:</h2>
+          <ul>
+           <li>
+            1. في وعاء، اخفق الدريم ويب مع الماء البارد حتى يتكون قوام شبه كريمي
+            (5-7 دقائق تقريباً).
+           </li>
+           <li>
+            2. أضف الفانيلا، الزبادي، وسكر ستيفيا، ثم استمر في الخفق حتى تمتزج
+            المكونات جيداً.
+           </li>
+           <li>
+            3. في صحن تقديم، رص التوست واغمره في الحليب. ضع طبقة من الكريمة فوق
+            التوست. كرر الطبقات حتى ينفد التوست.
+           </li>
+           <li>
+            4. لتحضير الجلي، اخلط الجيلي مع الماء المغلي حتى يذوب. اتركه ليبرد
+            قليلاً ثم اسكبه فوق آخر طبقة من الكريمة.
+           </li>
+           <li>5. اتركه في الثلاجة حتى يتماسك الجلي، ثم زينه بالفراولة.</li>
+          </ul>
+         </section>
+
+         <section class="py-2">
+          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <p>- لكل الكمية: 794 سعرة حرارية.</p>
+          <p>- لكل قطعة (من أصل 6 قطع): 133 سعرة حرارية.</p>
+         </section>
+        </div>
+       </ScrollArea>
       </div>
      </Dialog.Content>
     </Dialog.Root>
    </span>
   </div>
   <div class=" w-[15vw] h-auto rounded-xl">
-   <img src="/sw8.jpg" alt="" class=" rounded-xl" />
-   <span class="flex justify-center py-2">
-    <Button
-     variant="outline"
-     href="/breakfast"
-     class=" text-secondary-foreground text-xs  w-[18vw] h-7 lg:h-fit "
-    >
-     ايسكريم التوت
-    </Button>
-   </span>
-  </div>
-  <div class=" w-[15vw] h-auto rounded-xl">
-   <img src="/sw9.jpg" alt="" class=" rounded-xl" />
-   <span class="flex justify-center py-2">
-    <Button
-     variant="outline"
-     href="/breakfast"
-     class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-    >
-     حلى الجيلي
-    </Button>
-   </span>
-  </div>
-  <div class=" w-[15vw] h-auto rounded-xl">
-   <img src="/sw10.jpg" alt="" class=" rounded-xl" />
-   <span class="flex justify-center py-2">
-    <Button
-     variant="outline"
-     href="/breakfast"
-     class=" text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
-    >
-     لافا كيك
-    </Button>
-   </span>
-  </div>
-  <div class=" w-[15vw] h-auto rounded-xl">
    <img src="/sw11.jpg" alt="" class=" rounded-xl" />
-   <span class="flex justify-center py-2">
-    <Button
-     variant="outline"
-     href="/breakfast"
-     class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-    >
-     سينابون بانكيك
-    </Button>
+   <span class="flex justify-center py-2 pr-2">
+    <Dialog.Root>
+     <Dialog.Trigger
+      class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants({
+       variant: 'outline',
+      })}">بانكيك السينابون</Dialog.Trigger
+     >
+     <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+      <Dialog.Header class="">
+       <Dialog.Title class="flex justify-center text-secondary-foreground"
+        >بانكيك السينابون
+       </Dialog.Title>
+      </Dialog.Header>
+      <div class="flex justify-center items-center">
+       <ScrollArea
+        class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+       >
+        <div class="  text-sm">
+         <section>
+          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+          <ul>
+           <li>- 50 جم بيضة.</li>
+           <li>- 60 جم زبادي يوناني (أو أي نوع متوفر، حتى لو سائل).</li>
+           <li>- 40 جم دقيق أبيض أو شوفان مطحون.</li>
+           <li>- 3 جم باكينج باودر.</li>
+           <li>
+            - 25 جم بروتين باودر شوكولاتة بيضاء (اختياري) = 99 سعرة حرارية.
+           </li>
+           <li>- 10 جم جبن فيلادلفيا لايت.</li>
+           <li>- 10 مل ميبل سيرب أو عسل.</li>
+          </ul>
+         </section>
+
+         <section>
+          <h2 class="text-secondary-foreground py-2">الطريقة:</h2>
+          <ul>
+           <li>
+            1. اخلط البيضة، الزبادي اليوناني، ومحلي الفانيلا أو سكر ستيفيا مع
+            الفانيليا حتى تمتزج المكونات جيدًا.
+           </li>
+           <li>
+            2. أضف المكونات الجافة (الدقيق، الباكينج باودر، وبروتين البودرة) إلى
+            الخليط، ثم أضف ملعقتين كبيرتين من الماء إذا لزم الأمر. اترك الخليط
+            لمدة 10 دقائق.
+           </li>
+          </ul>
+         </section>
+         <section class="py-2">
+          <h2 class=" text-secondary-foreground py-2">3. لتحضير الصوص:</h2>
+          <p>
+           - اخلط القرفة مع ميبل سيرب وظرف سكر ستيفيا. استخدم كيس حلواني لتشكيل
+           الصوص بشكل حلزوني.
+          </p>
+          <p></p>
+          <h2 class=" text-secondary-foreground py-2">
+           4. لتحضير الصوص الأبيض (اختياري):
+          </h2>
+          <p>
+           - اخلط جبن فيلادلفيا لايت مع ماء وسكر ستيفيا حتى تحصل على القوام
+           المناسب.
+          </p>
+         </section>
+         <section class="py-2">
+          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <p>- 379 سعرة حرارية.</p>
+         </section>
+        </div>
+       </ScrollArea>
+      </div>
+     </Dialog.Content>
+    </Dialog.Root>
    </span>
   </div>
   <div class=" w-[15vw] h-auto rounded-xl">
    <img src="/sw12.jpg" alt="" class=" rounded-xl" />
-   <span class="flex justify-center py-2">
-    <Button
-     variant="outline"
-     href="/breakfast"
-     class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-    >
-     كيكة كندر
-    </Button>
+   <span class="flex justify-center py-2 pr-2">
+    <Dialog.Root>
+     <Dialog.Trigger
+      class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants({
+       variant: 'outline',
+      })}">كيكة الكندر</Dialog.Trigger
+     >
+     <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+      <Dialog.Header class="">
+       <Dialog.Title class="flex justify-center text-secondary-foreground"
+        >كيكة الكندر
+       </Dialog.Title>
+      </Dialog.Header>
+      <div class="flex justify-center items-center">
+       <ScrollArea
+        class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+       >
+        <div class="  text-sm">
+         <section>
+          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+          <ul>
+           <li>- شوفان مطحون: 30 جرام</li>
+           <li></li>
+           <li>- باكينج باودر: 4 جرام (ملعقتين كبيرتين)</li>
+           <li>- زبادي يوناني خالي الدسم: 25 جرام (نصف ملعقة صغيرة)</li>
+           <li>- كاكاو بودرة: 5 جرام (ملعقة كبيرة)</li>
+           <li>- سكر ستيفيا أو أي سكر دايت: ظرفين</li>
+           <li>- قهوة: 50 مل</li>
+           <li>- كندر: 21 جرام</li>
+          </ul>
+         </section>
+
+         <section>
+          <h2 class="text-secondary-foreground py-2">الطريقة:</h2>
+          <ul>
+           <li>
+            1. اخلط الشوفان المطحون، باكينج باودر، الزبادي، كاكاو بودرة، سكر ستيفيا، والقهوة في وعاء حتى تتجانس المكونات.
+           </li>
+           <li>
+            2. صب الخليط في قوالب مخصصة للقلاية الهوائية.
+           </li>
+           <li>3. سخن القلاية الهوائية مسبقاً، ثم ضع القوالب داخلها.
+           </li>
+           <li>4. اطبخ على درجة حرارة 180 مئوية لمدة 10 دقائق.</li>
+           <li>5. بعد انتهاء الطهي، أضف الكندر المقطّع إلى الأعلى، ثم قدمه.
+           </li>
+          </ul>
+         </section>
+         <section class="py-2">
+          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <p>- 266  سعرة حرارية.</p>
+         </section>
+        </div>
+       </ScrollArea>
+      </div>
+     </Dialog.Content>
+    </Dialog.Root>
    </span>
   </div>
   <div class=" w-[15vw] h-auto rounded-xl">
    <img src="/sw14.jpg" alt="" class=" rounded-xl" />
-   <span class="flex justify-center py-2">
-    <Button
-     variant="outline"
-     href="/breakfast"
-     class=" text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit ring"
-    >
-     كيكة ليمون و توت
-    </Button>
+   <span class="flex justify-center py-2 pr-2">
+    <Dialog.Root>
+     <Dialog.Trigger
+      class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants({
+       variant: 'outline',
+      })}">كيكة ليمون بالتوت</Dialog.Trigger
+     >
+     <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+      <Dialog.Header class="">
+       <Dialog.Title class="flex justify-center text-secondary-foreground"
+        >كيكة ليمون بالتوت
+       </Dialog.Title>
+      </Dialog.Header>
+      <div class="flex justify-center items-center">
+       <ScrollArea
+        class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+       >
+        <div class="  text-sm">
+         <section>
+          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+          <ul>
+           <li>- 10 جم بروتين فانيلا (اختياري).</li>
+           <li>
+            - 150 جم زبادي يوناني خال الدسم.           </li>
+           <li>
+            - توت مشكل.
+           </li>
+           <li>- بيضة.</li>
+           <li>- ملعقة صغيرة باكينج باودر.
+           </li>
+           <li>
+            - عصرة ليمون.           </li>
+           <li>- 40 جم دقيق أبيض.</li>
+           <li>- 6 جم بسكوت بدون سكر.</li>
+           <li>- ظرف سكر ستيفيا.</li>
+          </ul>
+         </section>
+
+         <section>
+          <h2 class="text-secondary-foreground py-2">الطريقة:</h2>
+          <ul>
+           <li>
+            1. في وعاء، اخلط الزبادي، البيضة، وسكر ستيفيا.
+           </li>
+           <li>
+            2. قسم الخليط إلى قسمين:
+           </li>
+           <li>   - اخلط القسم الأول مع البروتين الفانيلا (إذا كنت تستخدمه)، الدقيق، الباكينج باودر، وعصرة الليمون. صب الخليط في الصينية.</li>
+           <li>   - اخلط القسم الثاني مع التوت المشكل، ثم اسكبه فوق الخليط الأول في الصينية.</li>
+          </ul>
+         </section>
+         <section class="py-2">
+          <h2 class=" text-secondary-foreground py-2">الصينية</h2>
+          <p>
+           3. رش البسكوت بدون سكر على السطح.
+          </p>
+          <p>4. اخبز الخليط في فرن مُسخن مسبقًا على حرارة 180 درجة مئوية حتى ينضج (من الأعلى والأسفل).</p>
+          
+         </section>
+         <section class="py-2">
+          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <p>- 384  سعرة حرارية.</p>
+         </section>
+        </div>
+       </ScrollArea>
+      </div>
+     </Dialog.Content>
+    </Dialog.Root>
    </span>
   </div>
  </div>

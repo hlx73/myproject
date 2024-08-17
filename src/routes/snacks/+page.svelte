@@ -81,17 +81,6 @@
         </Button>
       </span>
     </div>
-    <div class=" w-[20vw] h-auto rounded-xl col-end-3">
-      <img src="/ss.jpg" alt="" class=" rounded-xl flex justify-cente" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
-        >
-          سناك بارد
-        </Button>
-      </span>
-    </div>
+    
   </div>
 </div>
