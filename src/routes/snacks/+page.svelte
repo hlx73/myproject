@@ -77,7 +77,7 @@
           href="/breakfast"
           class="  text-secondary-foreground text-xs w-[20vw] h-7 lg:h-fit "
         >
-          فراولة و شوكلاتة
+          فراولة و شوكولاتة
         </Button>
       </span>
     </div>
