@@ -18,7 +18,7 @@
               { variant: 'outline' },
             )}">سكرمبل الشوفان</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh] lg-w-[90vw] lg:h-fit bg-secondary shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center text-secondary-foreground"

@@ -1,7 +1,9 @@
-<script>
+<script lang="ts">
   import { buttonVariants } from "$lib/components/ui/button";
   import Button from "$lib/components/ui/button/button.svelte";
   import * as Dialog from "$lib/components/ui/dialog";
+  import { ScrollArea } from "$lib/components/ui/scroll-area/index.js";
+
 </script>
 
 <div class="flex flex-col items-center pb-20">
@@ -26,6 +28,8 @@
                 >بودينج الشوكولاتة
               </Dialog.Title>
             </Dialog.Header>
+            <div class="flex justify-center items-center">
+            <ScrollArea class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4">
             <div class=" lg:text-sm text-xs">
               <section>
                 <h2 class="text-secondary-foreground py-1">المكونات:</h2>
@@ -88,6 +92,8 @@
                 <p>-388 سعرة حرارية</p>
               </section>
             </div>
+          </ScrollArea>
+        </div>
           </Dialog.Content>
         </Dialog.Root>
       </span>

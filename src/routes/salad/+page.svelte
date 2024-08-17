@@ -1,7 +1,8 @@
-<script>
+<script lang="ts">
   import { buttonVariants } from "$lib/components/ui/button";
   import Button from "$lib/components/ui/button/button.svelte";
   import * as Dialog from "$lib/components/ui/dialog";
+  import { ScrollArea } from "$lib/components/ui/scroll-area/index.js";
 </script>
 
 <div class="flex flex-col items-center pb-20">
@@ -350,10 +351,94 @@
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/l6.jpg" alt="" class=" rounded-xl" />
+      <span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              { variant: 'outline' },
+            )}">سلطة آسيوية</Dialog.Trigger
+          >
+          <Dialog.Content
+            class=" w-[70vw] h-[90vh] lg:h-[90vh]  bg-secondary shadow-md"
+          >
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                >سلطة آسيوية
+              </Dialog.Title>
+            </Dialog.Header>
+            <div class="flex justify-center items-center">
+              <ScrollArea
+                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+              >
+                <div class=" lg:text-sm text-xs">
+                  <section>
+                    <h2 class="text-secondary-foreground pb-1">المكونات:</h2>
+                    <ul>
+                      <li>- 45 جم كينوا.</li>
+                      <li>- أوراق كيل (سعراتها شبه معدومة، لا تحسب).</li>
+                      <li>- 210 جم قرع (مقطع مكعبات).</li>
+                      <li>- 36 جم إدامامي (مجمد ومقشر).</li>
+                      <li>- 1 جم بودرة فول سوداني.</li>
+                      <li>- 3 جم زبدة فول سوداني.</li>
+                      <li>- 3 جم ثوم (مفروم).</li>
+                      <li>- 3 جم عسل.</li>
+                      <li>- خردل (حسب الرغبة، لا تحسب سعراته).</li>
+                    </ul>
+                  </section>
+                  <section class="pb-2">
+                    <h2 class=" text-secondary-foreground py-1">للصوص:</h2>
+                    <ol class="">
+                      <li>- 3 جم زبدة فول سوداني.</li>
+                      <li>- 1 جم بودرة فول سوداني.</li>
+                      <li>- عصير ليمون.</li>
+                      <li>- خردل.</li>
+                      <li>- ثوم مهروس.</li>
+                      <li>- ظرف ستيفيا.</li>
+                      <li>- عسل.</li>
+                      <li>- ملح.</li>
+                    </ol>
+                  </section>
+                  <section class="pb-2">
+                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <ol class="">
+                      <li>
+                        1. قطّع أوراق الكيل، اغسلها جيدًا، ثم أضف إليها نصف
+                        ليمون وامزجها لمدة دقيقتين. إذا تفضل زيت الزيتون، يمكنك
+                        استبدال الليمون به وحسابه ضمن احتياجك.
+                      </li>
+                      <li>2. سلُق الكينوا حتى تنضج.</li>
+                      <li>
+                        3. قطع القرع إلى مكعبات، واطبخه في القلاية الهوائية على
+                        درجة حرارة 200 مئوية لمدة 15 دقيقة، مع التحقق من استوائه
+                        كل فترة.
+                      </li>
+                      <li>
+                        4. أذب زبدة الفول السوداني، ثم أضف بودرة فول السوداني،
+                        عصير الليمون، خردل، الثوم المهروس، ستيفيا، العسل،
+                        والملح. اخلط جيدًا.
+                      </li>
+                      <li>
+                        5. اخلط الكينوا، القرع، الإدامامي، وأوراق الكيل، ثم أضف
+                        الصوص فوق الخليط وامزج جيدًا.
+                      </li>
+                    </ol>
+                  </section>
+                  <section class="py-2">
+                    <h2 class="text-secondary-foreground py-1">
+                      السعرات الحرارية:
+                    </h2>
+                    <p>- 333 سعرة حرارية.</p>
+                  </section>
+                </div>
+              </ScrollArea>
+            </div>
+          </Dialog.Content>
+        </Dialog.Root>
+      </span>
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/l7.jpg" alt="" class=" rounded-xl" />
-
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
@@ -370,53 +455,66 @@
                 >سلطة البروكلي
               </Dialog.Title>
             </Dialog.Header>
-            <div class=" lg:text-sm text-xs">
-              <section>
-                <h2 class="text-secondary-foreground pb-1">المكونات:</h2>
-                <ul>
-                  <li>- رأس بروكلي.</li>
-                  <li>- رأس خس.</li>
-                  <li>- نصف كوب ذرة.</li>
-                  <li>- 2 صدر دجاج مسحب.</li>
-                </ul>
-              </section>
-              <section class="pb-2">
-                <h2 class=" text-secondary-foreground py-1">للصوص:</h2>
-                <ol class="">
-                  <li>- حبة أفوكادو.</li>
-                  <li>- عصير ليمونة.</li>
-                  <li>- ملعقتين كبار روب يوناني.</li>
-                  <li>- مغلف بهارات رانش (من مركز سلطان).</li>
-                  <li>- حفنة كزبرة طازجة.</li>
-                  <li>- ملعقة كبيرة خل أبيض.</li>
-                  <li>- ملح وفلفل أسود.</li>
-                </ol>
-              </section>
-              <section class="pb-2">
-                <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
-                <ol class="">
-                  <li>
-                    1. اطبخ صدور الدجاج حتى تنضج، ثم قطعها إلى قطع صغيرة.
-                  </li>
-                  <li>
-                    2. اغسل البروكلي جيدًا وقطّعه إلى زهرات صغيرة، ثم اسلقه أو بخّره حتى ينضج.                  </li>
-                  <li>
-                    3. اغسل الخس وقطّعه.
-                  </li>
-                  <li>4. في وعاء كبير، امزج البروكلي، الخس، الذرة، وقطع الدجاج.
-                  </li>
-                  <li>5. لتحضير الصوص، اخلط الأفوكادو، عصير الليمون، الروب اليوناني، بهارات الرانش، الكزبرة، الخل، الملح، والفلفل الأسود في الخلاط حتى يصبح ناعمًا.
-                  </li>
-                  <li>6. أضف الصوص إلى السلطة وامزج جيدًا.
-                  </li>
-                </ol>
-              </section>
-              <section class="py-2">
-                <h2 class="text-secondary-foreground py-1">
-                  السعرات الحرارية:
-                </h2>
-                <p>- تم تقسيم الكمية إلى قسمين، وكل قسم يحتوي على 325 سعرة حرارية.</p>
-              </section>
+            <div class="flex justify-center items-center">
+              <ScrollArea
+                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+              >
+                <div class=" lg:text-sm text-xs">
+                  <section>
+                    <h2 class="text-secondary-foreground pb-1">المكونات:</h2>
+                    <ul>
+                      <li>- رأس بروكلي.</li>
+                      <li>- رأس خس.</li>
+                      <li>- نصف كوب ذرة.</li>
+                      <li>- 2 صدر دجاج مسحب.</li>
+                    </ul>
+                  </section>
+                  <section class="pb-2">
+                    <h2 class=" text-secondary-foreground py-1">للصوص:</h2>
+                    <ol class="">
+                      <li>- حبة أفوكادو.</li>
+                      <li>- عصير ليمونة.</li>
+                      <li>- ملعقتين كبار روب يوناني.</li>
+                      <li>- مغلف بهارات رانش (من مركز سلطان).</li>
+                      <li>- حفنة كزبرة طازجة.</li>
+                      <li>- ملعقة كبيرة خل أبيض.</li>
+                      <li>- ملح وفلفل أسود.</li>
+                    </ol>
+                  </section>
+                  <section class="pb-2">
+                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <ol class="">
+                      <li>
+                        1. اطبخ صدور الدجاج حتى تنضج، ثم قطعها إلى قطع صغيرة.
+                      </li>
+                      <li>
+                        2. اغسل البروكلي جيدًا وقطّعه إلى زهرات صغيرة، ثم اسلقه
+                        أو بخّره حتى ينضج.
+                      </li>
+                      <li>3. اغسل الخس وقطّعه.</li>
+                      <li>
+                        4. في وعاء كبير، امزج البروكلي، الخس، الذرة، وقطع
+                        الدجاج.
+                      </li>
+                      <li>
+                        5. لتحضير الصوص، اخلط الأفوكادو، عصير الليمون، الروب
+                        اليوناني، بهارات الرانش، الكزبرة، الخل، الملح، والفلفل
+                        الأسود في الخلاط حتى يصبح ناعمًا.
+                      </li>
+                      <li>6. أضف الصوص إلى السلطة وامزج جيدًا.</li>
+                    </ol>
+                  </section>
+                  <section class="py-2">
+                    <h2 class="text-secondary-foreground py-1">
+                      السعرات الحرارية:
+                    </h2>
+                    <p>
+                      - تم تقسيم الكمية إلى قسمين، وكل قسم يحتوي على 325 سعرة
+                      حرارية.
+                    </p>
+                  </section>
+                </div>
+              </ScrollArea>
             </div>
           </Dialog.Content>
         </Dialog.Root>
@@ -424,14 +522,82 @@
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/l8.jpg" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-        >
-          سلطة كينوا
-        </Button>
+
+      <span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              { variant: 'outline' },
+            )}">سلطة كينوا</Dialog.Trigger
+          >
+          <Dialog.Content
+            class=" w-[70vw] h-[90vh] lg:h-[90vh]  bg-secondary shadow-md"
+          >
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                >سلطة كينوا
+              </Dialog.Title>
+            </Dialog.Header>
+            <div class="flex justify-center items-center">
+              <ScrollArea
+                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+              >
+                <div class=" lg:text-sm text-xs">
+                  <section>
+                    <h2 class="text-secondary-foreground pb-1">المكونات:</h2>
+                    <ul>
+                      <li>- كينوا مطبوخة.</li>
+                      <li>- خس (مقطع)</li>
+                      <li>- خيار (مقطع).</li>
+                      <li>- فلفل رومي أحمر (مقطع).</li>
+                      <li>
+                        - حمص محمص بالفرن (جاهز، مُضاف له بهارات ملح، فلفل أسود،
+                        بابريكا، ومحمص في الفرن حتى يصبح مقرمش).
+                      </li>
+                    </ul>
+                  </section>
+                  <section class="pb-2">
+                    <h2 class=" text-secondary-foreground py-1">للصوص:</h2>
+                    <ol class="">
+                      <li>- زبادي (مخفف بماء).</li>
+                      <li>- ملح.</li>
+                      <li>- شوية طحينة سائلة.</li>
+                    </ol>
+                  </section>
+                  <section class="pb-2">
+                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <ol class="">
+                      <li>
+                        1. امزج الكينوا المطبوخة مع الخس المفروم، الخيار المقطع،
+                        والفلفل الرومي.
+                      </li>
+                      <li>2. أضف الحمص المحمص إلى الخليط.</li>
+                      <li>
+                        3. لتحضير الصوص، اخلط الزبادي مع الماء والملح، ثم أضف
+                        الطحينة السائلة واخلط جيدًا.
+                      </li>
+                      <li>4. أضف الصوص إلى السلطة وامزج جيدًا.</li>
+                    </ol>
+                  </section>
+                  <section class="py-2">
+                    <h2 class="text-secondary-foreground py-1">
+                      ملاحظة:
+                    </h2>
+                    <p>يمكن إضافة قطع دجاج مشوية لزيادة كمية البروتين وتعزيز الشبع.</p>
+                  <section/>
+                  </section>
+                  <section class="py-2">
+                    <h2 class="text-secondary-foreground py-1">
+                      السعرات الحرارية:
+                    </h2>
+                    <p>- 333 سعرة حرارية.</p>
+                  </section>
+                </div>
+              </ScrollArea>
+            </div>
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
     </div>
   </div>
