@@ -27,7 +27,7 @@
             </Dialog.Header>
             <div class=" lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground">المكونات:</h2>
+                <h2 class="text-secondary-foreground py-1">المكونات:</h2>
                 <ul>
                   <li>- 30 جم شوفان (أو 4 ملاعق).</li>
                   <li>- 180 جم زبادي يوناني (أو 4 ملاعق كبيرة ممتلئة).</li>
@@ -43,8 +43,8 @@
                   </li>
                 </ul>
               </section>
-              <section class="py-2">
-                <h2 class=" text-secondary-foreground">الطريقة:</h2>
+              <section class="py-3">
+                <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
                 <ol class="">
                   <li>1.
                     في وعاء، اخلط البيض، الشوفان، 30 جم من الزبادي اليوناني،
@@ -63,7 +63,7 @@
                 </ol>
               </section>
               <section class="py-4">
-                <h2 class="text-secondary-foreground">السعرات الحرارية:</h2>
+                <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
                 <p>-388 سعرة حرارية</p>
               </section>
             </div>
