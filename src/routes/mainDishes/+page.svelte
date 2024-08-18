@@ -1042,14 +1042,106 @@
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/m12.jpg" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-        >
-          معكرونة بالصلصة
-        </Button>
+      <span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              {
+                variant: 'outline',
+              },
+            )}"
+            >معكرونة بالصلصة
+          </Dialog.Trigger>
+          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                >معكرونة بالصلصة
+              </Dialog.Title>
+            </Dialog.Header>
+            <div class="flex justify-center items-center">
+              <ScrollArea
+                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+              >
+                <div class=" text-sm">
+                  <section>
+                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <ul>
+                      <li>- صدر دجاج: 137 جرام</li>
+                      <li>- بصل أحمر: 23 جرام</li>
+                      <li>- بروكلي: 54 جرام</li>
+                      <li>- بروكلي: 54 جرام</li>
+                      <li>- فلفل رومي: 30 جرام</li>
+                      <li>- صلصة طماطم: 25 جرام (مخففة بـ 40 مل ماء)</li>
+                      <li>- لبن سائل قليل الدسم: 50 مل</li>
+                      <li>- مكرونة بالدقيق الأسمر أو مكرونة قليلة الكربوهيدرات</li>
+                     </ul>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">
+                      البهارات:                    </h2>
+                    <ol class="">
+                      <li>- ملح</li>
+                      <li>- فلفل أسود وأبيض</li>
+                      <li>- بودرة بصل وثوم</li>
+                      <li>- بابريكا</li>
+                      <li>- بهارات إيطالية</li>
+                      </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">
+                      الطريقة:                    </h2>
+                      <h2 class=" text-secondary-foreground py-1">
+                        1. تحضير الدجاج:</h2>
+                    <ol class="">
+                      <li>   - قطّع صدر الدجاج إلى قطع صغيرة.
+                      </li>
+                      <li>   - في مقلاة، اقلي الدجاج حتى ينضج ويأخذ لوناً ذهبياً. أضف البصل الأحمر، الفلفل الرومي، والبروكلي واستمر في الطهي حتى تنضج الخضروات.</li>
+                    </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">
+                      2. إعداد الصلصة:                    </h2>
+                    <ol class="">
+                      <li>   - أضف صلصة الطماطم المخففة بالماء إلى المقلاة.</li>
+                      <li>   - أضف البهارات: الملح، الفلفل الأسود والأبيض، بودرة البصل والثوم، البابريكا، والبهارات الإيطالية. اترك الصلصة تغلي حتى تتكاثف وتصبح القوام المطلوب.</li>
+                    </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">3. إعداد المكرونة:</h2>
+                    <ol class="">
+                      <li>   - اطبخ المكرونة حسب التعليمات على العبوة. صفيها وأضفها إلى المقلاة مع الدجاج والخضار. اخلط جيداً حتى تمتزج المكونات.
+                      </li> 
+                    </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">4. إضافة اللبن:</h2>
+                    <ol class="">
+                      <li>   - أضف اللبن السائل إلى المقلاة واتركه ليدفأ مع التحريك. </li> 
+                    </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">التقديم:</h2>
+                  <p>- قدم الطبق ساخناً واستمتع به.
+                  </p>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">نصائح</h2>
+                  <p>
+                    - يمكنك إضافة خضروات أخرى حسب الرغبة مثل الجزر أو الكوسا.                  </p>
+                    <p>- يمكن استبدال اللبن بالكريمة قليلة الدسم إذا رغبت في إضافة قوام كريمي أكثر.</p>
+                  </section>
+                  <section class="py-4">
+                    <h2 class="text-secondary-foreground py-1">
+                      السعرات الحرارية:
+                    </h2>
+                    <p>-432  سعرة حرارية</p>
+                  </section>
+                </div>
+              </ScrollArea>
+            </div>
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
     </div>
   </div>
