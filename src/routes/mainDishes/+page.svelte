@@ -302,56 +302,42 @@
                   <section>
                     <h2 class="text-secondary-foreground pb-1">المكونات:</h2>
                     <ul>
-                      <li>
-                        - بصل: حبة صغيرة (36 جرام)
-                      </li>
-                      <li>
-                        - فلفل رومي: حبة وسط (80 جرام)                      </li>
-                      <li>
-                        - صدور دجاج: 217 جرام (صدرين)                      </li>
-                      <li>
-                        - زبادي سائل يوناني: نصف كوب تقريباً (100 جرام)
-
-                      </li>
-                      <li>
-                        - موزاريلا: ملعقة (15 جرام)                      </li>
+                      <li>- بصل: حبة صغيرة (36 جرام)</li>
+                      <li>- فلفل رومي: حبة وسط (80 جرام)</li>
+                      <li>- صدور دجاج: 217 جرام (صدرين)</li>
+                      <li>- زبادي سائل يوناني: نصف كوب تقريباً (100 جرام)</li>
+                      <li>- موزاريلا: ملعقة (15 جرام)</li>
                       <li>- سبرنج رول: 4 حبات</li>
-                       </ul>
+                    </ul>
                   </section>
                   <section class="pt-2">
                     <h2 class=" text-secondary-foreground pb-1">الطريقة:</h2>
-                    <h2 class=" text-secondary-foreground">
-                      1. تحضير الحشوة:                    </h2>
+                    <h2 class=" text-secondary-foreground">1. تحضير الحشوة:</h2>
                     <ol class="">
-                      <li>   - سخن الصاج وأضف الدجاج، البصل، والفلفل الرومي.</li>
-                      <li>   - أضف البهارات (ملح، فلفل أسود، بابريكا، بهارات إيطالية) واطبخ حتى ينضج الدجاج ويذبل البصل والفلفل.</li>
-                      <li class="pt-2 text-secondary-foreground">
-                        2. تجهيز السبرنج رول:                      </li>
+                      <li>- سخن الصاج وأضف الدجاج، البصل، والفلفل الرومي.</li>
                       <li>
-                        - افرد السبرنج رول واملأه بالحشوة.
-                      </li>
-                      <li>   - رشّ الموزاريلا فوق الحشوة ولفّ السبرنج رول.
+                        - أضف البهارات (ملح، فلفل أسود، بابريكا، بهارات إيطالية)
+                        واطبخ حتى ينضج الدجاج ويذبل البصل والفلفل.
                       </li>
                       <li class="pt-2 text-secondary-foreground">
-                        3. الخبز:                      </li>
-                      <li>
-                        - رصّ السبرنج رول المحشو في صينية خبز.
+                        2. تجهيز السبرنج رول:
                       </li>
+                      <li>- افرد السبرنج رول واملأه بالحشوة.</li>
+                      <li>- رشّ الموزاريلا فوق الحشوة ولفّ السبرنج رول.</li>
+                      <li class="pt-2 text-secondary-foreground">3. الخبز:</li>
+                      <li>- رصّ السبرنج رول المحشو في صينية خبز.</li>
+                      <li>- صبّ الزبادي فوق السبرنج رول.</li>
                       <li>
-                        - صبّ الزبادي فوق السبرنج رول.
-
+                        - اخبز في فرن مسبق التسخين على درجة حرارة 180 مئوية من
+                        فوق ومن تحت لمدة 7 دقائق.
                       </li>
-                      <li>
-                        - اخبز في فرن مسبق التسخين على درجة حرارة 180 مئوية من فوق ومن تحت لمدة 7 دقائق.
-                      </li>
-                      
                     </ol>
                   </section>
 
                   <h2 class="text-secondary-foreground pb-1">
                     السعرات الحرارية:
                   </h2>
-                  <p>-377  سعرة حرارية</p>
+                  <p>-377 سعرة حرارية</p>
                 </div>
               </ScrollArea>
             </div>
@@ -361,50 +347,384 @@
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/m5.jpg" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-        >
-          زنجر
-        </Button>
+      <span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              {
+                variant: 'outline',
+              },
+            )}"
+            >زنجر
+          </Dialog.Trigger>
+          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                >زنجر
+              </Dialog.Title>
+            </Dialog.Header>
+            <div class="flex justify-center items-center">
+              <ScrollArea
+                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+              >
+                <div class=" text-sm">
+                  <section>
+                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <ul>
+                      <li>- صدر دجاج: 240 جرام</li>
+                      <li>- نصف بيضة: 25 جرام</li>
+                      <li>- كورنفلكس: 15 جرام</li>
+                      <li>- شريحة جبن قليلة الدسم: 19 جرام</li>
+                      <li>- صوص رانش خالي الدهون: 17 جرام</li>
+                      <li>- صوص فرنسي خالي الدهون: 17 جرام</li>
+                      <li>- مايونيز قليل السعرات: 17 جرام</li>
+                      <li>- بطاطس: حبة متوسطة إلى صغيرة (137 جرام)</li>
+                    </ul>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">
+                      طريقة التحضير:
+                    </h2>
+                    <h2 class=" text-secondary-foreground">1. تحضير البرجر:</h2>
+                    <ol class="">
+                      <li>- سخّن القلاية الهوائية أو الفرن مسبقاً.</li>
+                      <li>- اضغط صدر الدجاج ليصبح رقيقاً.</li>
+                      <li>
+                        - تبّل الدجاج بالملح، الفلفل الأسود، البابريكا، الفلفل
+                        الحار، وبودرة الثوم والبصل.
+                      </li>
+                      <li>
+                        - اغمس الدجاج في نصف البيضة ثم في الكورنفلكس المكسّر
+                        والمضاف إليه نفس البهارات.
+                      </li>
+                      <li>
+                        - اطبخ الدجاج في القلاية الهوائية على درجة حرارة 190
+                        مئوية لمدة 15 دقيقة، أو حتى ينضج.
+                      </li>
+                    </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">
+                      2. تحضير الصوص:
+                    </h2>
+                    <ol class="">
+                      <li>
+                        - امزج البابريكا الحارة، صوص رانش، صلصة فرنسية،
+                        والمايونيز قليل السعرات.
+                      </li>
+                    </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">
+                      3. تحضير البطاطس:
+                    </h2>
+                    <ol class="">
+                      <li>- قشر البطاطس وقطعها.</li>
+                      <li>- سلّق البطاطس في المايكروويف لمدة 4 دقائق.</li>
+                      <li>
+                        - ثم اطبخها في القلاية الهوائية على درجة حرارة 200 مئوية
+                        لمدة 14 دقيقة.
+                      </li>
+                    </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">4. التقديم:</h2>
+                    <ol class="">
+                      <li>
+                        - استخدم الخبز المفضل لديك، وضيف صوص، خس، الدجاج
+                        المقرمش، الجبن، وبقية الصوصات.
+                      </li>
+                    </ol>
+                  </section>
+                  <section class="py-4">
+                    <h2 class="text-secondary-foreground py-1">
+                      السعرات الحرارية:
+                    </h2>
+                    <p>-554  سعرة حرارية</p>
+                  </section>
+                </div>
+              </ScrollArea>
+            </div>
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/m6.jpg" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-        >
-          كلوب ديلوكس
-        </Button>
+      <span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              {
+                variant: 'outline',
+              },
+            )}"
+            >كلوب ديلوكس
+          </Dialog.Trigger>
+          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                >كلوب ديلوكس
+              </Dialog.Title>
+            </Dialog.Header>
+            <div class="flex justify-center items-center">
+              <ScrollArea
+                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+              >
+                <div class=" text-sm">
+                  <section>
+                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <ul>
+                      <li>- شريحة تورتيلا أسمر: 37 جرام (شركة يومي)</li>
+                      <li>- بياض بيضتين: 60 جرام</li>
+                      <li>- بيضة: 53 جرام</li>
+                      <li>- شرائح ديك رومي مدخن قليل الدسم: 65 جرام</li>
+                      <li>- ثلاث أرباع شريحة جبن قليلة الدسم: 12 جرام</li>
+                      <li>- ملعقة رانش خالية الدهون: 12 جرام</li>
+                      <li>- سيراشا: حوالي 5 جرام</li>
+                    </ul>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">
+                      طريقة البطاطس:                    </h2>
+                    <ol>
+                      <li>- ضع الشرائح في المايكروويف لمدة دقائق قليلة حتى تنضج جزئيًا.
+                      </li>
+                      <li>   - بهّر الشرائح بالملح، الفلفل الأسود، البابريكا المدخنة، البهارات الإيطالية، وبودرة الثوم.</li>
+                      <li>   - ضع الشرائح في القلاية الهوائية على درجة حرارة 200 مئوية لمدة 8 دقائق حتى تصبح مقرمشة. </li>
+                    </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">
+                      طريقة تحضير الوجبة:                    </h2>
+                      <h2 class=" text-secondary-foreground py-1">1.تحضير التورتيلا:</h2>
+                    <ol class="">
+                      <li>
+                        - ضع شريحة التورتيلا في مقلاة أو على صاج التسخين قليلاً.
+                      </li>
+                    </ol>
+                  </section>
+                  <section class="py-2">
+                    <h2 class=" text-secondary-foreground py-1">
+                      2.إعداد الحشوة:                    </h2>
+                    <ol class="">
+                      <li>   - في وعاء، اخلط بياض البيض والبيضة بالكامل، ثم اسكب الخليط على التورتيلا.</li>
+                      <li>   - أضف شرائح الديك الرومي المدخن فوق الخليط.</li>
+                      <li>   - رش الجبن قليلة الدسم فوق الخليط.</li>
+                    </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">3. الطهي:</h2>
+                    <ol class="">
+                      <li>
+                        - اطبخ الوجبة على نار هادئة حتى ينضج البيض ويذوب الجبن. </li>
+                    </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">4. التقديم:</h2>
+                    <ol class="">
+                      <li>
+                        - أضف ملعقة رانش خالية الدهون وسيراشا حسب الرغبة على الوجه.                      </li>
+                    </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">نصائح:</h2>
+                    <ol class="">
+                      <li>
+                        - يمكنك إضافة خضروات مثل الفلفل أو الطماطم إلى الحشوة للحصول على نكهة إضافية<li/></ol>
+                  </section>
+                  <section class="py-4">
+                    <h2 class="text-secondary-foreground py-1">
+                      السعرات الحرارية:
+                    </h2>
+                    <p>-389   سعرة حرارية</p>
+                  </section>
+                </div>
+              </ScrollArea>
+            </div>
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/m7.jpg" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-        >
-          صحن فاهيتا
-        </Button>
+<span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              {
+                variant: 'outline',
+              },
+            )}"
+            > صحن فاهيتا
+          </Dialog.Trigger>
+          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                > صحن فاهيتا
+              </Dialog.Title>
+            </Dialog.Header>
+            <div class="flex justify-center items-center">
+              <ScrollArea
+                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+              >
+                <div class=" text-sm">
+                  <section>
+                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <ul>
+                      <li>- صدرين دجاج (200 جرام)</li>
+                      <li>- فلفل رومي حبة صغيرة (70 جرام)</li>
+                      <li>- بصل أحمر حبة صغيرة (30 جرام)</li>
+                      <li>- خبز عربي أو تورتيلا (54 جرام، استخدمت خبز عربي عالي بالبروتين وقليل الكارب)</li>
+                      <li>- زبادي يوناني (50 جرام، ملعقتين كبيرة)</li>
+                      
+                    </ul>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">
+                      الطريقة:</h2>   
+                      <h2 class=" text-secondary-foreground py-1">
+                        1.تحضير الخبز: </h2>                 
+                      <ol>
+                      <li>
+                        - ضع الخبز في صحن عميق أو صينية (يفضل إذا لديك صينية) واضعه في القلاية الهوائية على درجة حرارة 200 مئوية لمدة 4 دقائق. يمكنك استخدام الفرن أيضًا. استخدم قصدير لتجنب انتفاخ الخبز.
+                      </li>
+                     </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">
+                      2.تحضير الدجاج: </h2>
+                    <ol class="">
+                      <li>
+                        - قطع الدجاج إلى مربعات وتبّله بالملح، الفلفل الأسود، البابريكا، البهارات الإيطالية، وبودرة الثوم.                      </li>
+                        <li>   - اطبخ الدجاج في القلاية الهوائية على درجة حرارة 200 مئوية لمدة 13 دقيقة.</li>
+                    </ol>
+                  </section>
+                  <section class="py-2">
+                    <h2 class=" text-secondary-foreground py-1">
+                      3.تحضير الخضروات:</h2>
+                    <ol class="">
+                      <li>   - ضع البصل والفلفل الرومي على صاج أو مقلاة حتى يذبلوا، ثم أضف الدجاج المطبوخ وأضف نفس البهارات المستخدمة بدون ملح.</li>
+                       </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">4. تحضير الصوص:</h2>
+                    <ol class="">
+                      <li>   - اخلط الزبادي اليوناني مع نفس البهارات المستخدمة، أضف الفلفل الأبيض والشبت المجفف حسب الذوق.</li></ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">5. التقديم:</h2>
+                    <ol class="">
+                      <li>
+                        - ضع طبقة من الخس أولاً، ثم أضف الدجاج والخضروات، وأخيرًا الصوص                 </ol>
+                  </section>
+                 
+                  <section class="py-4">
+                    <h2 class="text-secondary-foreground py-1">
+                      السعرات الحرارية:
+                    </h2>
+                    <p>441 سعرة حرارية</p>
+                  </section>
+                </div>
+              </ScrollArea>
+            </div>
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/m9.jpg" alt="" class=" rounded-xl" />
-      <span class="flex justify-center py-2">
-        <Button
-          variant="outline"
-          href="/breakfast"
-          class="  text-secondary-foreground text-xs w-[18vw] h-7 lg:h-fit "
-        >
-          صينية بطاطس
-        </Button>
+      <span class="flex justify-center py-2 pr-2">
+        <Dialog.Root>
+          <Dialog.Trigger
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+              {
+                variant: 'outline',
+              },
+            )}"
+            > صينية بطاطس
+          </Dialog.Trigger>
+          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+            <Dialog.Header class="">
+              <Dialog.Title
+                class="flex justify-center text-secondary-foreground"
+                > صينية بطاطس
+              </Dialog.Title>
+            </Dialog.Header>
+            <div class="flex justify-center items-center">
+              <ScrollArea
+                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+              >
+                <div class=" text-sm">
+                  <section>
+                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <ul>
+                      <li>- بطاطس: 280 جرام (حبتين متوسطة)</li>
+                      <li>- صدور دجاج: 260 جرام (صدرين كبيرين أو 3 صغار)</li>
+                      <li>- حليب قليل الدسم: 50 جرام (ربع كوب)</li>
+                      <li>
+                      - موزاريلا لايت: 33 جرام (ملعقتين كبيرتين)
+                      </li>
+                      <li>- كريمة طبخ: 100 جرام (ثلاثة أرباع الكوب) </li>
+                      <li>- بصل: 49 جرام (حبة صغيرة)</li>
+                      <li>- ثوم: 4 جرام (فص واحد كبير)</li>
+                      <li>- صلصة طماطم: 15 جرام</li>
+                    </ul>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">
+                      الطريقة:</h2>   
+                      <h2 class=" text-secondary-foreground py-1">
+                        1. تحضير الدجاج:</h2>          
+                      <ol>
+                      <li>
+                        - قطّع صدور الدجاج إلى قطع صغيرة.
+                      </li>
+                      <li>   - قم بطهي الدجاج في صاج مع بصل، فلفل رومي، ثوم، ومعجون طماطم.</li>
+                      <li>   - أضف بهارات: ملح، بابريكا، وفلفل أسود إلى الخليط واتركه ينضج.</li>
+                     </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">
+                      2. تحضير البطاطس:</h2>
+                    <ol class="">
+                      <li>   - قشّر البطاطس وقطعها إلى مكعبات صغيرة، ثم اغليها حتى تنضج.</li>
+                        <li>   - بعد النضج، هرّس البطاطس مع الحليب حتى تصبح ناعمة.
+                        </li>
+                    </ol>
+                  </section>
+                  <section class="py-2">
+                    <h2 class=" text-secondary-foreground py-1">
+                      3. تجميع الطبق:</h2>
+                    <ol class="">
+                      <li>   - ضع خليط الدجاج في صينية خبز.</li>
+                      <li>   - كوّر البطاطس المهروسة فوق خليط الدجاج.
+                      </li>
+                      <li>   - أضف الكريمة على الوجه وزد عليها 50 مل من الماء.</li>
+                      <li>   - رشّ الموزاريلا فوق الطبقة الأخيرة.
+                      </li>
+                       </ol>
+                  </section>
+                  <section class="py-3">
+                    <h2 class=" text-secondary-foreground py-1">4.الخبز:</h2>
+                    <ol class="">
+                      <li>   - ضع الصينية في الفرن على حرارة من الأعلى حتى تذوب الجبنة وتتحمر.</li></ol>
+                  </section>
+                 
+                  <section class="py-4">
+                    <h2 class="text-secondary-foreground py-1">
+                      السعرات الحرارية:
+                    </h2>
+                    <p>السعرات الحرارية للصينية كاملة: 817 سعرة حرارية</p>
+                  </section>
+                </div>
+              </ScrollArea>
+            </div>
+          </Dialog.Content>
+        </Dialog.Root>
       </span>
     </div>
     <div class=" w-[15vw] h-auto rounded-xl">
