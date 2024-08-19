@@ -7,10 +7,10 @@
 
 <div class="flex flex-col items-center pb-20">
   <div
-    class="lg:h-fit w-[80vw] bg-secondary shadow-[0_10px_60px_-15px_rgba(0,0,0,0.3)]
-     rounded-xl grid grid-cols-4 gap-5 p-4 px-2"
+    class=" w-[80vw] lg:w-[85vw]  lg:p-10 bg-gradient-to-r from-background/90 to-primary/50 shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)]  lg:h-fit  ring-1 ring-secondary
+     rounded-xl grid grid-cols-4 gap-5 p-4 "
   >
-    <div class=" w-[15vw] h-auto rounded-xl">
+    <div class=" w-[15vw]  h-auto rounded-xl">
       <img src="/b3.PNG" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
@@ -139,8 +139,8 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl">
-      <img src="/b4.JPG" alt="" class=" rounded-xl" />
+    <div class=" w-[15vw] h-auto  rounded-xl">
+      <img src="/b4.JPG" alt="" class=" rounded-xl " />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
