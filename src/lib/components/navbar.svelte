@@ -41,7 +41,7 @@
 
 
 <div
-    class=" bg-backround text-secondary-foreground py-8 pb-14 px-7 lg:px-25
+    class=" bg-backround text-secondary-foreground py-8 pb-14 px-7 lg:px-25 h-[25vh]
 "
 >
     <nav class="max-w-screen-2xl flex justify-between items-center mx-auto ">

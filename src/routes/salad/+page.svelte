@@ -7,7 +7,7 @@
 
 <div class="flex flex-col items-center pb-20">
   <div
-    class="lg:h-fit w-[80vw] bg-secondary shadow-[0_10px_60px_-15px_rgba(0,0,0,0.3)]
+    class="lg:h-fit w-[80vw]
      rounded-xl grid grid-cols-4 gap-5 p-4 px-2"
   >
     <div class=" w-[15vw] h-auto rounded-xl">
@@ -20,7 +20,7 @@
             )}">سلطة دجاج</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[95vh]  bg-secondary shadow-md"
+            class=" w-[70vw] h-[90vh] lg:h-[95vh]  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
