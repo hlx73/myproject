@@ -68,7 +68,7 @@
                     {#each links as link}
                         <Button
                             class="text-xl {$page.url.pathname == link.href &&
-                                'text-primary/50'}"
+                                'text-primary/50 dark:text-[#ffc9cf]'}"
                             href={link.href}
                             variant="link"
                             on:click={() => (isSheetOpen = false)}

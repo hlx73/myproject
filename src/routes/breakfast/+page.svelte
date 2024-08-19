@@ -20,11 +20,11 @@
             )}">سكرمبل الشوفان</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg-w-[90vw] lg:h-fit bg-secondary shadow-md"
+            class=" w-[70vw] h-[90vh] lg-w-[90vw] lg:h-fit  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >سكرمبل الشوفان
               </Dialog.Title>
             </Dialog.Header>

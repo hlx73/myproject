@@ -13,7 +13,7 @@
     --primary:325 100% 50%;
     --primary-foreground: 0 0% 100%;
     
-    --secondary:325 98% 83%
+    --secondary:325 98% 83%;
     ;
     --secondary-foreground: 0 0% 0%;
     
@@ -48,7 +48,7 @@
     --primary:325 100% 50%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary:0 0% 9%;
+    --secondary:325 100% 50%;
     --secondary-foreground:0 0% 100% ;
    
     --accent: 185, 93%, 83%;
