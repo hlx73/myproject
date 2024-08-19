@@ -113,7 +113,7 @@
 </div>
 <div class=" flex flex-col items-center pb-20">
   <div
-    class="  lg:h-fit w-auto  rounded-xl
+    class="bg-gradient-to-r from-background/90 to-primary/50 shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)]  lg:h-fit w-auto  rounded-xl ring-1 ring-secondary
       p-6 grid grid-cols-3 gap-8 gap-y-6 
      justify-items-center"
   >

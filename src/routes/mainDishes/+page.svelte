@@ -3,24 +3,20 @@
   import Button from "$lib/components/ui/button/button.svelte";
   import * as Dialog from "$lib/components/ui/dialog";
   import { ScrollArea } from "$lib/components/ui/scroll-area/index.js";
+  import Mybutton from "$lib/components/mybutton.svelte";
 </script>
 
 <div class="flex flex-col items-center pb-20">
   <div
-    class="lg:h-fit w-[80vw]  
+    class="lg:h-fit w-[80vw]  bg-gradient-to-r from-background/90 to-primary/50 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.7)]
      rounded-xl grid grid-cols-4 gap-5 p-4 px-2 "
   >
     <div class=" w-[15vw] h-auto rounded-xl">
       <img src="/m1.jpg" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
-          <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
-              {
-                variant: 'outline',
-              },
-            )}">ساندوتش روبيان</Dialog.Trigger
-          >
+          <Mybutton>
+          </Mybutton>
           <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
@@ -154,13 +150,9 @@
       <img src="/m2.jpg" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
-          <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
-              {
-                variant: 'outline',
-              },
-            )}">بيتزا خضار</Dialog.Trigger
-          >
+          <Mybutton>
+
+          </Mybutton>
           <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
@@ -310,13 +302,10 @@
       <img src="/m3.jpg" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
-          <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
-              {
-                variant: 'outline',
-              },
-            )}">فاهيتا الدجاج</Dialog.Trigger
-          >
+     <Mybutton>
+
+      </Mybutton>
+
           <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
@@ -460,13 +449,10 @@
       <img src="/m4.jpg" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
-          <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
-              {
-                variant: 'outline',
-              },
-            )}">سبرينغ رول</Dialog.Trigger
-          >
+          <Mybutton>
+
+          </Mybutton>
+          
           <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
