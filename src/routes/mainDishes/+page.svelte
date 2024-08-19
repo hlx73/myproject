@@ -15,12 +15,17 @@
       <img src="/m1.jpg" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
-          <Mybutton>
-          </Mybutton>
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Trigger
+            class="text-xs lg:w-[16vw] w-[18vw] lg:h-fit h-[5vh]  {buttonVariants(
+              {
+                variant: 'outline',
+              },
+            )}">ساندوتش روبيان
+            </Dialog.Trigger>
+          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center"
                 >ساندوتش روبيان
               </Dialog.Title>
             </Dialog.Header>
@@ -30,7 +35,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- 73 جرام خبز صامولي</li>
                       <li>- ملعقة صغيرة زيت زيتون</li>
@@ -43,8 +48,8 @@
                     </ul>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
-                    <h2 class=" text-secondary-foreground">
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold">
                       1. تحضير الروبيان:
                     </h2>
                     <ol class="">
@@ -63,7 +68,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       2. تحضير الصامولي:
                     </h2>
                     <ol class="">
@@ -74,7 +79,7 @@
                     </ol>
                   </section>
                   <section class="py-4">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية:
                     </h2>
                     <p>-371 سعرة حرارية</p>
@@ -150,13 +155,17 @@
       <img src="/m2.jpg" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
-          <Mybutton>
-
-          </Mybutton>
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Trigger
+            class="text-xs lg:w-[16vw] w-[18vw] lg:h-fit h-[5vh]  {buttonVariants(
+              {
+                variant: 'outline',
+              },
+            )}">بيتزا خضار
+            </Dialog.Trigger>
+          <Dialog.Content class=" w-[70vw] h-[90vh] shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >بيتزا خضار
               </Dialog.Title>
             </Dialog.Header>
@@ -166,7 +175,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>
                         - عجينة جاهزة (Deli Sun Pizza Base أو خبز تورتيلا): 252
@@ -189,20 +198,20 @@
                     </ul>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
-                    <h2 class="py-2 text-secondary-foreground">
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                    <h2 class="py-2 text-primary font-bold">
                       1. تحضير الدجاج:
                     </h2>
                     <ol class="">
                       <li>- شوي الدجاج في مقلاة حتى ينضج تماماً.</li>
-                      <li class="py-2 text-secondary-foreground">
+                      <li class="py-2 text-primary font-bold">
                         2. تحضير المكونات الأخرى:
                       </li>
                       <li>
                         - إذا كنت تستخدم سبانخ مجمد، ذوبه في المايكروويف أو قم
                         بإعداده مسبقاً.
                       </li>
-                      <li class="py-2 text-secondary-foreground">
+                      <li class="py-2 text-primary font-bold">
                         3. تجميع البيتزا:
                       </li>
                       <li>
@@ -219,7 +228,7 @@
                         - رش البهارات الإيطالية والجبن البارميزان (إذا كنت
                         تستخدمه) على الوجه.
                       </li>
-                      <li class="py-2 text-secondary-foreground">4. الخبز:</li>
+                      <li class="py-2 text-primary font-bold">4. الخبز:</li>
                       <li>
                         - أعد البيتزا إلى الفرن واخبزها على درجة حرارة 200 مئوية
                         حتى تذوب الجبنة وتصبح العجينة مقرمشة.
@@ -227,7 +236,7 @@
                     </ol>
                   </section>
 
-                  <h2 class="text-secondary-foreground py-1">
+                  <h2 class="text-primary font-bold py-1">
                     السعرات الحرارية:
                   </h2>
                   <p>-481 سعرة حرارية</p>
@@ -302,14 +311,17 @@
       <img src="/m3.jpg" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
-     <Mybutton>
-
-      </Mybutton>
-
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Trigger
+          class="text-xs lg:w-[16vw] w-[18vw] lg:h-fit h-[5vh]  {buttonVariants(
+            {
+              variant: 'outline',
+            },
+          )}">فاهيتا الدجاج
+          </Dialog.Trigger>
+          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >فاهيتا الدجاج
               </Dialog.Title>
             </Dialog.Header>
@@ -319,7 +331,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- صدري دجاج: 215 جرام</li>
                       <li>- فلفل رومي ملون: 160 جرام</li>
@@ -333,8 +345,8 @@
                     </ul>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
-                    <h2 class="pt-2 text-secondary-foreground">
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                    <h2 class="pt-2 text-primary font-bold">
                       1. تحضير الدجاج:
                     </h2>
                     <ol class="">
@@ -346,20 +358,20 @@
                         - أضف البهارات: فلفل أسود، ملح، بودرة ثوم وبصل،
                         وبابريكا.
                       </li>
-                      <li class="pt-2 text-secondary-foreground">
+                      <li class="pt-2 text-primary font-bold">
                         2. إضافة الزبادي:
                       </li>
                       <li>
                         - بعد نضج الدجاج وذبول البصل، أضف الزبادي اليوناني واترك
                         الخليط قليلاً على النار.
                       </li>
-                      <li class="pt-2 text-secondary-foreground">
+                      <li class="pt-2 text-primary font-bold">
                         3. تحضير التورتيلا:
                       </li>
                       <li>- ضع خليط الدجاج فوق التورتيلا.</li>
                       <li>- رشّ الموزاريلا على الوجه.</li>
 
-                      <li class="pt-2 text-secondary-foreground">
+                      <li class="pt-2 text-primary font-bold">
                         4. التحميص:
                       </li>
                       <li>
@@ -368,13 +380,13 @@
                     </ol>
                   </section>
 
-                  <h2 class="text-secondary-foreground pt-2">ملاحظات:</h2>
+                  <h2 class="text-primary font-bold pt-2">ملاحظات:</h2>
                   <p>
                     - يمكن استبدال التورتيلا بمكونات أخرى مثل الأرز، البطاطس
                     دجز، المهروسة، المكرونة، التوست، أو بف باستري، ويجب حساب
                     السعرات بناءً على المكون المستخدم.
                   </p>
-                  <h2 class="text-secondary-foreground pt-3">
+                  <h2 class="text-primary font-bold pt-3">
                     السعرات الحرارية:
                   </h2>
                   <p>-509 سعرة حرارية</p>
@@ -449,14 +461,18 @@
       <img src="/m4.jpg" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
-          <Mybutton>
-
-          </Mybutton>
+          <Dialog.Trigger
+            class="text-xs lg:w-[16vw] w-[18vw] lg:h-fit h-[5vh]  {buttonVariants(
+              {
+                variant: 'outline',
+              },
+            )}">سبرينغ رول
+            </Dialog.Trigger>
           
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >سبرينغ رول
               </Dialog.Title>
             </Dialog.Header>
@@ -466,7 +482,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground pb-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold pb-1">المكونات:</h2>
                     <ul>
                       <li>- بصل: حبة صغيرة (36 جرام)</li>
                       <li>- فلفل رومي: حبة وسط (80 جرام)</li>
@@ -477,20 +493,20 @@
                     </ul>
                   </section>
                   <section class="pt-2">
-                    <h2 class=" text-secondary-foreground pb-1">الطريقة:</h2>
-                    <h2 class=" text-secondary-foreground">1. تحضير الحشوة:</h2>
+                    <h2 class=" text-primary font-bold pb-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold">1. تحضير الحشوة:</h2>
                     <ol class="">
                       <li>- سخن الصاج وأضف الدجاج، البصل، والفلفل الرومي.</li>
                       <li>
                         - أضف البهارات (ملح، فلفل أسود، بابريكا، بهارات إيطالية)
                         واطبخ حتى ينضج الدجاج ويذبل البصل والفلفل.
                       </li>
-                      <li class="pt-2 text-secondary-foreground">
+                      <li class="pt-2 text-primary font-bold">
                         2. تجهيز السبرنج رول:
                       </li>
                       <li>- افرد السبرنج رول واملأه بالحشوة.</li>
                       <li>- رشّ الموزاريلا فوق الحشوة ولفّ السبرنج رول.</li>
-                      <li class="pt-2 text-secondary-foreground">3. الخبز:</li>
+                      <li class="pt-2 text-primary font-bold">3. الخبز:</li>
                       <li>- رصّ السبرنج رول المحشو في صينية خبز.</li>
                       <li>- صبّ الزبادي فوق السبرنج رول.</li>
                       <li>
@@ -500,7 +516,7 @@
                     </ol>
                   </section>
 
-                  <h2 class="text-secondary-foreground pb-1">
+                  <h2 class="text-primary font-bold pb-1">
                     السعرات الحرارية:
                   </h2>
                   <p>-377 سعرة حرارية</p>
@@ -583,10 +599,10 @@
             )}"
             >زنجر
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >زنجر
               </Dialog.Title>
             </Dialog.Header>
@@ -596,7 +612,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- صدر دجاج: 240 جرام</li>
                       <li>- نصف بيضة: 25 جرام</li>
@@ -609,10 +625,10 @@
                     </ul>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       طريقة التحضير:
                     </h2>
-                    <h2 class=" text-secondary-foreground">1. تحضير البرجر:</h2>
+                    <h2 class=" text-primary font-bold">1. تحضير البرجر:</h2>
                     <ol class="">
                       <li>- سخّن القلاية الهوائية أو الفرن مسبقاً.</li>
                       <li>- اضغط صدر الدجاج ليصبح رقيقاً.</li>
@@ -631,7 +647,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       2. تحضير الصوص:
                     </h2>
                     <ol class="">
@@ -642,7 +658,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       3. تحضير البطاطس:
                     </h2>
                     <ol class="">
@@ -655,7 +671,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">4. التقديم:</h2>
+                    <h2 class=" text-primary font-bold py-1">4. التقديم:</h2>
                     <ol class="">
                       <li>
                         - استخدم الخبز المفضل لديك، وضيف صوص، خس، الدجاج
@@ -664,7 +680,7 @@
                     </ol>
                   </section>
                   <section class="py-4">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية:
                     </h2>
                     <p>-554 سعرة حرارية</p>
@@ -748,10 +764,10 @@
             )}"
             >كلوب ديلوكس
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >كلوب ديلوكس
               </Dialog.Title>
             </Dialog.Header>
@@ -761,7 +777,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- شريحة تورتيلا أسمر: 37 جرام (شركة يومي)</li>
                       <li>- بياض بيضتين: 60 جرام</li>
@@ -773,7 +789,7 @@
                     </ul>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       طريقة البطاطس:
                     </h2>
                     <ol>
@@ -792,10 +808,10 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       طريقة تحضير الوجبة:
                     </h2>
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       1.تحضير التورتيلا:
                     </h2>
                     <ol class="">
@@ -805,7 +821,7 @@
                     </ol>
                   </section>
                   <section class="py-2">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       2.إعداد الحشوة:
                     </h2>
                     <ol class="">
@@ -818,7 +834,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">3. الطهي:</h2>
+                    <h2 class=" text-primary font-bold py-1">3. الطهي:</h2>
                     <ol class="">
                       <li>
                         - اطبخ الوجبة على نار هادئة حتى ينضج البيض ويذوب الجبن.
@@ -826,7 +842,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">4. التقديم:</h2>
+                    <h2 class=" text-primary font-bold py-1">4. التقديم:</h2>
                     <ol class="">
                       <li>
                         - أضف ملعقة رانش خالية الدهون وسيراشا حسب الرغبة على
@@ -835,7 +851,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">نصائح:</h2>
+                    <h2 class=" text-primary font-bold py-1">نصائح:</h2>
                     <ol class="">
                       <li>
                         - يمكنك إضافة خضروات مثل الفلفل أو الطماطم إلى الحشوة
@@ -845,7 +861,7 @@
                     </ol>
                   </section>
                   <section class="py-4">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية:
                     </h2>
                     <p>-389 سعرة حرارية</p>
@@ -930,10 +946,10 @@
           >
             صحن فاهيتا
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh] shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
               >
                 صحن فاهيتا
               </Dialog.Title>
@@ -944,7 +960,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- صدرين دجاج (200 جرام)</li>
                       <li>- فلفل رومي حبة صغيرة (70 جرام)</li>
@@ -957,8 +973,8 @@
                     </ul>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">
                       1.تحضير الخبز:
                     </h2>
                     <ol>
@@ -971,7 +987,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       2.تحضير الدجاج:
                     </h2>
                     <ol class="">
@@ -986,7 +1002,7 @@
                     </ol>
                   </section>
                   <section class="py-2">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       3.تحضير الخضروات:
                     </h2>
                     <ol class="">
@@ -998,7 +1014,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       4. تحضير الصوص:
                     </h2>
                     <ol class="">
@@ -1009,7 +1025,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">5. التقديم:</h2>
+                    <h2 class=" text-primary font-bold py-1">5. التقديم:</h2>
                     <ol class="">
                       <li>
                         - ضع طبقة من الخس أولاً، ثم أضف الدجاج والخضروات،
@@ -1019,7 +1035,7 @@
                   </section>
 
                   <section class="py-4">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية:
                     </h2>
                     <p>441 سعرة حرارية</p>
@@ -1104,10 +1120,10 @@
           >
             صينية بطاطس
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh] shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
               >
                 صينية بطاطس
               </Dialog.Title>
@@ -1118,7 +1134,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- بطاطس: 280 جرام (حبتين متوسطة)</li>
                       <li>- صدور دجاج: 260 جرام (صدرين كبيرين أو 3 صغار)</li>
@@ -1131,8 +1147,8 @@
                     </ul>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">
                       1. تحضير الدجاج:
                     </h2>
                     <ol>
@@ -1148,7 +1164,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       2. تحضير البطاطس:
                     </h2>
                     <ol class="">
@@ -1162,7 +1178,7 @@
                     </ol>
                   </section>
                   <section class="py-2">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       3. تجميع الطبق:
                     </h2>
                     <ol class="">
@@ -1173,7 +1189,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">4.الخبز:</h2>
+                    <h2 class=" text-primary font-bold py-1">4.الخبز:</h2>
                     <ol class="">
                       <li>
                         - ضع الصينية في الفرن على حرارة من الأعلى حتى تذوب
@@ -1183,7 +1199,7 @@
                   </section>
 
                   <section class="py-4">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية:
                     </h2>
                     <p>السعرات الحرارية للصينية كاملة: 817 سعرة حرارية</p>
@@ -1268,10 +1284,10 @@
           >
             معكرونة باللحم
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center"
               >
                 معكرونة باللحم
               </Dialog.Title>
@@ -1282,7 +1298,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- 100 جرام لحم مفروم</li>
                       <li>- 150 جرام خضار مجمدة (جزر، بازيلاء، ذرة)</li>
@@ -1295,7 +1311,7 @@
                     </ul>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
 
                     <ol>
                       <li>
@@ -1314,7 +1330,7 @@
                   </section>
 
                   <section class="py-4">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية:
                     </h2>
                     <p>492 سعرة حرارية</p>
@@ -1399,10 +1415,10 @@
           >
             بيتزا الشوفان
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
               >
                 بيتزا الشوفان
               </Dialog.Title>
@@ -1413,8 +1429,8 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
-                    <h2 class="text-secondary-foreground py-1">للعجينة:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">للعجينة:</h2>
                     <ul>
                       <li>- كوب شوفان مطحون</li>
                       <li>- كوب طحين أسمر</li>
@@ -1425,7 +1441,7 @@
                     </ul>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">للتزيين:</h2>
+                    <h2 class=" text-primary font-bold py-1">للتزيين:</h2>
 
                     <ol>
                       <li>- دجاج: 11 جرام</li>
@@ -1434,7 +1450,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       لصلصة البيتزا:
                     </h2>
                     <ol class="">
@@ -1444,8 +1460,8 @@
                     </ol>
                   </section>
                   <section class="py-2">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">
                       1. تحضير العجينة:
                     </h2>
                     <ol class="">
@@ -1458,7 +1474,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       2. تحضير الصلصة:
                     </h2>
                     <ol class="">
@@ -1466,7 +1482,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       3. تحضير البيتزا:
                     </h2>
                     <ol class="">
@@ -1481,7 +1497,7 @@
                     </ol>
 
                     <section class="py-4">
-                      <h2 class="text-secondary-foreground py-1">
+                      <h2 class="text-primary font-bold py-1">
                         السعرات الحرارية:
                       </h2>
                       <p>- لكل البيتزا: 1194 سعرة حرارية</p>
@@ -1566,10 +1582,10 @@
               },
             )}">فطيرة البطاطس</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >فطيرة البطاطس
               </Dialog.Title>
             </Dialog.Header>
@@ -1579,7 +1595,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- 150 جرام بطاطس</li>
                       <li>- 2 بيض</li>
@@ -1588,7 +1604,7 @@
                     </ul>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
 
                     <ol class="">
                       <li>1. ابشر البطاطس وصفيها جيداً من الماء.</li>
@@ -1610,11 +1626,11 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">اختياري:</h2>
+                    <h2 class=" text-primary font-bold py-1">اختياري:</h2>
                     <p>أضف الجبن والفلفل الرومي بعد القلب النهائي.</p>
                   </section>
                   <section class="py-4">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية:
                     </h2>
                     <p>-301  سعرة حرارية</p>
@@ -1698,10 +1714,10 @@
             )}"
             >معكرونة بالصلصة
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh] shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >معكرونة بالصلصة
               </Dialog.Title>
             </Dialog.Header>
@@ -1711,7 +1727,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- صدر دجاج: 137 جرام</li>
                       <li>- بصل أحمر: 23 جرام</li>
@@ -1724,7 +1740,7 @@
                      </ul>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       البهارات:                    </h2>
                     <ol class="">
                       <li>- ملح</li>
@@ -1735,9 +1751,9 @@
                       </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       الطريقة:                    </h2>
-                      <h2 class=" text-secondary-foreground py-1">
+                      <h2 class=" text-primary font-bold py-1">
                         1. تحضير الدجاج:</h2>
                     <ol class="">
                       <li>   - قطّع صدر الدجاج إلى قطع صغيرة.
@@ -1746,7 +1762,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">
+                    <h2 class=" text-primary font-bold py-1">
                       2. إعداد الصلصة:                    </h2>
                     <ol class="">
                       <li>   - أضف صلصة الطماطم المخففة بالماء إلى المقلاة.</li>
@@ -1761,24 +1777,24 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">4. إضافة اللبن:</h2>
+                    <h2 class=" text-primary font-bold py-1">4. إضافة اللبن:</h2>
                     <ol class="">
                       <li>   - أضف اللبن السائل إلى المقلاة واتركه ليدفأ مع التحريك. </li> 
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">التقديم:</h2>
+                    <h2 class=" text-primary font-bold py-1">التقديم:</h2>
                   <p>- قدم الطبق ساخناً واستمتع به.
                   </p>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">نصائح</h2>
+                    <h2 class=" text-primary font-bold py-1">نصائح</h2>
                   <p>
                     - يمكنك إضافة خضروات أخرى حسب الرغبة مثل الجزر أو الكوسا.                  </p>
                     <p>- يمكن استبدال اللبن بالكريمة قليلة الدسم إذا رغبت في إضافة قوام كريمي أكثر.</p>
                   </section>
                   <section class="py-4">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية:
                     </h2>
                     <p>-432  سعرة حرارية</p>

@@ -19,9 +19,9 @@
        variant: 'outline',
       })}">بودينج الشوكولاتة</Dialog.Trigger
      >
-     <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+     <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
       <Dialog.Header class="">
-       <Dialog.Title class="flex justify-center text-secondary-foreground"
+       <Dialog.Title class="flex justify-center "
         >بودينج الشوكولاتة
        </Dialog.Title>
       </Dialog.Header>
@@ -31,8 +31,8 @@
        >
         <div class=" lg:text-sm text-xs">
          <section>
-          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
-          <p class="text-secondary-foreground py-1">للكيك:</p>
+          <h2 class="text-primary font-bold py-1">المكونات:</h2>
+          <p class="text-primary font-bold py-1">للكيك:</p>
           <ul>
            <li>- شوفان أو دقيق أبيض: 30 جرام</li>
            <li>
@@ -51,7 +51,7 @@
           </ul>
          </section>
          <section class="py-3">
-          <h2 class=" text-secondary-foreground py-1">لطريقة البودينغ:</h2>
+          <h2 class=" text-primary font-bold py-1">لطريقة البودينغ:</h2>
           <ol class="">
            <li>- كاكاو: 3 جرام</li>
            <li>- حليب: مقدار كافٍ</li>
@@ -61,8 +61,8 @@
           </ol>
          </section>
          <section class="py-3">
-          <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
-          <p class="text-secondary-foreground py-1">الكيك:</p>
+          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+          <p class="text-primary font-bold py-1">الكيك:</p>
 
           <ol class="">
            <li></li>
@@ -83,7 +83,7 @@
           </ol>
          </section>
          <section class="py-4">
-          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
           <p>-388 سعرة حرارية</p>
          </section>
         </div>
@@ -163,9 +163,9 @@
        variant: 'outline',
       })}">ميني بانكيك</Dialog.Trigger
      >
-     <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+     <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
       <Dialog.Header class="">
-       <Dialog.Title class="flex justify-center text-secondary-foreground"
+       <Dialog.Title class="flex justify-center "
         >ميني بانكيك
        </Dialog.Title>
       </Dialog.Header>
@@ -175,8 +175,8 @@
        >
         <div class=" lg:text-sm text-xs">
          <section>
-          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
-          <p class="text-secondary-foreground py-1">1. خليط الشوفان:</p>
+          <h2 class="text-primary font-bold py-1">المكونات:</h2>
+          <p class="text-primary font-bold py-1">1. خليط الشوفان:</p>
           <ul>
            <li>- شوفان مطحون: 50 جرام (5 ملاعق)</li>
            <li>- ماء: 70 مل</li>
@@ -186,7 +186,7 @@
           </ul>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
           <ol class="">
            <li>
             1. امزج الشوفان المطحون مع الماء، باكينج بودر، وبياض البيض (أو
@@ -199,24 +199,24 @@
           </ol>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-1">للكاسترد:</h2>
+          <h2 class=" text-primary font-bold py-1">للكاسترد:</h2>
           <p>- 60 مل من الحليب قليل الدسم</p>
           <p>- 1 ملعقة كبيرة من مسحوق الكاسترد</p>
           <p>- ملعقة صغيرة من سكر ستيفيا</p>
           <p>- نقطة من نكهة الموز (تعطي طعم رائع)</p>
-          <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
           <p>
            اخلطي جميع المكونات معًا جيدًا، ثم ضعي الخليط في- الميكروويف لمدة 30
            ثانية.
           </p>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-1">سعرات خليط الشوفان:</h2>
+          <h2 class=" text-primary font-bold py-1">سعرات خليط الشوفان:</h2>
           <p>- 325 سعرة حرارية (بدون كاسترد)</p>
           <p>- مع الكاسترد: 366 سعرة حرارية</p>
          </section>
          <section>
-          <h2 class="text-secondary-foreground py-1">إضافات الفاكهة:</h2>
+          <h2 class="text-primary font-bold py-1">إضافات الفاكهة:</h2>
           <ul>
            <li>- خليط الفراولة:أضف 24 جرام من الفراولة إلى نصف الخليط</li>
            <li>-السعرات:28 سعرة حرارية</li>
@@ -226,7 +226,7 @@
           </ul>
          </section>
          <section class="py-3">
-          <h2 class="text-secondary-foreground py-1">
+          <h2 class="text-primary font-bold py-1">
            2. بانكيك الموز واللوز:
           </h2>
           <ul>
@@ -240,7 +240,7 @@
           </ul>
          </section>
          <section class="py-2">
-          <h2 class="text-secondary-foreground py-1">3. بانكيك المانجو:</h2>
+          <h2 class="text-primary font-bold py-1">3. بانكيك المانجو:</h2>
           <ul>
            <li>- زبادي يوناني: 22 جرام</li>
            <li>- بروتين باودر: 6 جرام (اختياري)</li>
@@ -249,7 +249,7 @@
           </ul>
          </section>
          <section class="py-2">
-          <h2 class="text-secondary-foreground py-1">4. بانكيك التمر:</h2>
+          <h2 class="text-primary font-bold py-1">4. بانكيك التمر:</h2>
           <ul>
            <li>
             - تمر: 10 جرام (حبة مقسمة إلى نصفين، نصف للتزيين ونصف لحشو البانكيك)
@@ -334,9 +334,9 @@
        variant: 'outline',
       })}">كوكيز</Dialog.Trigger
      >
-     <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+     <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
       <Dialog.Header class="">
-       <Dialog.Title class="flex justify-center text-secondary-foreground"
+       <Dialog.Title class="flex justify-center "
         >كوكيز
        </Dialog.Title>
       </Dialog.Header>
@@ -346,7 +346,7 @@
        >
         <div class=" lg:text-sm text-xs">
          <section>
-          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+          <h2 class="text-primary font-bold py-1">المكونات:</h2>
           <ul>
            <li>- 30 جرام زبدة فول سوداني</li>
            <li>- صفار بيضة</li>
@@ -360,7 +360,7 @@
           </ul>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
           <ol class="">
            <li>
             1. ذوّب زبدة الفول السوداني في المايكروويف واتركها لتبرد قليلاً.
@@ -387,7 +387,7 @@
           </ol>
          </section>
          <section class="py-2">
-          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
           <p>-109 سعرة حرارية</p>
          </section>
         </div>
@@ -466,9 +466,9 @@
        variant: 'outline',
       })}">فاكتوريا كيك</Dialog.Trigger
      >
-     <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+     <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
       <Dialog.Header class="">
-       <Dialog.Title class="flex justify-center text-secondary-foreground"
+       <Dialog.Title class="flex justify-center "
         >فاكتوريا كيك
        </Dialog.Title>
       </Dialog.Header>
@@ -478,7 +478,7 @@
        >
         <div class=" lg:text-sm text-xs">
          <section>
-          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+          <h2 class="text-primary font-bold py-1">المكونات:</h2>
           <ul>
            <li>- زبادي يوناني: 100 جرام</li>
            <li>- شوفان مطحون: 30 جرام</li>
@@ -490,7 +490,7 @@
           </ul>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
           <p class=" text-secondary-foreground py-1">1. تحضير الكيك:</p>
           <ol class="">
            <li>
@@ -506,13 +506,13 @@
           </ol>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-1">
+          <h2 class=" text-primary font-bold py-1">
            2. تحضير الكريمة البيضاء:
           </h2>
           <p>- اخلط زبادي يوناني مع جبن فيلادلفيا لايت.</p>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-1">3. تحضير مربى التوت:</h2>
+          <h2 class=" text-primary font-bold py-1">3. تحضير مربى التوت:</h2>
           <p>
            - ضع مزيج التوت على النار مع سكر دايت وأضف قليل من الماء لمنع
            احتراقه.
@@ -520,7 +520,7 @@
           <p>- أضف نشا مذوب في 20 مل من الماء، وخلط جيداً حتى يتماسك.</p>
          </section>
          <section>
-          <h2 class="text-secondary-foreground py-1">4. التجميع:</h2>
+          <h2 class="text-primary font-bold py-1">4. التجميع:</h2>
           <ul>
            <li>
             - بين كل طبقة من الكيك، ضع طبقة من الكريمة البيضاء ومربى التوت.
@@ -529,7 +529,7 @@
           </ul>
          </section>
          <section class="py-2">
-          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
           <p>-422 سعرة حرارية</p>
          </section>
         </div>
@@ -608,9 +608,9 @@
        variant: 'outline',
       })}">تشيز كيك الفراولة</Dialog.Trigger
      >
-     <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+     <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
       <Dialog.Header class="">
-       <Dialog.Title class="flex justify-center text-secondary-foreground"
+       <Dialog.Title class="flex justify-center"
         >تشيز كيك فراولة
        </Dialog.Title>
       </Dialog.Header>
@@ -620,7 +620,7 @@
        >
         <div class=" lg:text-sm text-xs">
          <section>
-          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+          <h2 class="text-primary font-bold py-1">المكونات:</h2>
           <ul>
            <li>- 50 جرام من بسكويت سانتغيري خالي من السكر</li>
            <li>- 25 جرام من جبنة فيلادلفيا لايت</li>
@@ -631,8 +631,8 @@
           </ul>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
-          <p class=" text-secondary-foreground">1. تحضير الطبقة الأولى:</p>
+          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+          <p class=" text-primary font-bold">1. تحضير الطبقة الأولى:</p>
           <ol>
            <li>- اطحن البسكويت وأضف إليه 7 مل من الماء.</li>
            <li>
@@ -642,7 +642,7 @@
           </ol>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-2">
+          <h2 class=" text-primary font-bold py-2">
            2. تحضير الطبقة الثانية:
           </h2>
           <p>
@@ -650,7 +650,7 @@
            من السعرات أو ستيفيا.
           </p>
           <p>- ضع 24 جرامًا من هذا الخليط فوق طبقة البسكويت.</p>
-          <h2 class=" text-secondary-foreground py-1">3. الخبز:</h2>
+          <h2 class=" text-primary font-bold py-1">3. الخبز:</h2>
           <p>- سخن الفرن على درجة حرارة 170 درجة مئوية.</p>
           <p>
            - اخبز القوالب لمدة 10 دقائق من كل جهة. إذا كنت بحاجة إلى وقت أكثر أو
@@ -658,18 +658,18 @@
           </p>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-1">سعرات خليط الشوفان:</h2>
+          <h2 class=" text-primary font-bold py-1">سعرات خليط الشوفان:</h2>
           <p>- 325 سعرة حرارية (بدون كاسترد)</p>
           <p>- مع الكاسترد: 366 سعرة حرارية</p>
          </section>
          <section>
-          <h2 class="text-secondary-foreground py-2">4. التبريد:</h2>
+          <h2 class="text-primary font-bold py-2">4. التبريد:</h2>
           <ul>
            <li>- ضع القوالب في الفريزر لمدة ساعة ثم أخرجها من القوالب.</li>
           </ul>
          </section>
          <section class="py-2">
-          <h2 class="text-secondary-foreground py-1">
+          <h2 class="text-primary font-bold py-1">
            5. تحضير الطبقة الأخيرة (صلصة الفراولة):
           </h2>
           <ul>
@@ -685,7 +685,7 @@
           </ul>
          </section>
          <section class="py-2">
-          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
           <p>الحبة 65 سعرة</p>
          </section>
         </div>
@@ -765,16 +765,16 @@
       })}">حلى الاوريو</Dialog.Trigger
      >
      <Dialog.Content
-      class=" w-[70vw] h-[90vh] lg-w-[90vw] lg:h-fit bg-secondary shadow-md"
+      class=" w-[70vw] h-[90vh] lg-w-[90vw] lg:h-fit  shadow-md"
      >
       <Dialog.Header class="">
-       <Dialog.Title class="flex justify-center text-secondary-foreground"
+       <Dialog.Title class="flex justify-center"
         >حلى الاوريو
        </Dialog.Title>
       </Dialog.Header>
       <div class=" lg:text-sm text-xs">
        <section>
-        <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+        <h2 class="text-primary font-bold py-1">المكونات:</h2>
         <ul>
          <li>
           - حبتان أوريو (واحدة بكريمة وواحدة بدون)، تساوي 16 جرام (أربعة حبات).
@@ -788,7 +788,7 @@
         </ul>
        </section>
        <section class="py-2">
-        <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+        <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
         <ol class="">
          <li>1. ضع 3 حبات أوريو في وعاء، ثم أضف 10 مل حليب.</li>
          <li>
@@ -807,7 +807,7 @@
         </ol>
        </section>
        <section class="py-2">
-        <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+        <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
         <p>-249 سعرة حرارية</p>
        </section>
       </div>
@@ -885,16 +885,16 @@
       })}">حلى الآيسكريم</Dialog.Trigger
      >
      <Dialog.Content
-      class=" w-[70vw] h-[90vh] lg-w-[90vw] lg:h-fit bg-secondary shadow-md"
+      class=" w-[70vw] h-[90vh] lg-w-[90vw] lg:h-fit  shadow-md"
      >
       <Dialog.Header class="">
-       <Dialog.Title class="flex justify-center text-secondary-foreground"
+       <Dialog.Title class="flex justify-center "
         >حلى الآيسكريم
        </Dialog.Title>
       </Dialog.Header>
       <div class=" lg:text-sm text-xs">
        <section>
-        <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+        <h2 class="text-primary font-bold py-1">المكونات:</h2>
         <ul>
          <li>- قطعتان من كعك الأرز، 14 جرام.</li>
          <li>- نصف قطعة شوكولاتة غامقة، 5 جرام.</li>
@@ -904,7 +904,7 @@
         </ul>
        </section>
        <section class="py-2">
-        <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+        <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
         <ol class="">
          <li>1. ذوّب الشوكولاتة الغامقة وشوكولاتة الحليب في حمام مائي.</li>
          <li>2. ضع ملعقة كبيرة من الآيس كريم على إحدى قطع كعك الأرز.</li>
@@ -915,7 +915,7 @@
         </ol>
        </section>
        <section class="py-2">
-        <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+        <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
         <p>-158 سعرة حرارية</p>
        </section>
       </div>
@@ -993,10 +993,10 @@
       })}">مافن</Dialog.Trigger
      >
      <Dialog.Content
-      class=" w-[70vw] h-[90vh] lg-w-[90vw] lg:h-fit bg-secondary shadow-md"
+      class=" w-[70vw] h-[90vh] lg-w-[90vw] lg:h-fit  shadow-md"
      >
       <Dialog.Header class="">
-       <Dialog.Title class="flex justify-center text-secondary-foreground"
+       <Dialog.Title class="flex justify-center "
         >مافن
        </Dialog.Title>
       </Dialog.Header>
@@ -1006,7 +1006,7 @@
        >
         <div class="text-sm">
          <section>
-          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+          <h2 class="text-primary font-bold py-1">المكونات:</h2>
           <ul>
            <li>- شوفان مطحون أو دقيق: 50 جرام</li>
            <li>- بروتين باودر: 32 جرام</li>
@@ -1022,7 +1022,7 @@
           </ul>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
           <ol class="">
            <li>
             1. امزج الشوفان أو الدقيق، بروتين البودر، باكينج باودر، البيضة،
@@ -1043,7 +1043,7 @@
           </ol>
          </section>
          <section class="py-2">
-          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
           <p>-158 سعرة حرارية</p>
          </section>
         </div>
@@ -1123,9 +1123,9 @@
        variant: 'outline',
       })}">حلى منعش</Dialog.Trigger
      >
-     <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+     <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
       <Dialog.Header class="">
-       <Dialog.Title class="flex justify-center text-secondary-foreground"
+       <Dialog.Title class="flex justify-center "
         >حلى منعش
        </Dialog.Title>
       </Dialog.Header>
@@ -1135,14 +1135,14 @@
        >
         <div class=" text-sm">
          <section>
-          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+          <h2 class="text-primary font-bold py-1">المكونات:</h2>
           <ul>
            <li>- 5 حبات توست أبيض (نقطع الحواف).</li>
            <li>- 50 جم حليب (لتغميس التوست).</li>
           </ul>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-1">للكريمة:</h2>
+          <h2 class=" text-primary font-bold py-1">للكريمة:</h2>
           <ol>
            <li>- 24 جم دريم ويب.</li>
            <li>- ملعقة صغيرة فانيلا.</li>
@@ -1152,13 +1152,13 @@
           </ol>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-2">للجلي:</h2>
+          <h2 class=" text-primary font-bold py-2">للجلي:</h2>
           <p>- 23 جم جيلي.</p>
           <p></p>
          </section>
 
          <section>
-          <h2 class="text-secondary-foreground py-2">الطريقة:</h2>
+          <h2 class="text-primary font-bold py-2">الطريقة:</h2>
           <ul>
            <li>
             1. في وعاء، اخفق الدريم ويب مع الماء البارد حتى يتكون قوام شبه كريمي
@@ -1181,7 +1181,7 @@
          </section>
 
          <section class="py-2">
-          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
           <p>- لكل الكمية: 794 سعرة حرارية.</p>
           <p>- لكل قطعة (من أصل 6 قطع): 133 سعرة حرارية.</p>
          </section>
@@ -1262,9 +1262,9 @@
        variant: 'outline',
       })}">بانكيك السينابون</Dialog.Trigger
      >
-     <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+     <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
       <Dialog.Header class="">
-       <Dialog.Title class="flex justify-center text-secondary-foreground"
+       <Dialog.Title class="flex justify-center "
         >بانكيك السينابون
        </Dialog.Title>
       </Dialog.Header>
@@ -1274,7 +1274,7 @@
        >
         <div class="  text-sm">
          <section>
-          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+          <h2 class="text-primary font-bold py-1">المكونات:</h2>
           <ul>
            <li>- 50 جم بيضة.</li>
            <li>- 60 جم زبادي يوناني (أو أي نوع متوفر، حتى لو سائل).</li>
@@ -1289,7 +1289,7 @@
          </section>
 
          <section>
-          <h2 class="text-secondary-foreground py-2">الطريقة:</h2>
+          <h2 class="text-primary font-bold py-2">الطريقة:</h2>
           <ul>
            <li>
             1. اخلط البيضة، الزبادي اليوناني، ومحلي الفانيلا أو سكر ستيفيا مع
@@ -1303,13 +1303,13 @@
           </ul>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-2">3. لتحضير الصوص:</h2>
+          <h2 class=" text-primary font-bold py-2">3. لتحضير الصوص:</h2>
           <p>
            - اخلط القرفة مع ميبل سيرب وظرف سكر ستيفيا. استخدم كيس حلواني لتشكيل
            الصوص بشكل حلزوني.
           </p>
           <p></p>
-          <h2 class=" text-secondary-foreground py-2">
+          <h2 class=" text-primary font-bold py-2">
            4. لتحضير الصوص الأبيض (اختياري):
           </h2>
           <p>
@@ -1318,7 +1318,7 @@
           </p>
          </section>
          <section class="py-2">
-          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
           <p>- 379 سعرة حرارية.</p>
          </section>
         </div>
@@ -1397,9 +1397,9 @@
        variant: 'outline',
       })}">كيكة الكندر</Dialog.Trigger
      >
-     <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+     <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
       <Dialog.Header class="">
-       <Dialog.Title class="flex justify-center text-secondary-foreground"
+       <Dialog.Title class="flex justify-center "
         >كيكة الكندر
        </Dialog.Title>
       </Dialog.Header>
@@ -1409,7 +1409,7 @@
        >
         <div class="  text-sm">
          <section>
-          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+          <h2 class="text-primary font-bold py-1">المكونات:</h2>
           <ul>
            <li>- شوفان مطحون: 30 جرام</li>
            <li></li>
@@ -1423,7 +1423,7 @@
          </section>
 
          <section>
-          <h2 class="text-secondary-foreground py-2">الطريقة:</h2>
+          <h2 class="text-primary font-bold py-2">الطريقة:</h2>
           <ul>
            <li>
             1. اخلط الشوفان المطحون، باكينج باودر، الزبادي، كاكاو بودرة، سكر ستيفيا، والقهوة في وعاء حتى تتجانس المكونات.
@@ -1439,7 +1439,7 @@
           </ul>
          </section>
          <section class="py-2">
-          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
           <p>- 266  سعرة حرارية.</p>
          </section>
         </div>
@@ -1518,9 +1518,9 @@
        variant: 'outline',
       })}">كيكة ليمون بالتوت</Dialog.Trigger
      >
-     <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+     <Dialog.Content class=" w-[70vw] h-[90vh] shadow-md">
       <Dialog.Header class="">
-       <Dialog.Title class="flex justify-center text-secondary-foreground"
+       <Dialog.Title class="flex justify-center"
         >كيكة ليمون بالتوت
        </Dialog.Title>
       </Dialog.Header>
@@ -1530,7 +1530,7 @@
        >
         <div class="  text-sm">
          <section>
-          <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+          <h2 class="text-primary font-bold py-1">المكونات:</h2>
           <ul>
            <li>- 10 جم بروتين فانيلا (اختياري).</li>
            <li>
@@ -1550,7 +1550,7 @@
          </section>
 
          <section>
-          <h2 class="text-secondary-foreground py-2">الطريقة:</h2>
+          <h2 class="text-primary font-bold py-2">الطريقة:</h2>
           <ul>
            <li>
             1. في وعاء، اخلط الزبادي، البيضة، وسكر ستيفيا.
@@ -1563,7 +1563,7 @@
           </ul>
          </section>
          <section class="py-2">
-          <h2 class=" text-secondary-foreground py-2">الصينية</h2>
+          <h2 class=" text-primary font-bold py-2">الصينية</h2>
           <p>
            3. رش البسكوت بدون سكر على السطح.
           </p>
@@ -1571,7 +1571,7 @@
           
          </section>
          <section class="py-2">
-          <h2 class="text-secondary-foreground py-1">السعرات الحرارية:</h2>
+          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
           <p>- 384  سعرة حرارية.</p>
          </section>
         </div>

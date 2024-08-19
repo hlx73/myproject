@@ -30,7 +30,7 @@
             </Dialog.Header>
             <div class=" lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                <h2 class="text-primary font-bold  py-1">المكونات:</h2>
                 <ul>
                   <li>- 30 جم شوفان (أو 4 ملاعق).</li>
                   <li>- 180 جم زبادي يوناني (أو 4 ملاعق كبيرة ممتلئة).</li>
@@ -47,7 +47,7 @@
                 </ul>
               </section>
               <section class="py-3">
-                <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                 <ol class="">
                   <li>
                     1. في وعاء، اخلط البيض، الشوفان، 30 جم من الزبادي اليوناني،
@@ -68,7 +68,7 @@
                 </ol>
               </section>
               <section class="py-4">
-                <h2 class="text-secondary-foreground py-1">
+                <h2 class="text-primary font-bold py-1">
                   السعرات الحرارية:
                 </h2>
                 <p>-388 سعرة حرارية</p>
@@ -148,7 +148,7 @@
               { variant: 'outline' },
             )}">شكشوكة تركية</Dialog.Trigger
           >
-          <Dialog.Content class=" bg-secondary shadow-md">
+          <Dialog.Content class="  shadow-md">
             <Dialog.Header>
               <Dialog.Title
                 class="flex justify-center "
@@ -157,7 +157,7 @@
             </Dialog.Header>
             <div class=" lg:text-sm text-xs">
               <section>
-                <h2 class="text-primary font-bold">المكونات:</h2>
+                <h2 class="text-primary font-bold  ">المكونات:</h2>
                 <ul>
                   <li>- 120 جم طماطم حجم وسط.</li>
                   <li>- 25 جم ربع بصلة.</li>
@@ -167,7 +167,7 @@
                 </ul>
               </section>
               <section class="py-2">
-                <h2 class=" text-secondary-foreground">الطريقة:</h2>
+                <h2 class=" text-primary font-bold">الطريقة:</h2>
                 <ol class="">
                   <li>1. اقلي البصل على النار حتى يذوب.</li>
                   <li>
@@ -182,7 +182,7 @@
                 </ol>
               </section>
               <section class="py-2">
-                <h2 class="text-secondary-foreground">السعرات الحرارية :</h2>
+                <h2 class="text-primary font-bold">السعرات الحرارية :</h2>
                 -292 سعرة حرارية
               </section>
               
@@ -264,13 +264,13 @@
           >
             شوفان وبروتين</Dialog.Trigger
           >
-          <Dialog.Content class=" bg-secondary shadow-md">
+          <Dialog.Content class="  shadow-md">
             <Dialog.Header>
               <Dialog.Title>شوفان وبروتين</Dialog.Title>
             </Dialog.Header>
             <div class=" lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground">المكونات:</h2>
+                <h2 class="text-primary font-bold">المكونات:</h2>
                 <ul>
                   <li>- 30 جم شوفان كامل الحبة.</li>
                   <li>- 30 جم بروتين باودر.</li>
@@ -281,7 +281,7 @@
                 </ul>
               </section>
               <section class="py-2">
-                <h2 class=" text-secondary-foreground">الطريقة:</h2>
+                <h2 class=" text-primary font-bold">الطريقة:</h2>
                 <ol class="">
                   <li>
                     1.ضع الشوفان في وعاء وأضف ضعف الكمية ماء. سخنه في الميكروويف
@@ -296,7 +296,7 @@
                 </ol>
               </section>
               <section class="">
-                <h2 class="text-secondary-foreground">السعرات الحرارية:</h2>
+                <h2 class="text-primary font-bold">السعرات الحرارية:</h2>
                 <p>- بدون العسل: 320 سعرة حرارية.</p>
                 <p>- مع العسل: 384 سعرة حرارية.</p>
               </section>
@@ -378,16 +378,16 @@
           >
             فرنش توست</Dialog.Trigger
           >
-          <Dialog.Content class=" bg-secondary shadow-md">
+          <Dialog.Content class=" shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >فرنش توست مالح
               </Dialog.Title>
             </Dialog.Header>
             <div class="lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground">المكونات:</h2>
+                <h2 class="text-primary font-bold">المكونات:</h2>
                 <ul>
                   <li>- 3 شرائح توست (90 جم).</li>
                   <li>
@@ -403,7 +403,7 @@
                 </ul>
               </section>
               <section class="py-3">
-                <h2 class=" text-secondary-foreground">الطريقة:</h2>
+                <h2 class=" text-primary font-bold">الطريقة:</h2>
                 <ol class="">
                   <li>1. اخفق البيض مع الحليب، وأضف الزعتر والملح.</li>
                   <li>
@@ -420,7 +420,7 @@
                   <li>5. زين الطبق بالطماطم والنعناع.</li>
                 </ol>
               </section>
-              <h2 class="text-secondary-foreground">السعرات الحرارية:</h2>
+              <h2 class="text-primary font-bold">السعرات الحرارية:</h2>
               <p>- 555 سعرة حرارية.</p>
             </div>
             <div></div>
@@ -499,16 +499,16 @@
           >
             ساندوتش بيض
           </Dialog.Trigger>
-          <Dialog.Content class=" bg-secondary shadow-md">
+          <Dialog.Content class="  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >ساندوتش بيض
               </Dialog.Title>
             </Dialog.Header>
             <div class="  lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground">المكونات:</h2>
+                <h2 class="text-primary font-bold">المكونات:</h2>
                 <ul>
                   <li>-58 جم توست أسمر.</li>
                   <li>- 148 جم بياض 4 بيضات أو 2 بيض كامل.</li>
@@ -522,7 +522,7 @@
                 </ul>
               </section>
               <section class="py-3">
-                <h2 class=" text-secondary-foreground">الطريقة:</h2>
+                <h2 class=" text-primary font-bold">الطريقة:</h2>
                 <ol class="">
                   <li>1. سخّن الثوم على الصاج حتى يصبح ذهبي اللون.</li>
                   <li>2. أضف السبانخ إلى الثوم واطبخ حتى تذبل.</li>
@@ -619,16 +619,16 @@
           >
             بانكيك
           </Dialog.Trigger>
-          <Dialog.Content class=" bg-secondary shadow-md">
+          <Dialog.Content class="  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >بانكيك
               </Dialog.Title>
             </Dialog.Header>
             <div class="  lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground">المكونات:</h2>
+                <h2 class="text-primary font-bold">المكونات:</h2>
                 <ul>
                   <li>- 50 جم شوفان مطحون (حوالي 5 ملاعق).</li>
                   <li>- ربع ملعقة صغيرة باكينج باودر (3 جم).</li>
@@ -638,7 +638,7 @@
                 </ul>
               </section>
               <section class="py-3">
-                <h2 class=" text-secondary-foreground">الطريقة:</h2>
+                <h2 class=" text-primary font-bold">الطريقة:</h2>
                 <ol>
                   <li>
                     1. اخلط المكونات الجافة (الشوفان، باكينج باودر، والبروتين)
@@ -659,15 +659,15 @@
                   </li>
                 </ol>
                 <section class="py-3">
-                  <h2 class=" text-secondary-foreground">الإضافات:</h2>
-                  <h3 class=" text-secondary-foreground">الصوص الأبيض:</h3>
+                  <h2 class=" text-primary font-bold">الإضافات:</h2>
+                  <h3 class=" text-primary font-bold">الصوص الأبيض:</h3>
                   <p>
                     زبادي يوناني + محلي فانيلا خالي السعرات أو ظرف سكر ستيفيا.
                     الطعم يشبه الطبقة البيضاء في التشيز كيك وتوت أزرق.
                   </p>
                 </section>
               </section>
-              <h2 class="text-secondary-foreground">السعرات الحرارية:</h2>
+              <h2 class="text-primary font-bold">السعرات الحرارية:</h2>
               <p>- بدون الإضافات: 411 سعرة حرارية.</p>
               <p>- مع الإضافات: 472 سعرة حرارية.</p>
             </div>
@@ -744,16 +744,16 @@
               { variant: 'outline' },
             )}">أفكار للتوست</Dialog.Trigger
           >
-          <Dialog.Content class="bg-secondary shadow-md">
+          <Dialog.Content class=" shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center"
                 >أفكار للتوست
               </Dialog.Title>
             </Dialog.Header>
             <div class="  lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground">شريحة البيض:</h2>
+                <h2 class="text-primary font-bold">شريحة البيض:</h2>
                 <ul>
                   <li>- 30 جم زبادي يوناني سادة قليل الدسم.</li>
                   <li>- 42 جم بيض مسلوق أو بطريقة بنديكت.</li>
@@ -763,11 +763,11 @@
                 </ul>
               </section>
               <div class="py-3">
-                <h2 class="text-secondary-foreground">السعرات الحرارية:</h2>
+                <h2 class="text-primary font-bold">السعرات الحرارية:</h2>
                 <p>- 153 سعرة حرارية.</p>
               </div>
               <section class="py-1">
-                <h2 class=" text-secondary-foreground">
+                <h2 class=" text-primary font-bold">
                   شريحة الزبادي اليوناني:
                 </h2>
                 <ol class="">
@@ -776,7 +776,7 @@
                 </ol>
               </section>
               <div class="py-2">
-                <h2 class="text-secondary-foreground">السعرات الحرارية:</h2>
+                <h2 class="text-primary font-bold">السعرات الحرارية:</h2>
                 <p>- 113 سعرة حرارية.</p>
               </div>
             </div>
@@ -856,16 +856,16 @@
           >
             بانكيك غير</Dialog.Trigger
           >
-          <Dialog.Content class=" bg-secondary shadow-md">
+          <Dialog.Content class="  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center -"
                 >بانكيك زبدة الفول السوداني
               </Dialog.Title>
             </Dialog.Header>
             <div class="  lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground">المكونات:</h2>
+                <h2 class="text-primary font-bold">المكونات:</h2>
                 <ul>
                   <li>- كوب شوفان مطحون.</li>
                   <li>- ملعقة كبيرة عسل.</li>
@@ -877,7 +877,7 @@
                 </ul>
               </section>
               <section class="py-3">
-                <h2 class=" text-secondary-foreground">الطريقة:</h2>
+                <h2 class=" text-primary font-bold">الطريقة:</h2>
                 <ol>
                   <li>1. اخلط جميع المكونات معًا حتى تتجانس.</li>
                   <li>
@@ -888,7 +888,7 @@
                   </li>
                 </ol>
               </section>
-              <h2 class="text-secondary-foreground">السعرات الحرارية:</h2>
+              <h2 class="text-primary font-bold">السعرات الحرارية:</h2>
               <p>-430 سعرة حرارية.</p>
             </div>
             <div></div>

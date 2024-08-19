@@ -28,7 +28,7 @@
               </Dialog.Header>
               <div class="  lg:text-sm text-xs">
                 <section>
-                  <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                  <h2 class="text-primary font-bold py-1">المكونات:</h2>
                   <ul>
                     <li>-نصف كوب اناناس طازج</li>
                     <li>-حبة مانجو طازجة</li>
@@ -38,7 +38,7 @@
                   </ul>
                 </section>
                 <section class="py-3">
-                  <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                  <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                   <ol class="">
                     <li>1. ينظف الأناناس ويقشر ويقطع</li>
                     <li>2. تقشر المانجو وتقطع</li>
@@ -48,7 +48,7 @@
                   </ol>
                 </section>
                 <div class="py-3">
-                  <h2 class="text-secondary-foreground py-1">
+                  <h2 class="text-primary font-bold py-1">
                     السعرات الحرارية:
                   </h2>
                   <p>-حوالي 336 سعرة حرارية</p>
@@ -74,7 +74,7 @@
               </Dialog.Header>
               <div class="  lg:text-sm text-xs">
                 <section>
-                  <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                  <h2 class="text-primary font-bold py-1">المكونات:</h2>
                   <ul>
                     <li>-2 برتقال</li>
                     <li>-2 جزر</li>
@@ -83,7 +83,7 @@
                   </ul>
                 </section>
                 <section class="py-3">
-                  <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                  <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                   <ol class="">
                     <li>1. ينظف الجزر ويقطع</li>
                     <li>
@@ -95,7 +95,7 @@
                   </ol>
                 </section>
                 <div class="py-3">
-                  <h2 class="text-secondary-foreground py-1">
+                  <h2 class="text-primary font-bold py-1">
                     السعرات الحرارية:
                   </h2>
                   <p>-حوالي 125 سعرة حرارية.</p>
@@ -123,7 +123,7 @@
               </Dialog.Header>
               <div class="  lg:text-sm text-xs">
                 <section>
-                  <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                  <h2 class="text-primary font-bold py-1">المكونات:</h2>
                   <ul>
                     <li>-نصف كوب من الفراولة</li>
                     <li>-موزة واحدة</li>
@@ -132,7 +132,7 @@
                   </ul>
                 </section>
                 <section class="py-3">
-                  <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                  <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                   <ol class="">
                     <li>1. تنظف الموزة وتقشر</li>
                     <li>2. تنظف الفراولة ونضعها في الخلاط</li>
@@ -140,7 +140,7 @@
                   </ol>
                 </section>
                 <div class="py-3">
-                  <h2 class="text-secondary-foreground py-1">
+                  <h2 class="text-primary font-bold py-1">
                     السعرات الحرارية:
                   </h2>
                   <p>حوالي 217 سعرة حرارية.</p>
@@ -168,14 +168,14 @@
               </Dialog.Header>
               <div class="  lg:text-sm text-xs">
                 <section>
-                  <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                  <h2 class="text-primary font-bold py-1">المكونات:</h2>
                   <ul>
                     <li>-كوب من قطع البطيخ</li>
                     <li>-حفنة من أوراق النعناع</li>
                   </ul>
                 </section>
                 <section class="py-3">
-                  <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                  <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                   <ol class="">
                     <li>1. نقشر البطيخ ونقطعه لمكعبات</li>
                     <li>2. ننزع اوراق النعناع ونغسلها جيدًا</li>
@@ -183,7 +183,7 @@
                   </ol>
                 </section>
                 <div class="py-3">
-                  <h2 class="text-secondary-foreground py-1">
+                  <h2 class="text-primary font-bold py-1">
                     السعرات الحرارية:
                   </h2>
                   <p>حوالي 45-50 سعرة حرارية.</p>
@@ -211,7 +211,7 @@
               </Dialog.Header>
               <div class="  lg:text-sm text-xs">
                 <section>
-                  <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                  <h2 class="text-primary font-bold py-1">المكونات:</h2>
                   <ul>
                     <li>-نصف كوب من العنب الأحمر</li>
                     <li>-نصف كوب من التوت المشكل</li>
@@ -220,7 +220,7 @@
                   </ul>
                 </section>
                 <section class="py-3">
-                  <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                  <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                   <ol class="">
                     <li>
                       1. ضع التوت الأزرق، والعنب الأحمر في وعاء الخلاط
@@ -236,7 +236,7 @@
                   </ol>
                 </section>
                 <div class="py-3">
-                  <h2 class="text-secondary-foreground py-1">
+                  <h2 class="text-primary font-bold py-1">
                     السعرات الحرارية:
                   </h2>
                   <p>حوالي 85-100 سعرة حرارية.</p>
@@ -264,7 +264,7 @@
               </Dialog.Header>
               <div class="  lg:text-sm text-xs">
                 <section>
-                  <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                  <h2 class="text-primary font-bold py-1">المكونات:</h2>
                   <ul>
                     <li>-2 كيوي</li>
                     <li>-150 غرام أناناس</li>
@@ -273,7 +273,7 @@
                   </ul>
                 </section>
                 <section class="py-3">
-                  <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                  <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                   <ol class="">
                     <li>1. قم بتقشير الكيوي والأناناس وتقطيعهم إلى مكعبات.</li>
                     <li>2. ضع القطع في عصارة العصائر ومن ثم في كاسات.</li>
@@ -284,7 +284,7 @@
                   </ol>
                 </section>
                 <div class="py-3">
-                  <h2 class="text-secondary-foreground py-1">
+                  <h2 class="text-primary font-bold py-1">
                     السعرات الحرارية:
                   </h2>
                   <p>حوالي 175-180 سعرة حرارية.</p>

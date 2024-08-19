@@ -25,13 +25,13 @@
           >
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >سلطة دجاج
               </Dialog.Title>
             </Dialog.Header>
             <div class=" lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                <h2 class="text-primary font-bold py-1">المكونات:</h2>
                 <ul>
                   <li>
                     - 98 جم صدر دجاج، مَتبّل بملعقة خردل، ملح، كركم، وبهارات
@@ -45,7 +45,7 @@
                 </ul>
               </section>
               <section class="py-3">
-                <h2 class=" text-secondary-foreground py-1">للصوص:</h2>
+                <h2 class=" text-primary font-bold py-1">للصوص:</h2>
                 <ol class="">
                   <li>- 59 جم زبادي.</li>
                   <li>- ملعقة صغيرة صوص تتبيلة فرنسية.</li>
@@ -53,7 +53,7 @@
                 </ol>
               </section>
               <section class="py-3">
-                <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                 <ol class="">
                   <li>1. شوّح الدجاج في مقلاة حتى ينضج.</li>
                   <li>
@@ -68,7 +68,7 @@
                 </ol>
               </section>
               <section class="py-4">
-                <h2 class="text-secondary-foreground py-1">
+                <h2 class="text-primary font-bold py-1">
                   السعرات الحرارية:
                 </h2>
                 <p>-203 سعرة حرارية</p>
@@ -148,17 +148,17 @@
             )}">سلطة التونة</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[95vh] bg-secondary shadow-md"
+            class=" w-[70vw] h-[90vh] lg:h-[95vh]  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center text-primary font-bold"
                 >سلطة التونة والباذنجان
               </Dialog.Title>
             </Dialog.Header>
             <div class=" lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                <h2 class="text-primary font-bold py-1">المكونات:</h2>
                 <ul>
                   <li>- فلفل رومي.</li>
                   <li>- خيار.</li>
@@ -174,7 +174,7 @@
                 </ul>
               </section>
               <section class="py-2">
-                <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                 <ol class="">
                   <li>1. قطع الخضار إلى قطع صغيرة وضعها جانبا</li>
                   <li>
@@ -190,7 +190,7 @@
                 </ol>
               </section>
               <section class="py-4">
-                <h2 class="text-secondary-foreground py-1">
+                <h2 class="text-primary font-bold py-1">
                   السعرات الحرارية:
                 </h2>
                 <p>
@@ -273,17 +273,17 @@
             )}">سلطة الباذنجان</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[95vh]   bg-secondary shadow-md"
+            class=" w-[70vw] h-[90vh] lg:h-[95vh]   shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >سلطة الباذنجان
               </Dialog.Title>
             </Dialog.Header>
             <div class=" lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground pb-1">المكونات:</h2>
+                <h2 class="text-primary font-bold pb-1">المكونات:</h2>
                 <ul>
                   <li>
                     - حبة بطاطس (مقطعة مكعبات ومقلية في القلاية الهوائية).
@@ -296,7 +296,7 @@
                 </ul>
               </section>
               <section class="pb-2">
-                <h2 class=" text-secondary-foreground py-1">للصوص:</h2>
+                <h2 class=" text-primary font-bold py-1">للصوص:</h2>
                 <ol class="">
                   <li>- 100 جم زبادي.</li>
                   <li>- عصرة ليمون.</li>
@@ -305,13 +305,13 @@
                 </ol>
               </section>
               <section class="pb-2">
-                <h2 class=" text-secondary-foreground py-1">للزينة:</h2>
+                <h2 class=" text-primary font-bold py-1">للزينة:</h2>
                 <ol class="">
                   <li>- رشة سماق.</li>
                 </ol>
               </section>
               <section class="pلا-2">
-                <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                 <ol class="">
                   <li>
                     1. قلِّ البطاطس والباذنجان في القلاية الهوائية حتى تنضج
@@ -329,7 +329,7 @@
                 </ol>
               </section>
               <section class="py-2">
-                <h2 class="text-secondary-foreground py-1">
+                <h2 class="text-primary font-bold py-1">
                   السعرات الحرارية:
                 </h2>
                 <p>- 390 سعرة حرارية.</p>
@@ -409,18 +409,18 @@
             )}">سلطة منعشة</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[95vh] bg-secondary shadow-md"
+            class=" w-[70vw] h-[90vh] lg:h-[95vh]  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
               >
                 سلطة منعشة
               </Dialog.Title>
             </Dialog.Header>
             <div class=" lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                <h2 class="text-primary font-bold py-1">المكونات:</h2>
                 <ul>
                   <li>- 170 جم دجاج.</li>
                   <li>- ورقيات: خس وجرجير.</li>
@@ -436,7 +436,7 @@
                 </ul>
               </section>
               <section class="py-2">
-                <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                 <ol class="">
                   <li>
                     1. تبل الدجاج بالملح، الفلفل الأسود، بودرة البصل، والثوم.
@@ -453,7 +453,7 @@
                 </ol>
               </section>
               <section class="py-4">
-                <h2 class="text-secondary-foreground py-1">
+                <h2 class="text-primary font-bold py-1">
                   السعرات الحرارية:
                 </h2>
                 <p>- 271 سعرة حرارية.</p>
@@ -533,18 +533,18 @@
             )}">سلطة البطاطس</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[95vh] bg-secondary shadow-md"
+            class=" w-[70vw] h-[90vh] lg:h-[95vh]  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
               >
                 سلطة البطاطس
               </Dialog.Title>
             </Dialog.Header>
             <div class=" lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground py-2">المكونات:</h2>
+                <h2 class="text-primary font-bold py-2">المكونات:</h2>
                 <ul>
                   <li>- 200 جم زبادي يوناني خال الدسم.</li>
                   <li>- 10 جم طحينية سائلة.</li>
@@ -555,7 +555,7 @@
                 </ul>
               </section>
               <section class="py-2">
-                <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                 <ol class="">
                   <li>
                     1. اخلط الزبادي اليوناني مع الطحينية، النعناع المجفف، الملح،
@@ -576,11 +576,11 @@
                 </ol>
               </section>
               <section class="py-2">
-                <h2 class="text-secondary-foreground py-1">ملاحظة:</h2>
+                <h2 class="text-primary font-bold py-1">ملاحظة:</h2>
                 <p>-يمكن إضافة سلطة من اختيارك ورمان إلى الطبق.</p>
               </section>
               <section class="py-2">
-                <h2 class="text-secondary-foreground py-1">
+                <h2 class="text-primary font-bold py-1">
                   السعرات الحرارية:
                 </h2>
                 <p>- 349 سعرة حرارية.</p>
@@ -660,11 +660,11 @@
             )}">سلطة آسيوية</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[90vh]  bg-secondary shadow-md"
+            class=" w-[70vw] h-[90vh] lg:h-[90vh]   shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >سلطة آسيوية
               </Dialog.Title>
             </Dialog.Header>
@@ -674,7 +674,7 @@
               >
                 <div class=" lg:text-sm text-xs">
                   <section>
-                    <h2 class="text-secondary-foreground pb-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold pb-1">المكونات:</h2>
                     <ul>
                       <li>- 45 جم كينوا.</li>
                       <li>- أوراق كيل (سعراتها شبه معدومة، لا تحسب).</li>
@@ -688,7 +688,7 @@
                     </ul>
                   </section>
                   <section class="pb-2">
-                    <h2 class=" text-secondary-foreground py-1">للصوص:</h2>
+                    <h2 class=" text-primary font-bold py-1">للصوص:</h2>
                     <ol class="">
                       <li>- 3 جم زبدة فول سوداني.</li>
                       <li>- 1 جم بودرة فول سوداني.</li>
@@ -701,7 +701,7 @@
                     </ol>
                   </section>
                   <section class="pb-2">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                     <ol class="">
                       <li>
                         1. قطّع أوراق الكيل، اغسلها جيدًا، ثم أضف إليها نصف
@@ -726,7 +726,7 @@
                     </ol>
                   </section>
                   <section class="py-2">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية:
                     </h2>
                     <p>- 333 سعرة حرارية.</p>
@@ -808,11 +808,11 @@
             )}">سلطة البروكلي</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[90vh]  bg-secondary shadow-md"
+            class=" w-[70vw] h-[90vh] lg:h-[90vh]  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >سلطة البروكلي
               </Dialog.Title>
             </Dialog.Header>
@@ -822,7 +822,7 @@
               >
                 <div class=" lg:text-sm text-xs">
                   <section>
-                    <h2 class="text-secondary-foreground pb-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold pb-1">المكونات:</h2>
                     <ul>
                       <li>- رأس بروكلي.</li>
                       <li>- رأس خس.</li>
@@ -831,7 +831,7 @@
                     </ul>
                   </section>
                   <section class="pb-2">
-                    <h2 class=" text-secondary-foreground py-1">للصوص:</h2>
+                    <h2 class=" text-primary font-bold py-1">للصوص:</h2>
                     <ol class="">
                       <li>- حبة أفوكادو.</li>
                       <li>- عصير ليمونة.</li>
@@ -843,7 +843,7 @@
                     </ol>
                   </section>
                   <section class="pb-2">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                     <ol class="">
                       <li>
                         1. اطبخ صدور الدجاج حتى تنضج، ثم قطعها إلى قطع صغيرة.
@@ -866,7 +866,7 @@
                     </ol>
                   </section>
                   <section class="py-2">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية:
                     </h2>
                     <p>
@@ -951,11 +951,11 @@
             )}">سلطة كينوا</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[90vh]  bg-secondary shadow-md"
+            class=" w-[70vw] h-[90vh] lg:h-[90vh]  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >سلطة كينوا
               </Dialog.Title>
             </Dialog.Header>
@@ -965,7 +965,7 @@
               >
                 <div class=" lg:text-sm text-xs">
                   <section>
-                    <h2 class="text-secondary-foreground pb-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold pb-1">المكونات:</h2>
                     <ul>
                       <li>- كينوا مطبوخة.</li>
                       <li>- خس (مقطع)</li>
@@ -978,7 +978,7 @@
                     </ul>
                   </section>
                   <section class="pb-2">
-                    <h2 class=" text-secondary-foreground py-1">للصوص:</h2>
+                    <h2 class=" text-primary font-bold py-1">للصوص:</h2>
                     <ol class="">
                       <li>- زبادي (مخفف بماء).</li>
                       <li>- ملح.</li>
@@ -986,7 +986,7 @@
                     </ol>
                   </section>
                   <section class="pb-2">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                     <ol class="">
                       <li>
                         1. امزج الكينوا المطبوخة مع الخس المفروم، الخيار المقطع،
@@ -1001,7 +1001,7 @@
                     </ol>
                   </section>
                   <section class="py-2">
-                    <h2 class="text-secondary-foreground py-1">ملاحظة:</h2>
+                    <h2 class="text-primary font-bold py-1">ملاحظة:</h2>
                     <p>
                       يمكن إضافة قطع دجاج مشوية لزيادة كمية البروتين وتعزيز
                       الشبع.
@@ -1009,7 +1009,7 @@
                     <section />
                   </section>
                   <section class="py-2">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية:
                     </h2>
                     <p>- 333 سعرة حرارية.</p>

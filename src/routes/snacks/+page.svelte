@@ -23,10 +23,10 @@
               },
             )}">كرات التمر</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >كرات التمر
               </Dialog.Title>
             </Dialog.Header>
@@ -36,7 +36,7 @@
               >
                 <div class=" lg:text-sm text-xs">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- 160 جم تمر معجون.</li>
                       <li>- 30 جم كاجو.</li>
@@ -50,7 +50,7 @@
                     </ul>
                   </section>
                   <section class="py-2">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                     <ol class="">
                       <li>
                         1. ضع جميع المكونات في محضرة الطعام واخلطها حتى تتجانس.
@@ -63,7 +63,7 @@
                     </ol>
                   </section>
                   <section class="py-2">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية:
                     </h2>
                     <p>- السعرات الحرارية لكل كرة: 58 سعرة حرارية.</p>
@@ -147,10 +147,10 @@
               },
             )}">كرات الحلوى</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >كرات الحلوى
               </Dialog.Title>
             </Dialog.Header>
@@ -160,7 +160,7 @@
               >
                 <div class=" lg:text-sm text-xs">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- شوفان مطحون.</li>
                       <li>- زبدة فول سوداني.</li>
@@ -170,7 +170,7 @@
                     </ul>
                   </section>
                   <section class="py-2">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                     <ol class="">
                       <li>1. اخلط جميع المكونات معًا حتى تتجانس.</li>
                       <li>2. شكّل الخليط إلى كرات صغيرة.</li>
@@ -181,7 +181,7 @@
                     </ol>
                   </section>
                   <section class="py-2">
-                    <h2 class="text-secondary-foreground py-1">ملاحظة :</h2>
+                    <h2 class="text-primary font-bold py-1">ملاحظة :</h2>
                     <p>
                       يمكنك تعديل كميات المكونات حسب رغبتك للحصول على الكمية
                       التي تريدها.
@@ -265,10 +265,10 @@
               },
             )}">شوكولاتة دارك</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >شوكولاتة دارك
               </Dialog.Title>
             </Dialog.Header>
@@ -278,7 +278,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>
                         - 21 حبة مكسرات (اخترت 3 أنواع: 7 حبات من كل نوع).
@@ -291,7 +291,7 @@
                     </ul>
                   </section>
                   <section class="py-2">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                     <ol class="">
                       <li>
                         1. ذوّب الشوكولاتة في الميكروويف لمدة دقيقة ونصف. تأكد
@@ -314,7 +314,7 @@
                     </ol>
                   </section>
                   <section class="py-2">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية: :
                     </h2>
                     <p>
@@ -400,10 +400,10 @@
               },
             )}">بليلة</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >بليلة
               </Dialog.Title>
             </Dialog.Header>
@@ -413,7 +413,7 @@
               >
                 <div class=" lg:text-sm text-xs">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- نصف كوب حمص مسلوق.</li>
                       <li>- بهارات (ملح / فلفل أسود / كمون).</li>
@@ -427,7 +427,7 @@
                     </ul>
                   </section>
                   <section class="py-2">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                     <ol class="">
                       <li>1. قطع الخيار وضعه في صحن.</li>
                       <li>
@@ -522,10 +522,10 @@
               },
             )}">بطاطس</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >بطاطس
               </Dialog.Title>
             </Dialog.Header>
@@ -535,13 +535,13 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- 228 جم بطاطس.</li>
                     </ul>
                   </section>
                   <section class="py-2">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                     <ol class="">
                       <li>1. قشر البطاطس وقطعها بالشكل الذي تريده.</li>
                       <li>2. اسلق البطاطس لمدة 7-10 دقائق</li>
@@ -559,7 +559,7 @@
                     </ol>
                   </section>
                   <section class="py-2">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية: :
                     </h2>
                     <p>- إجمالي السعرات: 182 سعرة حرارية.</p>
@@ -642,10 +642,10 @@
               },
             )}">شوكولاتة و فراولة</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh] bg-secondary shadow-md">
+          <Dialog.Content class=" w-[70vw] h-[90vh] shadow-md">
             <Dialog.Header class="">
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >شوكولاتة و فراولة
               </Dialog.Title>
             </Dialog.Header>
@@ -655,7 +655,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-secondary-foreground py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- 141 جم توت أو فراولة، أي نوع متوفر.</li>
                       <li>- علبة زبادي يوناني قليل الدسم (149 جم).</li>
@@ -664,7 +664,7 @@
                     </ul>
                   </section>
                   <section class="py-2">
-                    <h2 class=" text-secondary-foreground py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
                     <ol class="">
                       <li>
                         1. أضف ظرف سكر ستيفيا إلى علبة الزبادي اليوناني.                      </li>
@@ -679,7 +679,7 @@
                     </ol>
                   </section>
                   <section class="py-2">
-                    <h2 class="text-secondary-foreground py-1">
+                    <h2 class="text-primary font-bold py-1">
                       السعرات الحرارية: :
                     </h2>
                     <p>- إجمالي السعرات: 368  سعرة حرارية.</p>
