@@ -12,8 +12,8 @@ const buttonVariants = tv({
 				"   bg-background shadow-xl border-input text-secondary-foreground",
 			secondary: "bg-secondary text-secondary-foreground hover:bg-secondary/80",
 			ghost: "hover:bg-accent hover:text-accent-foreground",
-			link: "text-secondary-foreground underline-offset-4 hover:underline",
-			circl: "bg-primary/10 text-primary-foreground hover:bg-primary/ rounded-full a "
+			link: "text-secondary-foreground underline-offset-4 hover:underline  ",
+			circl: "bg-secondary-foreground text-primary-foreground hover:bg-primary/ rounded-full a "
 		},
 		size: {
 			default: " rounded-full h-10 px-4 py-2",

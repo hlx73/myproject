@@ -151,13 +151,13 @@
           <Dialog.Content class=" bg-secondary shadow-md">
             <Dialog.Header>
               <Dialog.Title
-                class="flex justify-center text-secondary-foreground"
+                class="flex justify-center "
                 >شكشوكة تركية
               </Dialog.Title>
             </Dialog.Header>
             <div class=" lg:text-sm text-xs">
               <section>
-                <h2 class="text-secondary-foreground">المكونات:</h2>
+                <h2 class="text-primary font-bold">المكونات:</h2>
                 <ul>
                   <li>- 120 جم طماطم حجم وسط.</li>
                   <li>- 25 جم ربع بصلة.</li>
