@@ -5,13 +5,14 @@
 
 @layer base {
   :root {
-    --background:351 100% 86%;
+    --background:0 0% 100%;
     --foreground:84 43% 35% ;
     
     --primary:352 79% 48%;
     --primary-foreground: 0 0% 100%;
     
-    --secondary:40 90% 96%;
+    --secondary:    351 100% 86
+    ;
     --secondary-foreground: 0 0% 0%;
     
     --accent: ;
@@ -42,7 +43,7 @@
     --background:0 0% 0%;
     --foreground:0 0% 0%;
     
-    --primary:352 79% 48%;
+    --primary:325 100% 50%;
     --primary-foreground: 0 0% 100%;
 
     --secondary:0 0% 9%;

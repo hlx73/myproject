@@ -5,7 +5,7 @@ import * as Dialog from "$lib/components/ui/dialog";
 </script>
 <mybutton>
 <Dialog.Trigger
-            class="text-xs lg:w-[16vw] w-[18vw] lg:h-fit h-[5vh] bg-secondary {buttonVariants(
+            class="text-xs lg:w-[16vw] w-[18vw] lg:h-fit h-[5vh]  {buttonVariants(
               {
                 variant: 'outline',
               },

@@ -3,7 +3,7 @@
 </script>
 
 <header class="flex justify-center items-center">
-  <div class=" w-[50vw] h-[35vh] p-5 mb-10 flex flex-col items-center">
+  <div class="  w-[50vw] h-[35vh] p-5 mb-10 flex flex-col items-center">
     <div class="">
       <h1 class="text-4xl font-bold text-primary">Joy Bites</h1>
       <div class="text-primary/90 pt-2 font-serif flex flex-col items-center">
@@ -113,7 +113,8 @@
 </div>
 <div class=" flex flex-col items-center pb-20">
   <div
-    class="bg-gradient-to-r from-background/90 to-primary/50 shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)]  lg:h-fit w-auto  rounded-xl ring-1 ring-secondary
+    class="bg-gradient-to-r from-background/90  to-primary/50 dark:bg-primary
+     shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)]  lg:h-fit w-auto  rounded-xl ring-1 ring-secondary
       p-6 grid grid-cols-3 gap-8 gap-y-6 
      justify-items-center"
   >
@@ -123,14 +124,14 @@
         <Button
           variant="outline"
           href="/breakfast"
-          class=" text-secondary-foreground  w-[20vw] h-7 lg:h-fit "
+          class=" text-secondary-foreground w-[20vw] h-7 lg:h-fit "
         >
           فطور
         </Button>
       </span>
     </div>
     <div class="lg:w-[15vw] w-[20vw] h-auto rounded-xl">
-      <img src="/main dishes .jpg" alt="" class="rounded-xl" />
+      <img src="/main dishes .jpg" alt="" class="rounded-xl " />
       <span class="flex justify-center py-2">
         <Button
           variant="outline"

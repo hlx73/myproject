@@ -82,7 +82,7 @@
             </Sheet.Root>
             <img src="/strawberry.png" alt="" class="rounded-full w-25 h-20" />
 
-            <span class=" font-bold text-[#db1a35]">Joy Bites</span>
+            <span class=" font-bold text-primary">Joy Bites</span>
             <div class="uppercase hidden lg:flex  ">
                 {#each links as link}
                     <Button
