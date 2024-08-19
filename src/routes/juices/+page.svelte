@@ -8,7 +8,7 @@
   <div class="flex flex-col items-center pb-20">
     <div
       class="
-      lg:h-fit w-auto lg:p-10 lg:gap-16 lg:gap-y-4  bg-gradient-to-r from-background/90 to-primary/50 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.7)] rounded-xl
+      lg:h-fit w-auto ring-1 ring-secondary lg:p-10 lg:gap-16 lg:gap-y-4  bg-gradient-to-r from-background/90 to-primary/50 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.7)] rounded-xl
       p-6 grid grid-cols-3 gap-8 gap-y-6
      justify-items-center
        "
