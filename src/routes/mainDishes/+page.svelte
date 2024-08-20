@@ -35,7 +35,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold pb-1">المكونات:</h2>
                     <ul>
                       <li>- 73 جرام خبز صامولي</li>
                       <li>- ملعقة صغيرة زيت زيتون</li>
@@ -48,7 +48,7 @@
                     </ul>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
                     <h2 class=" text-primary font-bold">
                       1. تحضير الروبيان:
                     </h2>
@@ -68,7 +68,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                    <h2 class=" text-primary font-bold ">
                       2. تحضير الصامولي:
                     </h2>
                     <ol class="">
@@ -78,8 +78,8 @@
                       <li>- أضف خليط الروبيان فوق الخضار.</li>
                     </ol>
                   </section>
-                  <section class="py-4">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="py-3">
+                    <h2 class="text-primary font-bold ">
                       السعرات الحرارية:
                     </h2>
                     <p>-371 سعرة حرارية</p>
@@ -197,21 +197,21 @@
                       <li>- جبن بارميزان (اختياري): 7 جرام (15 سعرة إضافية)</li>
                     </ul>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
-                    <h2 class="py-2 text-primary font-bold">
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold">
                       1. تحضير الدجاج:
                     </h2>
                     <ol class="">
                       <li>- شوي الدجاج في مقلاة حتى ينضج تماماً.</li>
-                      <li class="py-2 text-primary font-bold">
+                      <li class="pt-2 text-primary font-bold">
                         2. تحضير المكونات الأخرى:
                       </li>
                       <li>
                         - إذا كنت تستخدم سبانخ مجمد، ذوبه في المايكروويف أو قم
                         بإعداده مسبقاً.
                       </li>
-                      <li class="py-2 text-primary font-bold">
+                      <li class="pt-2 text-primary font-bold">
                         3. تجميع البيتزا:
                       </li>
                       <li>
@@ -228,7 +228,7 @@
                         - رش البهارات الإيطالية والجبن البارميزان (إذا كنت
                         تستخدمه) على الوجه.
                       </li>
-                      <li class="py-2 text-primary font-bold">4. الخبز:</li>
+                      <li class="pt-2 text-primary font-bold">4. الخبز:</li>
                       <li>
                         - أعد البيتزا إلى الفرن واخبزها على درجة حرارة 200 مئوية
                         حتى تذوب الجبنة وتصبح العجينة مقرمشة.
@@ -236,7 +236,7 @@
                     </ol>
                   </section>
 
-                  <h2 class="text-primary font-bold py-1">
+                  <h2 class="text-primary font-bold pt-3">
                     السعرات الحرارية:
                   </h2>
                   <p>-481 سعرة حرارية</p>
@@ -344,9 +344,9 @@
                       <li>- تورتيلا واحدة: 40 جرام</li>
                     </ul>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
-                    <h2 class="pt-2 text-primary font-bold">
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold">
                       1. تحضير الدجاج:
                     </h2>
                     <ol class="">
@@ -482,7 +482,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-primary font-bold pb-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- بصل: حبة صغيرة (36 جرام)</li>
                       <li>- فلفل رومي: حبة وسط (80 جرام)</li>
@@ -492,8 +492,8 @@
                       <li>- سبرنج رول: 4 حبات</li>
                     </ul>
                   </section>
-                  <section class="pt-2">
-                    <h2 class=" text-primary font-bold pb-1">الطريقة:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
                     <h2 class=" text-primary font-bold">1. تحضير الحشوة:</h2>
                     <ol class="">
                       <li>- سخن الصاج وأضف الدجاج، البصل، والفلفل الرومي.</li>
@@ -516,7 +516,7 @@
                     </ol>
                   </section>
 
-                  <h2 class="text-primary font-bold pb-1">
+                  <h2 class="text-primary font-bold pt-3">
                     السعرات الحرارية:
                   </h2>
                   <p>-377 سعرة حرارية</p>
@@ -624,8 +624,8 @@
                       <li>- بطاطس: حبة متوسطة إلى صغيرة (137 جرام)</li>
                     </ul>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">
                       طريقة التحضير:
                     </h2>
                     <h2 class=" text-primary font-bold">1. تحضير البرجر:</h2>
@@ -647,7 +647,7 @@
                     </ol>
                   </section>
                   <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                    <h2 class=" text-primary font-bold pt-2">
                       2. تحضير الصوص:
                     </h2>
                     <ol class="">
@@ -657,8 +657,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">
                       3. تحضير البطاطس:
                     </h2>
                     <ol class="">
@@ -670,7 +670,7 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-3">
+                  <section class="pt-3">
                     <h2 class=" text-primary font-bold py-1">4. التقديم:</h2>
                     <ol class="">
                       <li>
@@ -679,8 +679,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-4">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold ">
                       السعرات الحرارية:
                     </h2>
                     <p>-554 سعرة حرارية</p>
@@ -788,8 +788,8 @@
                       <li>- سيراشا: حوالي 5 جرام</li>
                     </ul>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">
                       طريقة البطاطس:
                     </h2>
                     <ol>
@@ -807,11 +807,11 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">
                       طريقة تحضير الوجبة:
                     </h2>
-                    <h2 class=" text-primary font-bold py-1">
+                    <h2 class=" text-primary font-bold ">
                       1.تحضير التورتيلا:
                     </h2>
                     <ol class="">
@@ -820,8 +820,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-2">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">
                       2.إعداد الحشوة:
                     </h2>
                     <ol class="">
@@ -833,16 +833,16 @@
                       <li>- رش الجبن قليلة الدسم فوق الخليط.</li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">3. الطهي:</h2>
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">3. الطهي:</h2>
                     <ol class="">
                       <li>
                         - اطبخ الوجبة على نار هادئة حتى ينضج البيض ويذوب الجبن.
                       </li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">4. التقديم:</h2>
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">4. التقديم:</h2>
                     <ol class="">
                       <li>
                         - أضف ملعقة رانش خالية الدهون وسيراشا حسب الرغبة على
@@ -850,8 +850,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">نصائح:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">نصائح:</h2>
                     <ol class="">
                       <li>
                         - يمكنك إضافة خضروات مثل الفلفل أو الطماطم إلى الحشوة
@@ -860,8 +860,8 @@
                       <li />
                     </ol>
                   </section>
-                  <section class="py-4">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold ">
                       السعرات الحرارية:
                     </h2>
                     <p>-389 سعرة حرارية</p>
@@ -972,9 +972,9 @@
                       <li>- زبادي يوناني (50 جرام، ملعقتين كبيرة)</li>
                     </ul>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold ">
                       1.تحضير الخبز:
                     </h2>
                     <ol>
@@ -986,8 +986,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">
                       2.تحضير الدجاج:
                     </h2>
                     <ol class="">
@@ -1001,8 +1001,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-2">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">
                       3.تحضير الخضروات:
                     </h2>
                     <ol class="">
@@ -1013,8 +1013,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">
                       4. تحضير الصوص:
                     </h2>
                     <ol class="">
@@ -1024,8 +1024,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">5. التقديم:</h2>
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">5. التقديم:</h2>
                     <ol class="">
                       <li>
                         - ضع طبقة من الخس أولاً، ثم أضف الدجاج والخضروات،
@@ -1034,8 +1034,8 @@
                     </ol>
                   </section>
 
-                  <section class="py-4">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold ">
                       السعرات الحرارية:
                     </h2>
                     <p>441 سعرة حرارية</p>
@@ -1146,9 +1146,9 @@
                       <li>- صلصة طماطم: 15 جرام</li>
                     </ul>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold ">
                       1. تحضير الدجاج:
                     </h2>
                     <ol>
@@ -1163,8 +1163,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">
                       2. تحضير البطاطس:
                     </h2>
                     <ol class="">
@@ -1177,8 +1177,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-2">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">
                       3. تجميع الطبق:
                     </h2>
                     <ol class="">
@@ -1188,8 +1188,8 @@
                       <li>- رشّ الموزاريلا فوق الطبقة الأخيرة.</li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">4.الخبز:</h2>
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">4.الخبز:</h2>
                     <ol class="">
                       <li>
                         - ضع الصينية في الفرن على حرارة من الأعلى حتى تذوب
@@ -1198,8 +1198,8 @@
                     </ol>
                   </section>
 
-                  <section class="py-4">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold ">
                       السعرات الحرارية:
                     </h2>
                     <p>السعرات الحرارية للصينية كاملة: 817 سعرة حرارية</p>
@@ -1310,8 +1310,8 @@
                       <li>- سلطة خضار (طماطم، خيار، ملفوف أحمر)</li>
                     </ul>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
 
                     <ol>
                       <li>
@@ -1329,8 +1329,8 @@
                     </ol>
                   </section>
 
-                  <section class="py-4">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold ">
                       السعرات الحرارية:
                     </h2>
                     <p>492 سعرة حرارية</p>
@@ -1429,8 +1429,8 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
-                    <h2 class="text-primary font-bold py-1">للعجينة:</h2>
+                    <h2 class="text-primary font-bold ">المكونات:</h2>
+                    <h2 class="text-primary font-bold ">للعجينة:</h2>
                     <ul>
                       <li>- كوب شوفان مطحون</li>
                       <li>- كوب طحين أسمر</li>
@@ -1440,8 +1440,8 @@
                       <li>- نصف كوب ماء دافئ</li>
                     </ul>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">للتزيين:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">للتزيين:</h2>
 
                     <ol>
                       <li>- دجاج: 11 جرام</li>
@@ -1449,8 +1449,8 @@
                       <li>- جبن موزاريلا: 45 جرام</li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">
                       لصلصة البيتزا:
                     </h2>
                     <ol class="">
@@ -1459,9 +1459,9 @@
                       <li>- قليلاً من الشطة السائلة</li>
                     </ol>
                   </section>
-                  <section class="py-2">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
+                    <h2 class=" text-primary font-bold ">
                       1. تحضير العجينة:
                     </h2>
                     <ol class="">
@@ -1473,16 +1473,16 @@
                       <li>- اترك العجينة لترتاح لمدة ساعة.</li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">
                       2. تحضير الصلصة:
                     </h2>
                     <ol class="">
                       <li>- اخلط الكاتشب، معجون الطماطم، والشطة السائلة.</li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">
                       3. تحضير البيتزا:
                     </h2>
                     <ol class="">
@@ -1496,7 +1496,7 @@
                       </li>
                     </ol>
 
-                    <section class="py-4">
+                    <section class="pt-3">
                       <h2 class="text-primary font-bold py-1">
                         السعرات الحرارية:
                       </h2>
@@ -1603,8 +1603,8 @@
                       <li>- 30 جرام جبن موتزاريلا (اختياري)</li>
                     </ul>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
 
                     <ol class="">
                       <li>1. ابشر البطاطس وصفيها جيداً من الماء.</li>
@@ -1625,12 +1625,12 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">اختياري:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">اختياري:</h2>
                     <p>أضف الجبن والفلفل الرومي بعد القلب النهائي.</p>
                   </section>
-                  <section class="py-4">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold ">
                       السعرات الحرارية:
                     </h2>
                     <p>-301  سعرة حرارية</p>
@@ -1727,7 +1727,7 @@
               >
                 <div class=" text-sm">
                   <section>
-                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold ">المكونات:</h2>
                     <ul>
                       <li>- صدر دجاج: 137 جرام</li>
                       <li>- بصل أحمر: 23 جرام</li>
@@ -1739,8 +1739,8 @@
                       <li>- مكرونة بالدقيق الأسمر أو مكرونة قليلة الكربوهيدرات</li>
                      </ul>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">
                       البهارات:                    </h2>
                     <ol class="">
                       <li>- ملح</li>
@@ -1750,10 +1750,10 @@
                       <li>- بهارات إيطالية</li>
                       </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">
                       الطريقة:                    </h2>
-                      <h2 class=" text-primary font-bold py-1">
+                      <h2 class=" text-primary font-bold ">
                         1. تحضير الدجاج:</h2>
                     <ol class="">
                       <li>   - قطّع صدر الدجاج إلى قطع صغيرة.
@@ -1761,40 +1761,40 @@
                       <li>   - في مقلاة، اقلي الدجاج حتى ينضج ويأخذ لوناً ذهبياً. أضف البصل الأحمر، الفلفل الرومي، والبروكلي واستمر في الطهي حتى تنضج الخضروات.</li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">
                       2. إعداد الصلصة:                    </h2>
                     <ol class="">
                       <li>   - أضف صلصة الطماطم المخففة بالماء إلى المقلاة.</li>
                       <li>   - أضف البهارات: الملح، الفلفل الأسود والأبيض، بودرة البصل والثوم، البابريكا، والبهارات الإيطالية. اترك الصلصة تغلي حتى تتكاثف وتصبح القوام المطلوب.</li>
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-secondary-foreground py-1">3. إعداد المكرونة:</h2>
+                  <section class="pt-2">
+                    <h2 class=" text-secondary-foreground ">3. إعداد المكرونة:</h2>
                     <ol class="">
                       <li>   - اطبخ المكرونة حسب التعليمات على العبوة. صفيها وأضفها إلى المقلاة مع الدجاج والخضار. اخلط جيداً حتى تمتزج المكونات.
                       </li> 
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">4. إضافة اللبن:</h2>
+                  <section class="pt-2">
+                    <h2 class=" text-primary font-bold ">4. إضافة اللبن:</h2>
                     <ol class="">
                       <li>   - أضف اللبن السائل إلى المقلاة واتركه ليدفأ مع التحريك. </li> 
                     </ol>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">التقديم:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">التقديم:</h2>
                   <p>- قدم الطبق ساخناً واستمتع به.
                   </p>
                   </section>
-                  <section class="py-3">
-                    <h2 class=" text-primary font-bold py-1">نصائح</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">نصائح</h2>
                   <p>
                     - يمكنك إضافة خضروات أخرى حسب الرغبة مثل الجزر أو الكوسا.                  </p>
                     <p>- يمكن استبدال اللبن بالكريمة قليلة الدسم إذا رغبت في إضافة قوام كريمي أكثر.</p>
                   </section>
-                  <section class="py-4">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold ">
                       السعرات الحرارية:
                     </h2>
                     <p>-432  سعرة حرارية</p>

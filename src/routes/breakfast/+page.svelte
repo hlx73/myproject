@@ -540,7 +540,7 @@
                   </li>
                 </ol>
               </section>
-              <h2 class="text-secondary-foreground">السعرات الحرارية:</h2>
+              <h2 class="text-primary font-bold">السعرات الحرارية:</h2>
               <p>- 377 سعرة حرارية.</p>
             </div>
             <div></div>
