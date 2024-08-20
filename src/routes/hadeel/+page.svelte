@@ -31,11 +31,11 @@
                 
             </div>
             <ScrollArea  
-            class="w-[50vw] lg:w-[30vw] h-[35vh] flex justify-center items-center p-4"
+            class="w-[50vw] lg:w-[30vw] h-[35vh] p-4"
             orientation="horizontal">
                <img src="cake1.jpg" alt="">
-                <img src="cake1.jpg" alt="">
-                <img src="cake1.jpg" alt="">
+                <img src="cake2.jpg" alt="">
+                <img src="cake3.jpg" alt="">
 
             </ScrollArea>
         </div>
