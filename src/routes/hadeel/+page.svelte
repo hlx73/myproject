@@ -1,4 +1,7 @@
-
+<script lang="ts">
+    import { ScrollArea } from "$lib/components/ui/scroll-area/index.js";
+  </script>
+  
 <div class="flex flex-col items-center pb-20">
     <div
         class=" w-[60vw] lg:w-[50vw] h-[90vh] lg:h-[100vh] lg:p-10 bg-gradient-to-r
@@ -13,7 +16,7 @@
                 <h2>
                     هديل,
                      طالبة ذكاء اصطناعي بكلية
-                 الحاسبات💕🤍.
+                 الحاسب 💕🤍.
                 </h2>
 
                 <h2>
@@ -27,7 +30,14 @@
                 </h2>
                 
             </div>
-            
+            <ScrollArea  
+            class="w-[50vw] lg:w-[30vw] h-[35vh] flex justify-center items-center p-4"
+            orientation="horizontal">
+               <img src="cake1.jpg" alt="">
+                <img src="cake1.jpg" alt="">
+                <img src="cake1.jpg" alt="">
+
+            </ScrollArea>
         </div>
     </div>
 </div>
