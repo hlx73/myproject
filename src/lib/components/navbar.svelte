@@ -35,6 +35,10 @@
             text: " سلطات",
             href: "/salad",
         },
+        {
+            text: "مبرمجة الموقع",
+            href: "/hadeel",
+        },
     ];
     let isSheetOpen = false;
 </script>
@@ -68,7 +72,7 @@
                     {#each links as link}
                         <Button
                             class="text-xl {$page.url.pathname == link.href &&
-                                'text-primary/50 dark:text-[#ffc9cf]'}"
+                                'text-primary/50 dark:text-[#ffc9cf] '}"
                             href={link.href}
                             variant="link"
                             on:click={() => (isSheetOpen = false)}
@@ -99,7 +103,7 @@
                 {#each links as link}
                     <Button
                         class=" {$page.url.pathname == link.href &&
-                            'text-primary/50'}"
+                            'text-primary/50 '}"
                         href={link.href}
                         variant="link">{link.text}</Button
                     >

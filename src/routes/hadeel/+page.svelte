@@ -1,5 +1,6 @@
 <script lang="ts">
-    import { ScrollArea } from "$lib/components/ui/scroll-area/index.js";
+  import { ScrollArea } from "$lib/components/ui/scroll-area/index.js";
+
 </script>
 
 <div class="flex flex-col items-center pb-20">
@@ -11,24 +12,26 @@
        rounded-xl p-4"
     >
         <div class="text-secondary-foreground">
-            <h1 class="font-bold flex justify-center lg:text-xl">من هديل؟</h1>
+            <h1 class="font-bold flex justify-center lg:text-xl">المبرمجة هديل </h1>
             <div class="font-sans py-9 text-sm lg:text-lg">
                 <h2>
-                    هديل💖، طالبة في السنة الثانية تخصص ذكاء اصطناعي بكلية
+                    هديل,
+                    طالبة في السنة الثانية تخصص ذكاء اصطناعي بكلية
                     الحاسبات 🦾🤍.
                 </h2>
                 <h2>أسعى لتطوير نفسي في مجال برمجة الواجهات والتصميم 👩🏻‍💻💕.</h2>
                 <h2>
                     أمارس نمط حياة صحي ولدي اهتمام كبير بالصحة والتغذية، ولذلك
-                    أنشأت موقعي Joy Bites ليكون وسيلة لجعل الناس يحبون الطعام
+                    قمت بتصميم وبرمجة موقعي Joy Bites ليكون وسيلة لجعل الناس يحبون الطعام
                     الصحي ويسهل عليهم الوصول إلى وصفات صحية ولذيذة.
                 </h2>
                 <h2>
                     لدي شغف كبير بصنع الحلويات والموازنة بينها وبين الحياة
-                    الصحية، وهذه بعض من أعمالي ✨💖
+                    الصحية، وهذه بعض من أعمالي ✨💖:
                 </h2>
-                </div>
+                
+            </div>
+            
         </div>
-        
     </div>
 </div>

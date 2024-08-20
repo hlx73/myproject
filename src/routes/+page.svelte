@@ -107,9 +107,9 @@
   </div>
 </header>
 <div
-  class="font-serif text-lg text-secondary-foreground flex justify-center pb-2"
+  class="font-bold text-lg text-primary flex justify-center pb-2"
 >
-  اختر قائمة 🍓
+  اختر قائمة 
 </div>
 <div class=" flex flex-col items-center pb-20">
   <div
