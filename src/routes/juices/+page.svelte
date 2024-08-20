@@ -47,12 +47,7 @@
                     <li></li>
                   </ol>
                 </section>
-                <div class="pt-3">
-                  <h2 class="text-primary font-bold ">
-                    السعرات الحرارية:
-                  </h2>
-                  <p>-حوالي 336 سعرة حرارية</p>
-                </div>
+               
               </div>
               <div></div>
             </Dialog.Content>
@@ -94,12 +89,7 @@
                     <li>4. نسكبهم في كاسات التقديم</li>
                   </ol>
                 </section>
-                <div class="pt-3">
-                  <h2 class="text-primary font-bold ">
-                    السعرات الحرارية:
-                  </h2>
-                  <p>-حوالي 125 سعرة حرارية.</p>
-                </div>
+                
               </div>
               <div></div>
               <div></div>
@@ -139,12 +129,7 @@
                     <li>3. قم بخلط جميع المكونات في الخلاط الكهربائي</li>
                   </ol>
                 </section>
-                <div class="pt-3">
-                  <h2 class="text-primary font-bold ">
-                    السعرات الحرارية:
-                  </h2>
-                  <p>حوالي 217 سعرة حرارية.</p>
-                </div>
+                
               </div>
               <div></div>
               <div></div>
@@ -182,12 +167,7 @@
                     <li>3. نخلط المكونات في الخلاط الكهربائي</li>
                   </ol>
                 </section>
-                <div class="pt-3">
-                  <h2 class="text-primary font-bold ">
-                    السعرات الحرارية:
-                  </h2>
-                  <p>حوالي 45-50 سعرة حرارية.</p>
-                </div>
+                
               </div>
               <div></div>
               <div></div>
@@ -205,13 +185,13 @@
                 { variant: 'outline' },
               )}">عنب وتوت</Dialog.Trigger
             >
-            <Dialog.Content>
-              <Dialog.Header class="">
+            <Dialog.Content >
+              <Dialog.Header >
                 <Dialog.Title>عنب وتوت</Dialog.Title>
               </Dialog.Header>
               <div class=" text-sm">
-                <section>
-                  <h2 class="text-primary font-bold py-1">المكونات:</h2>
+                <section >
+                  <h2 class="text-primary font-bold ">المكونات:</h2>
                   <ul>
                     <li>-نصف كوب من العنب الأحمر</li>
                     <li>-نصف كوب من التوت المشكل</li>
@@ -235,16 +215,9 @@
                     </li>
                   </ol>
                 </section>
-                <div class="pt-3">
-                  <h2 class="text-primary font-bold ">
-                    السعرات الحرارية:
-                  </h2>
-                  <p>حوالي 85-100 سعرة حرارية.</p>
-                </div>
-              </div>
-              <div></div>
-              <div></div>
-              <div></div>
+             </div>
+             <div></div>
+             <div></div>
             </Dialog.Content>
           </Dialog.Root>
         </span>
@@ -269,7 +242,6 @@
                     <li>-2 كيوي</li>
                     <li>-150 غرام أناناس</li>
                     <li>-ماء وثلج(حسب الرغبة)</li>
-                    <li>-ثلج</li>
                   </ul>
                 </section>
                 <section class="pt-3">
@@ -277,18 +249,10 @@
                   <ol class="">
                     <li>1. قم بتقشير الكيوي والأناناس وتقطيعهم إلى مكعبات.</li>
                     <li>2. ضع القطع في عصارة العصائر ومن ثم في كاسات.</li>
-                    <li>
-                      3. يمكن اضافة العسل إذا رغبت بذلك(واحسب السعرات مع
-                      المجموع)
-                    </li>
+                   
                   </ol>
                 </section>
-                <div class="pt-3">
-                  <h2 class="text-primary font-bold ">
-                    السعرات الحرارية:
-                  </h2>
-                  <p>حوالي 175-180 سعرة حرارية.</p>
-                </div>
+                
               </div>
               <div></div>
               <div></div>
