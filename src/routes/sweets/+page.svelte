@@ -29,10 +29,10 @@
        <ScrollArea
         class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
        >
-        <div class=" lg:text-sm text-xs">
+        <div class=" text-sm ">
          <section>
           <h2 class="text-primary font-bold py-1">المكونات:</h2>
-          <p class="text-primary font-bold py-1">للكيك:</p>
+          <p class="text-primary font-bold ">للكيك:</p>
           <ul>
            <li>- شوفان أو دقيق أبيض: 30 جرام</li>
            <li>
@@ -50,8 +50,8 @@
            <li>- لوز مبشور: 3 جرام</li>
           </ul>
          </section>
-         <section class="py-3">
-          <h2 class=" text-primary font-bold py-1">لطريقة البودينغ:</h2>
+         <section class="pt-3">
+          <h2 class=" text-primary font-bold ">لطريقة البودينغ:</h2>
           <ol class="">
            <li>- كاكاو: 3 جرام</li>
            <li>- حليب: مقدار كافٍ</li>
@@ -60,9 +60,9 @@
            <li>- نشا: مذاب في ماء</li>
           </ol>
          </section>
-         <section class="py-3">
-          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
-          <p class="text-primary font-bold py-1">الكيك:</p>
+         <section class="pt-3">
+          <h2 class=" text-primary font-bold ">الطريقة:</h2>
+          <p class="text-primary font-bold ">الكيك:</p>
 
           <ol class="">
            <li></li>
@@ -82,8 +82,8 @@
            </li>
           </ol>
          </section>
-         <section class="py-4">
-          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
+         <section class="pt-3">
+          <h2 class="text-primary font-bold ">السعرات الحرارية:</h2>
           <p>-388 سعرة حرارية</p>
          </section>
         </div>
@@ -173,10 +173,10 @@
        <ScrollArea
         class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
        >
-        <div class=" lg:text-sm text-xs">
+        <div class=" text-sm">
          <section>
           <h2 class="text-primary font-bold py-1">المكونات:</h2>
-          <p class="text-primary font-bold py-1">1. خليط الشوفان:</p>
+          <p class="text-primary font-bold ">1. خليط الشوفان:</p>
           <ul>
            <li>- شوفان مطحون: 50 جرام (5 ملاعق)</li>
            <li>- ماء: 70 مل</li>
@@ -185,8 +185,8 @@
            <li>- سكوب بروتين: 25 جرام (اختياري)</li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+         <section class="pt-3">
+          <h2 class=" text-primary font-bold ">الطريقة:</h2>
           <ol class="">
            <li>
             1. امزج الشوفان المطحون مع الماء، باكينج بودر، وبياض البيض (أو
@@ -198,25 +198,25 @@
            </li>
           </ol>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-1">للكاسترد:</h2>
+         <section class="pt-3">
+          <h2 class=" text-primary font-bold ">للكاسترد:</h2>
           <p>- 60 مل من الحليب قليل الدسم</p>
           <p>- 1 ملعقة كبيرة من مسحوق الكاسترد</p>
           <p>- ملعقة صغيرة من سكر ستيفيا</p>
           <p>- نقطة من نكهة الموز (تعطي طعم رائع)</p>
-          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+          <h2 class=" text-primary font-bold pt-3">الطريقة:</h2>
           <p>
            اخلطي جميع المكونات معًا جيدًا، ثم ضعي الخليط في- الميكروويف لمدة 30
            ثانية.
           </p>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-1">سعرات خليط الشوفان:</h2>
+         <section class="pt-3">
+          <h2 class=" text-primary font-bold ">سعرات خليط الشوفان:</h2>
           <p>- 325 سعرة حرارية (بدون كاسترد)</p>
           <p>- مع الكاسترد: 366 سعرة حرارية</p>
          </section>
          <section>
-          <h2 class="text-primary font-bold py-1">إضافات الفاكهة:</h2>
+          <h2 class="text-primary font-bold pt-2">إضافات الفاكهة:</h2>
           <ul>
            <li>- خليط الفراولة:أضف 24 جرام من الفراولة إلى نصف الخليط</li>
            <li>-السعرات:28 سعرة حرارية</li>
@@ -225,8 +225,8 @@
            <li>-السعرات:24 سعرة حرارية</li>
           </ul>
          </section>
-         <section class="py-3">
-          <h2 class="text-primary font-bold py-1">
+         <section class="pt-3">
+          <h2 class="text-primary font-bold ">
            2. بانكيك الموز واللوز:
           </h2>
           <ul>
@@ -235,12 +235,12 @@
            <li>- موز: 11 جرام</li>
            <li>- شرائح اللوز: نصف جرام</li>
            <li>- ماء: 6 جرام (إذا استخدمت بروتين باودر)</li>
-           <li class="py-1">-السعرات:41 سعرة حرارية</li>
+           <li class="">-السعرات:41 سعرة حرارية</li>
            <li></li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class="text-primary font-bold py-1">3. بانكيك المانجو:</h2>
+         <section class="pt-3">
+          <h2 class="text-primary font-bold ">3. بانكيك المانجو:</h2>
           <ul>
            <li>- زبادي يوناني: 22 جرام</li>
            <li>- بروتين باودر: 6 جرام (اختياري)</li>
@@ -248,8 +248,8 @@
            <li>-السعرات:47 سعرة حرارية</li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class="text-primary font-bold py-1">4. بانكيك التمر:</h2>
+         <section class="pt-3">
+          <h2 class="text-primary font-bold ">4. بانكيك التمر:</h2>
           <ul>
            <li>
             - تمر: 10 جرام (حبة مقسمة إلى نصفين، نصف للتزيين ونصف لحشو البانكيك)
@@ -344,7 +344,7 @@
        <ScrollArea
         class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
        >
-        <div class=" lg:text-sm text-xs">
+        <div class=" text-sm ">
          <section>
           <h2 class="text-primary font-bold py-1">المكونات:</h2>
           <ul>
@@ -359,8 +359,8 @@
            <li>- 15 جرام شوكولاتة</li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+         <section class="pt-3">
+          <h2 class=" text-primary font-bold ">الطريقة:</h2>
           <ol class="">
            <li>
             1. ذوّب زبدة الفول السوداني في المايكروويف واتركها لتبرد قليلاً.
@@ -386,8 +386,8 @@
            </li>
           </ol>
          </section>
-         <section class="py-2">
-          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
+         <section class="py-3">
+          <h2 class="text-primary font-bold ">السعرات الحرارية:</h2>
           <p>-109 سعرة حرارية</p>
          </section>
         </div>
@@ -476,7 +476,7 @@
        <ScrollArea
         class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
        >
-        <div class=" lg:text-sm text-xs">
+        <div class=" text-sm">
          <section>
           <h2 class="text-primary font-bold py-1">المكونات:</h2>
           <ul>
@@ -489,9 +489,9 @@
            <li>- جبن فيلادلفيا لايت: 40 جرام</li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
-          <p class=" text-secondary-foreground py-1">1. تحضير الكيك:</p>
+         <section class="pt-3">
+          <h2 class=" text-primary font-bold ">الطريقة:</h2>
+          <p class=" text-secondary-foreground ">1. تحضير الكيك:</p>
           <ol class="">
            <li>
             - اخلط الشوفان المطحون، باكينج باودر، بروتين باودر (إذا استخدمته)،
@@ -505,22 +505,22 @@
            </li>
           </ol>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-1">
+         <section class="pt-2">
+          <h2 class=" text-primary font-bold ">
            2. تحضير الكريمة البيضاء:
           </h2>
           <p>- اخلط زبادي يوناني مع جبن فيلادلفيا لايت.</p>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-1">3. تحضير مربى التوت:</h2>
+         <section class="pt-2">
+          <h2 class=" text-primary font-bold ">3. تحضير مربى التوت:</h2>
           <p>
            - ضع مزيج التوت على النار مع سكر دايت وأضف قليل من الماء لمنع
            احتراقه.
           </p>
           <p>- أضف نشا مذوب في 20 مل من الماء، وخلط جيداً حتى يتماسك.</p>
          </section>
-         <section>
-          <h2 class="text-primary font-bold py-1">4. التجميع:</h2>
+         <section class="pt-2">
+          <h2 class="text-primary font-bold ">4. التجميع:</h2>
           <ul>
            <li>
             - بين كل طبقة من الكيك، ضع طبقة من الكريمة البيضاء ومربى التوت.
@@ -528,8 +528,8 @@
            <li>- زين الوجه بالفراولة، التوت، ونعناع إذا رغبت.</li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
+         <section class="pt-3">
+          <h2 class="text-primary font-bold ">السعرات الحرارية:</h2>
           <p>-422 سعرة حرارية</p>
          </section>
         </div>
@@ -618,7 +618,7 @@
        <ScrollArea
         class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
        >
-        <div class=" lg:text-sm text-xs">
+        <div class=" text-sm ">
          <section>
           <h2 class="text-primary font-bold py-1">المكونات:</h2>
           <ul>
@@ -630,8 +630,8 @@
            <li>- 100 جرام من الفراولة</li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+         <section class="pt-3">
+          <h2 class=" text-primary font-bold ">الطريقة:</h2>
           <p class=" text-primary font-bold">1. تحضير الطبقة الأولى:</p>
           <ol>
            <li>- اطحن البسكويت وأضف إليه 7 مل من الماء.</li>
@@ -641,8 +641,8 @@
            </li>
           </ol>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-2">
+         <section class="pt-2">
+          <h2 class=" text-primary font-bold ">
            2. تحضير الطبقة الثانية:
           </h2>
           <p>
@@ -650,26 +650,26 @@
            من السعرات أو ستيفيا.
           </p>
           <p>- ضع 24 جرامًا من هذا الخليط فوق طبقة البسكويت.</p>
-          <h2 class=" text-primary font-bold py-1">3. الخبز:</h2>
+          <h2 class=" text-primary font-bold pt-2">3. الخبز:</h2>
           <p>- سخن الفرن على درجة حرارة 170 درجة مئوية.</p>
           <p>
            - اخبز القوالب لمدة 10 دقائق من كل جهة. إذا كنت بحاجة إلى وقت أكثر أو
            أقل، راقب القوالب واضغط عليها بطرف الملعقة. إذا لم تلتصق، فهي جاهزة.
           </p>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-1">سعرات خليط الشوفان:</h2>
+         <section class="pt-2">
+          <h2 class=" text-primary font-bold ">سعرات خليط الشوفان:</h2>
           <p>- 325 سعرة حرارية (بدون كاسترد)</p>
           <p>- مع الكاسترد: 366 سعرة حرارية</p>
          </section>
          <section>
-          <h2 class="text-primary font-bold py-2">4. التبريد:</h2>
+          <h2 class="text-primary font-bold pt-2">4. التبريد:</h2>
           <ul>
            <li>- ضع القوالب في الفريزر لمدة ساعة ثم أخرجها من القوالب.</li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class="text-primary font-bold py-1">
+         <section class="pt-2">
+          <h2 class="text-primary font-bold ">
            5. تحضير الطبقة الأخيرة (صلصة الفراولة):
           </h2>
           <ul>
@@ -684,8 +684,8 @@
            <li>- زين الطبقة الأخيرة حسب رغبتك.</li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
+         <section class="pt-3">
+          <h2 class="text-primary font-bold ">السعرات الحرارية:</h2>
           <p>الحبة 65 سعرة</p>
          </section>
         </div>
@@ -772,7 +772,9 @@
         >حلى الاوريو
        </Dialog.Title>
       </Dialog.Header>
-      <div class=" lg:text-sm text-xs">
+      <!-- svelte-ignore missing-declaration -->
+      <ScrollArea  class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4">
+      <div class="text-sm">
        <section>
         <h2 class="text-primary font-bold py-1">المكونات:</h2>
         <ul>
@@ -787,8 +789,8 @@
          <li>- قطعة شوكولاتة بالحليب: 10 جرام.</li>
         </ul>
        </section>
-       <section class="py-2">
-        <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+       <section class="pt-3">
+        <h2 class=" text-primary font-bold ">الطريقة:</h2>
         <ol class="">
          <li>1. ضع 3 حبات أوريو في وعاء، ثم أضف 10 مل حليب.</li>
          <li>
@@ -806,11 +808,12 @@
          </li>
         </ol>
        </section>
-       <section class="py-2">
+       <section class="pt-3">
         <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
         <p>-249 سعرة حرارية</p>
        </section>
       </div>
+    </ScrollArea>
       <div class="flex justify-end items-end text-xs">
         <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
          
@@ -892,7 +895,7 @@
         >حلى الآيسكريم
        </Dialog.Title>
       </Dialog.Header>
-      <div class=" lg:text-sm text-xs">
+      <div class="  text-sm">
        <section>
         <h2 class="text-primary font-bold py-1">المكونات:</h2>
         <ul>
@@ -903,8 +906,8 @@
          <li>- للتزيين: توت أحمر مجمد، 2 جرام.</li>
         </ul>
        </section>
-       <section class="py-2">
-        <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+       <section class="pt-3">
+        <h2 class=" text-primary font-bold ">الطريقة:</h2>
         <ol class="">
          <li>1. ذوّب الشوكولاتة الغامقة وشوكولاتة الحليب في حمام مائي.</li>
          <li>2. ضع ملعقة كبيرة من الآيس كريم على إحدى قطع كعك الأرز.</li>
@@ -914,8 +917,8 @@
          <li>5. اتركه في الفريزر ليجمد لمدة 10 دقائق على الأقل.</li>
         </ol>
        </section>
-       <section class="py-2">
-        <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
+       <section class="pt-3">
+        <h2 class="text-primary font-bold ">السعرات الحرارية:</h2>
         <p>-158 سعرة حرارية</p>
        </section>
       </div>
@@ -1021,8 +1024,8 @@
            <li>- بودرة فول سوداني (اختياري): 7 جرام</li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+         <section class="pt-3">
+          <h2 class=" text-primary font-bold ">الطريقة:</h2>
           <ol class="">
            <li>
             1. امزج الشوفان أو الدقيق، بروتين البودر، باكينج باودر، البيضة،
@@ -1042,8 +1045,8 @@
            </li>
           </ol>
          </section>
-         <section class="py-2">
-          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
+         <section class="pt-3">
+          <h2 class="text-primary font-bold ">السعرات الحرارية:</h2>
           <p>-158 سعرة حرارية</p>
          </section>
         </div>
@@ -1141,8 +1144,8 @@
            <li>- 50 جم حليب (لتغميس التوست).</li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-1">للكريمة:</h2>
+         <section class="pt-3">
+          <h2 class=" text-primary font-bold ">للكريمة:</h2>
           <ol>
            <li>- 24 جم دريم ويب.</li>
            <li>- ملعقة صغيرة فانيلا.</li>
@@ -1151,14 +1154,14 @@
            <li>- علبتين زبادي بالفراولة (اكتيفيا).</li>
           </ol>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-2">للجلي:</h2>
+         <section class="pt-3">
+          <h2 class=" text-primary font-bold ">للجلي:</h2>
           <p>- 23 جم جيلي.</p>
           <p></p>
          </section>
 
          <section>
-          <h2 class="text-primary font-bold py-2">الطريقة:</h2>
+          <h2 class="text-primary font-bold pt-3">الطريقة:</h2>
           <ul>
            <li>
             1. في وعاء، اخفق الدريم ويب مع الماء البارد حتى يتكون قوام شبه كريمي
@@ -1180,8 +1183,8 @@
           </ul>
          </section>
 
-         <section class="py-2">
-          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
+         <section class="pt-3">
+          <h2 class="text-primary font-bold ">السعرات الحرارية:</h2>
           <p>- لكل الكمية: 794 سعرة حرارية.</p>
           <p>- لكل قطعة (من أصل 6 قطع): 133 سعرة حرارية.</p>
          </section>
@@ -1289,7 +1292,7 @@
          </section>
 
          <section>
-          <h2 class="text-primary font-bold py-2">الطريقة:</h2>
+          <h2 class="text-primary font-bold pt-3">الطريقة:</h2>
           <ul>
            <li>
             1. اخلط البيضة، الزبادي اليوناني، ومحلي الفانيلا أو سكر ستيفيا مع
@@ -1302,22 +1305,22 @@
            </li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-2">3. لتحضير الصوص:</h2>
+         <section class="pt-3">
+          <h2 class=" text-primary font-bold ">لتحضير الصوص:</h2>
           <p>
            - اخلط القرفة مع ميبل سيرب وظرف سكر ستيفيا. استخدم كيس حلواني لتشكيل
            الصوص بشكل حلزوني.
           </p>
           <p></p>
-          <h2 class=" text-primary font-bold py-2">
-           4. لتحضير الصوص الأبيض (اختياري):
+          <h2 class=" text-primary font-bold pt-3">
+            لتحضير الصوص الأبيض (اختياري):
           </h2>
           <p>
            - اخلط جبن فيلادلفيا لايت مع ماء وسكر ستيفيا حتى تحصل على القوام
            المناسب.
           </p>
          </section>
-         <section class="py-2">
+         <section class="pt-3">
           <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
           <p>- 379 سعرة حرارية.</p>
          </section>
@@ -1423,7 +1426,7 @@
          </section>
 
          <section>
-          <h2 class="text-primary font-bold py-2">الطريقة:</h2>
+          <h2 class="text-primary font-bold pt-3">الطريقة:</h2>
           <ul>
            <li>
             1. اخلط الشوفان المطحون، باكينج باودر، الزبادي، كاكاو بودرة، سكر ستيفيا، والقهوة في وعاء حتى تتجانس المكونات.
@@ -1438,8 +1441,8 @@
            </li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
+         <section class="pt-3">
+          <h2 class="text-primary font-bold ">السعرات الحرارية:</h2>
           <p>- 266  سعرة حرارية.</p>
          </section>
         </div>
@@ -1550,7 +1553,7 @@
          </section>
 
          <section>
-          <h2 class="text-primary font-bold py-2">الطريقة:</h2>
+          <h2 class="text-primary font-bold pt-3">الطريقة:</h2>
           <ul>
            <li>
             1. في وعاء، اخلط الزبادي، البيضة، وسكر ستيفيا.
@@ -1562,16 +1565,16 @@
            <li>   - اخلط القسم الثاني مع التوت المشكل، ثم اسكبه فوق الخليط الأول في الصينية.</li>
           </ul>
          </section>
-         <section class="py-2">
-          <h2 class=" text-primary font-bold py-2">الصينية</h2>
+         <section class="pt-3">
+          <h2 class=" text-primary font-bold ">الصينية</h2>
           <p>
            3. رش البسكوت بدون سكر على السطح.
           </p>
           <p>4. اخبز الخليط في فرن مُسخن مسبقًا على حرارة 180 درجة مئوية حتى ينضج (من الأعلى والأسفل).</p>
           
          </section>
-         <section class="py-2">
-          <h2 class="text-primary font-bold py-1">السعرات الحرارية:</h2>
+         <section class="pt-3">
+          <h2 class="text-primary font-bold ">السعرات الحرارية:</h2>
           <p>- 384  سعرة حرارية.</p>
          </section>
         </div>

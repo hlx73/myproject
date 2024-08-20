@@ -34,7 +34,7 @@
               <ScrollArea
                 class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
-                <div class=" lg:text-sm text-xs">
+                <div class="  text-sm">
                   <section>
                     <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
@@ -49,8 +49,8 @@
                       <li>- 15 جرام شوكولاتة</li>
                     </ul>
                   </section>
-                  <section class="py-2">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
                     <ol class="">
                       <li>
                         1. ضع جميع المكونات في محضرة الطعام واخلطها حتى تتجانس.
@@ -62,8 +62,8 @@
                       <li>3. زين الكرات بزبدة الفول السوداني وجوز الهند.</li>
                     </ol>
                   </section>
-                  <section class="py-2">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold ">
                       السعرات الحرارية:
                     </h2>
                     <p>- السعرات الحرارية لكل كرة: 58 سعرة حرارية.</p>
@@ -158,7 +158,7 @@
               <ScrollArea
                 class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
-                <div class=" lg:text-sm text-xs">
+                <div class=" text-sm">
                   <section>
                     <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
@@ -169,8 +169,8 @@
                       <li>- سكر ستيفيا أو عسل.</li>
                     </ul>
                   </section>
-                  <section class="py-2">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
                     <ol class="">
                       <li>1. اخلط جميع المكونات معًا حتى تتجانس.</li>
                       <li>2. شكّل الخليط إلى كرات صغيرة.</li>
@@ -180,8 +180,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-2">
-                    <h2 class="text-primary font-bold py-1">ملاحظة :</h2>
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold">ملاحظة :</h2>
                     <p>
                       يمكنك تعديل كميات المكونات حسب رغبتك للحصول على الكمية
                       التي تريدها.
@@ -190,7 +190,7 @@
                 </div>
               </ScrollArea>
             </div>
-            <div class="flex justify-end items-end text-xs">
+            <div class="flex justify-end items-end text-xs ">
               <Button variant="ghost" href="https://www.instagram.com/fatima_diet04?igsh=cXRianEyajc1Nmow">
                
                 <p class="px-1">
@@ -259,7 +259,7 @@
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[14vw] lg:h-fit h-[5vh] {buttonVariants(
+            class="text-xs lg:w-[20vw] w-[16vw] lg:h-fit h-[5vh] {buttonVariants(
               {
                 variant: 'outline',
               },
@@ -290,8 +290,8 @@
                       <li>- رشة ملح.</li>
                     </ul>
                   </section>
-                  <section class="py-2">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold">الطريقة:</h2>
                     <ol class="">
                       <li>
                         1. ذوّب الشوكولاتة في الميكروويف لمدة دقيقة ونصف. تأكد
@@ -313,8 +313,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-2">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold">
                       السعرات الحرارية: :
                     </h2>
                     <p>
@@ -411,7 +411,7 @@
               <ScrollArea
                 class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
-                <div class=" lg:text-sm text-xs">
+                <div class=" text-sm">
                   <section>
                     <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
@@ -426,8 +426,8 @@
                       </li>
                     </ul>
                   </section>
-                  <section class="py-2">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
                     <ol class="">
                       <li>1. قطع الخيار وضعه في صحن.</li>
                       <li>
@@ -443,6 +443,13 @@
                       </li>
                       <li>5. رش البهارات وأضف عصرة ليمون إضافية إذا رغبت.</li>
                     </ol>
+                  </section>
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold">
+                      السعرات الحرارية: :
+                    </h2>
+                    <p>- تقريبًا 140 سعرة حرارية.
+                    </p>
                   </section>
                 </div>
               </ScrollArea>
@@ -540,8 +547,8 @@
                       <li>- 228 جم بطاطس.</li>
                     </ul>
                   </section>
-                  <section class="py-2">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
                     <ol class="">
                       <li>1. قشر البطاطس وقطعها بالشكل الذي تريده.</li>
                       <li>2. اسلق البطاطس لمدة 7-10 دقائق</li>
@@ -558,8 +565,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-2">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold ">
                       السعرات الحرارية: :
                     </h2>
                     <p>- إجمالي السعرات: 182 سعرة حرارية.</p>
@@ -636,11 +643,11 @@
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[17vw] lg:h-fit h-[5vh] {buttonVariants(
+            class="text-xs  w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
               {
                 variant: 'outline',
               },
-            )}">شوكولاتة و فراولة</Dialog.Trigger
+            )}">شوكولاتة وفراولة</Dialog.Trigger
           >
           <Dialog.Content class=" w-[70vw] h-[90vh] shadow-md">
             <Dialog.Header class="">
@@ -663,8 +670,8 @@
                       <li>- 36 مل حليب قليل الدسم.</li>
                     </ul>
                   </section>
-                  <section class="py-2">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
                     <ol class="">
                       <li>
                         1. أضف ظرف سكر ستيفيا إلى علبة الزبادي اليوناني.                      </li>
@@ -678,8 +685,8 @@
                         4. ضع الصينية في الفريزر حتى تتجمد القطع. </li>
                     </ol>
                   </section>
-                  <section class="py-2">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold ">
                       السعرات الحرارية: :
                     </h2>
                     <p>- إجمالي السعرات: 368  سعرة حرارية.</p>

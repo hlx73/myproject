@@ -29,7 +29,9 @@
                 >سلطة دجاج
               </Dialog.Title>
             </Dialog.Header>
-            <div class=" lg:text-sm text-xs">
+            <ScrollArea class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+            >
+            <div class=" text-sm">
               <section>
                 <h2 class="text-primary font-bold py-1">المكونات:</h2>
                 <ul>
@@ -44,16 +46,16 @@
                   <li>- بقدونس (مفروم، حسب الرغبة).</li>
                 </ul>
               </section>
-              <section class="py-3">
-                <h2 class=" text-primary font-bold py-1">للصوص:</h2>
+              <section class="pt-3">
+                <h2 class=" text-primary font-bold ">للصوص:</h2>
                 <ol class="">
                   <li>- 59 جم زبادي.</li>
                   <li>- ملعقة صغيرة صوص تتبيلة فرنسية.</li>
                   <li>- عصير ليمونة.</li>
                 </ol>
               </section>
-              <section class="py-3">
-                <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+              <section class="pt-3">
+                <h2 class=" text-primary font-bold ">الطريقة:</h2>
                 <ol class="">
                   <li>1. شوّح الدجاج في مقلاة حتى ينضج.</li>
                   <li>
@@ -67,13 +69,14 @@
                   <li>4. أضف الدجاج إلى الخضار، ثم أضف الصوص وامزج جيدًا.</li>
                 </ol>
               </section>
-              <section class="py-4">
-                <h2 class="text-primary font-bold py-1">
+              <section class="pt-3">
+                <h2 class="text-primary font-bold ">
                   السعرات الحرارية:
                 </h2>
                 <p>-203 سعرة حرارية</p>
               </section>
             </div>
+          </ScrollArea>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/daity_2?igsh=anEydm1uNXFpcmp5">
                
@@ -156,7 +159,8 @@
                 >سلطة التونة والباذنجان
               </Dialog.Title>
             </Dialog.Header>
-            <div class=" lg:text-sm text-xs">
+            <ScrollArea class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4">
+            <div class=" text-sm">
               <section>
                 <h2 class="text-primary font-bold py-1">المكونات:</h2>
                 <ul>
@@ -173,8 +177,8 @@
                   <li>- 1 علبة تونة صغيرة (بالماء، مصفاة).</li>
                 </ul>
               </section>
-              <section class="py-2">
-                <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+              <section class="pt-3">
+                <h2 class=" text-primary font-bold ">الطريقة:</h2>
                 <ol class="">
                   <li>1. قطع الخضار إلى قطع صغيرة وضعها جانبا</li>
                   <li>
@@ -189,8 +193,8 @@
                   <li>5. أضف الخضار المقطعة والتونة المصفاة، ثم اخلط جيدًا.</li>
                 </ol>
               </section>
-              <section class="py-4">
-                <h2 class="text-primary font-bold py-1">
+              <section class="pt-3">
+                <h2 class="text-primary font-bold ">
                   السعرات الحرارية:
                 </h2>
                 <p>
@@ -199,6 +203,7 @@
                 </p>
               </section>
             </div>
+          </ScrollArea>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/hanaz45_35?igsh=MXc2MmN6MGJuMTN5bg==">
                
@@ -281,9 +286,10 @@
                 >سلطة الباذنجان
               </Dialog.Title>
             </Dialog.Header>
-            <div class=" lg:text-sm text-xs">
+            <ScrollArea class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4">
+            <div class="text-sm">
               <section>
-                <h2 class="text-primary font-bold pb-1">المكونات:</h2>
+                <h2 class="text-primary font-bold py-1">المكونات:</h2>
                 <ul>
                   <li>
                     - حبة بطاطس (مقطعة مكعبات ومقلية في القلاية الهوائية).
@@ -295,8 +301,8 @@
                   <li>- 50 جم حمص.</li>
                 </ul>
               </section>
-              <section class="pb-2">
-                <h2 class=" text-primary font-bold py-1">للصوص:</h2>
+              <section class="pt-3">
+                <h2 class=" text-primary font-bold ">للصوص:</h2>
                 <ol class="">
                   <li>- 100 جم زبادي.</li>
                   <li>- عصرة ليمون.</li>
@@ -304,14 +310,14 @@
                   <li>- ملح وفلفل أسود.</li>
                 </ol>
               </section>
-              <section class="pb-2">
-                <h2 class=" text-primary font-bold py-1">للزينة:</h2>
+              <section class="pt-3">
+                <h2 class=" text-primary font-bold ">للزينة:</h2>
                 <ol class="">
                   <li>- رشة سماق.</li>
                 </ol>
               </section>
-              <section class="pلا-2">
-                <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+              <section class="pt-3">
+                <h2 class=" text-primary font-bold ">الطريقة:</h2>
                 <ol class="">
                   <li>
                     1. قلِّ البطاطس والباذنجان في القلاية الهوائية حتى تنضج
@@ -328,13 +334,14 @@
                   <li>4. أضف الصوص فوق الخضار ورشّ السماق على الوجه.</li>
                 </ol>
               </section>
-              <section class="py-2">
-                <h2 class="text-primary font-bold py-1">
+              <section class="pt-3">
+                <h2 class="text-primary font-bold ">
                   السعرات الحرارية:
                 </h2>
                 <p>- 390 سعرة حرارية.</p>
               </section>
             </div>
+            </ScrollArea>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthrab?igsh=OG9vM3pqaGRxOTR3">
                
@@ -418,7 +425,9 @@
                 سلطة منعشة
               </Dialog.Title>
             </Dialog.Header>
-            <div class=" lg:text-sm text-xs">
+            <ScrollArea class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4">
+
+            <div class="  text-sm">
               <section>
                 <h2 class="text-primary font-bold py-1">المكونات:</h2>
                 <ul>
@@ -435,8 +444,8 @@
                   <li>- 1 جم مايونيز الترافل (اختياري).</li>
                 </ul>
               </section>
-              <section class="py-2">
-                <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+              <section class="pt-3">
+                <h2 class=" text-primary font-bold">الطريقة:</h2>
                 <ol class="">
                   <li>
                     1. تبل الدجاج بالملح، الفلفل الأسود، بودرة البصل، والثوم.
@@ -452,13 +461,14 @@
                   <li>3. امزج الصوص مع الخضار والدجاج المقطع.</li>
                 </ol>
               </section>
-              <section class="py-4">
-                <h2 class="text-primary font-bold py-1">
+              <section class="pt-3">
+                <h2 class="text-primary font-bold ">
                   السعرات الحرارية:
                 </h2>
                 <p>- 271 سعرة حرارية.</p>
               </section>
             </div>
+          </ScrollArea>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
                
@@ -542,9 +552,11 @@
                 سلطة البطاطس
               </Dialog.Title>
             </Dialog.Header>
-            <div class=" lg:text-sm text-xs">
+            <ScrollArea class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4">
+
+            <div class=" text-sm">
               <section>
-                <h2 class="text-primary font-bold py-2">المكونات:</h2>
+                <h2 class="text-primary font-bold py-1">المكونات:</h2>
                 <ul>
                   <li>- 200 جم زبادي يوناني خال الدسم.</li>
                   <li>- 10 جم طحينية سائلة.</li>
@@ -554,8 +566,8 @@
                   <li>- بطاطس صغيرة بقشرتها.</li>
                 </ul>
               </section>
-              <section class="py-2">
-                <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+              <section class="pt-3">
+                <h2 class=" text-primary font-bold ">الطريقة:</h2>
                 <ol class="">
                   <li>
                     1. اخلط الزبادي اليوناني مع الطحينية، النعناع المجفف، الملح،
@@ -575,17 +587,18 @@
                   </li>
                 </ol>
               </section>
-              <section class="py-2">
-                <h2 class="text-primary font-bold py-1">ملاحظة:</h2>
+              <section class="pt-3">
+                <h2 class="text-primary font-bold ">ملاحظة:</h2>
                 <p>-يمكن إضافة سلطة من اختيارك ورمان إلى الطبق.</p>
               </section>
-              <section class="py-2">
-                <h2 class="text-primary font-bold py-1">
+              <section class="pt-3">
+                <h2 class="text-primary font-bold">
                   السعرات الحرارية:
                 </h2>
                 <p>- 349 سعرة حرارية.</p>
               </section>
             </div>
+          </ScrollArea>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/i_smr?igsh=MXY2ejAxanlrcXZqOQ==">
                
@@ -672,9 +685,9 @@
               <ScrollArea
                 class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
-                <div class=" lg:text-sm text-xs">
+                <div class="  text-sm">
                   <section>
-                    <h2 class="text-primary font-bold pb-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- 45 جم كينوا.</li>
                       <li>- أوراق كيل (سعراتها شبه معدومة، لا تحسب).</li>
@@ -687,8 +700,8 @@
                       <li>- خردل (حسب الرغبة، لا تحسب سعراته).</li>
                     </ul>
                   </section>
-                  <section class="pb-2">
-                    <h2 class=" text-primary font-bold py-1">للصوص:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">للصوص:</h2>
                     <ol class="">
                       <li>- 3 جم زبدة فول سوداني.</li>
                       <li>- 1 جم بودرة فول سوداني.</li>
@@ -700,8 +713,8 @@
                       <li>- ملح.</li>
                     </ol>
                   </section>
-                  <section class="pb-2">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold">الطريقة:</h2>
                     <ol class="">
                       <li>
                         1. قطّع أوراق الكيل، اغسلها جيدًا، ثم أضف إليها نصف
@@ -725,8 +738,8 @@
                       </li>
                     </ol>
                   </section>
-                  <section class="py-2">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold ">
                       السعرات الحرارية:
                     </h2>
                     <p>- 333 سعرة حرارية.</p>
@@ -820,7 +833,7 @@
               <ScrollArea
                 class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
-                <div class=" lg:text-sm text-xs">
+                <div class="  text-sm">
                   <section>
                     <h2 class="text-primary font-bold pb-1">المكونات:</h2>
                     <ul>
@@ -830,8 +843,8 @@
                       <li>- 2 صدر دجاج مسحب.</li>
                     </ul>
                   </section>
-                  <section class="pb-2">
-                    <h2 class=" text-primary font-bold py-1">للصوص:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold">للصوص:</h2>
                     <ol class="">
                       <li>- حبة أفوكادو.</li>
                       <li>- عصير ليمونة.</li>
@@ -842,8 +855,8 @@
                       <li>- ملح وفلفل أسود.</li>
                     </ol>
                   </section>
-                  <section class="pb-2">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold">الطريقة:</h2>
                     <ol class="">
                       <li>
                         1. اطبخ صدور الدجاج حتى تنضج، ثم قطعها إلى قطع صغيرة.
@@ -865,8 +878,8 @@
                       <li>6. أضف الصوص إلى السلطة وامزج جيدًا.</li>
                     </ol>
                   </section>
-                  <section class="py-2">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold">
                       السعرات الحرارية:
                     </h2>
                     <p>
@@ -963,9 +976,9 @@
               <ScrollArea
                 class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
-                <div class=" lg:text-sm text-xs">
+                <div class=" text-sm">
                   <section>
-                    <h2 class="text-primary font-bold pb-1">المكونات:</h2>
+                    <h2 class="text-primary font-bold py-1">المكونات:</h2>
                     <ul>
                       <li>- كينوا مطبوخة.</li>
                       <li>- خس (مقطع)</li>
@@ -977,16 +990,16 @@
                       </li>
                     </ul>
                   </section>
-                  <section class="pb-2">
-                    <h2 class=" text-primary font-bold py-1">للصوص:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">للصوص:</h2>
                     <ol class="">
                       <li>- زبادي (مخفف بماء).</li>
                       <li>- ملح.</li>
                       <li>- شوية طحينة سائلة.</li>
                     </ol>
                   </section>
-                  <section class="pb-2">
-                    <h2 class=" text-primary font-bold py-1">الطريقة:</h2>
+                  <section class="pt-3">
+                    <h2 class=" text-primary font-bold ">الطريقة:</h2>
                     <ol class="">
                       <li>
                         1. امزج الكينوا المطبوخة مع الخس المفروم، الخيار المقطع،
@@ -1000,16 +1013,16 @@
                       <li>4. أضف الصوص إلى السلطة وامزج جيدًا.</li>
                     </ol>
                   </section>
-                  <section class="py-2">
-                    <h2 class="text-primary font-bold py-1">ملاحظة:</h2>
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold ">ملاحظة:</h2>
                     <p>
                       يمكن إضافة قطع دجاج مشوية لزيادة كمية البروتين وتعزيز
                       الشبع.
                     </p>
                     <section />
                   </section>
-                  <section class="py-2">
-                    <h2 class="text-primary font-bold py-1">
+                  <section class="pt-3">
+                    <h2 class="text-primary font-bold">
                       السعرات الحرارية:
                     </h2>
                     <p>- 333 سعرة حرارية.</p>
