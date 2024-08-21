@@ -5,7 +5,7 @@
 <header class="flex justify-center items-center">
   <div class="  w-[50vw] h-[35vh] p-5 mb-10 flex flex-col items-center">
     <div class="">
-      <h1 class="text-4xl font-bold text-primary">Joy Bites</h1>
+      <h1 class="text-4xl font-bold text-primary">Joy Bite</h1>
       <div class="text-primary/90 pt-2 font-serif flex flex-col items-center">
         <p>اخترنا لك الوصفات بعناية</p>
         <p>لتستمتع بمذاق لذيذ وصحي</p>

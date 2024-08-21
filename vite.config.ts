@@ -6,7 +6,7 @@ export default defineConfig({
 	plugins: [sveltekit(), 
 		SvelteKitPWA({
 			manifest:{
-				name:'Joy Bites'
+				name:'Joy Bite'
 				
 			}
 		})]

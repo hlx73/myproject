@@ -5,7 +5,7 @@
   </script>
 <div class="flex justify-center items-center pb-20">
     <div
-        class=" w-[60vw] lg:w-[35vw] h-[78vh] lg:h-[100vh] lg:p-10 bg-gradient-to-r
+        class=" w-[60vw] lg:w-[35vw] h-[85vh] lg:h-[115vh] lg:p-10 bg-gradient-to-r
       from-background/90 to-primary/50 dark:bg-primary shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)]
        
        ring-1 ring-secondary
@@ -22,7 +22,7 @@
 
                 <h2>
                     أمارس نمط حياة صحي ولدي اهتمام كبير بالصحة والتغذية🌼🍓، ولذلك
-                    قمت بتصميم وبرمجة موقعي Joy Bites ليكون وسيلة لجعل الناس يحبون الطعام
+                    قمت بتصميم وبرمجة موقعي Joy Bite ليكون وسيلة لجعل الناس يحبون الطعام
                     الصحي ويسهل عليهم الوصول إلى وصفات صحية ولذيذة😊.
                 </h2>
                 <h2>
@@ -34,20 +34,21 @@
             
         </div>
         <div class="">
-          <Carousel.Root class="-m-5 pl-14 " dir="ltr">
+          <Carousel.Root class="pl-12 lg:p-8 lg:pl-14" dir="ltr">
             <Carousel.Content>
               
                 <Carousel.Item  >
-                  <img src="cake1.jpg" alt="" class=" rounded-xl w-[57vw] h-[39vh] lg:w-[25vw] lg:h-[50vh] ">
+                  <img src="cake2.jpg" alt="" class=" rounded-xl w-[35vw] h-[35vh] lg:w-[20vw] lg:h-[50vh] ">
                 </Carousel.Item> 
                 <Carousel.Item>
-                  <img src="cake2.jpg" alt="" class=" rounded-xl border  w-[40vw] h-[35vh]">
+                  <img src="cake1.jpg" alt="" class=" rounded-xl  w-[35vw] h-[35vh] lg:w-[20vw] lg:h-[50vh]">
                 </Carousel.Item> 
-                <Carousel.Item>
-                  <img src="cake3.jpg" alt="" class=" rounded-xl border w-[40vw] h-[35vh]">
-                </Carousel.Item> 
+               
             </Carousel.Content>
-            
+            <Carousel.Previous />
+
+              <Carousel.Next />
+           
         </Carousel.Root>
         </div>
          

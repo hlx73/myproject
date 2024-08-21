@@ -98,7 +98,7 @@
                 >
             </div>
 
-            <span class=" font-bold text-primary">Joy Bites</span>
+            <span class=" font-bold text-primary">Joy Bite</span>
             <div class="uppercase hidden lg:flex">
                 {#each links as link}
                     <Button
