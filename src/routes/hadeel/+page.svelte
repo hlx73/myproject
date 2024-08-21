@@ -1,19 +1,19 @@
 <script lang="ts">
   import * as Carousel from "$lib/components/ui/carousel/index.js";
+  import { ScrollArea } from "$lib/components/ui/scroll-area/index.js";
 
   </script>
-  
-<div class="flex flex-col items-center pb-20">
+<div class="flex justify-center items-center pb-20">
     <div
-        class=" w-[60vw] lg:w-[50vw] h-[90vh] lg:h-[100vh] lg:p-10 bg-gradient-to-r
+        class=" w-[60vw] lg:w-[35vw] h-[78vh] lg:h-[100vh] lg:p-10 bg-gradient-to-r
       from-background/90 to-primary/50 dark:bg-primary shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)]
        
        ring-1 ring-secondary
-       rounded-xl p-4"
+       rounded-xl  p-4"
     >
         <div class="text-secondary-foreground">
             <h1 class="font-bold flex justify-center lg:text-xl">المبرمجة هديل </h1>
-            <div class="font-sans py-9 text-sm lg:text-lg">
+            <div class="font-sans py-9 text-xs lg:text-sm">
                 <h2>
                     هديل,
                      طالبة ذكاء اصطناعي بكلية
@@ -33,22 +33,25 @@
             </div>
             
         </div>
-        <Carousel.Root>
+        <div class="">
+          <Carousel.Root class="-m-5 pl-14 " dir="ltr">
             <Carousel.Content>
-              <Carousel.Item  class="basis-1/2">
-                <img src="cake1.jpg" alt="">
-              </Carousel.Item>
-              <Carousel.Item  class="basis-1/2">
-                <img src="cake2.jpg" alt="">
-              </Carousel.Item>
-              <Carousel.Item  class="basis-1/2">
-                <img src="cake3.jpg" alt="">
-        
-              </Carousel.Item>
+              
+                <Carousel.Item  >
+                  <img src="cake1.jpg" alt="" class=" rounded-xl w-[57vw] h-[39vh] lg:w-[25vw] lg:h-[50vh] ">
+                </Carousel.Item> 
+                <Carousel.Item>
+                  <img src="cake2.jpg" alt="" class=" rounded-xl border  w-[40vw] h-[35vh]">
+                </Carousel.Item> 
+                <Carousel.Item>
+                  <img src="cake3.jpg" alt="" class=" rounded-xl border w-[40vw] h-[35vh]">
+                </Carousel.Item> 
             </Carousel.Content>
-            <Carousel.Previous />
-            <Carousel.Next />
+            
         </Carousel.Root>
+        </div>
+         
+          
     </div>
 </div>
 
