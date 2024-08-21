@@ -3,7 +3,7 @@
 </script>
 
 <header class="flex justify-center items-center">
-  <div class="  w-[50vw] h-[35vh] p-5 mb-10 flex flex-col items-center">
+  <div class="  w-[50rem] max-h-[35rem] p-5 mb-10 flex flex-col items-center">
     <div class="">
       <h1 class="text-4xl font-bold text-primary">Joy Bite</h1>
       <div class="text-primary/90 pt-2 font-serif flex flex-col items-center">
@@ -18,7 +18,7 @@
        justify-items-center"
     >
       <div
-        class="w-10 h-10 rounded-full text-4xl text-primary-foreground bg-primary flex justify-center items-center"
+        class="max-w-10 h-10 rounded-full text-4xl text-primary-foreground bg-primary flex justify-center items-center"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
