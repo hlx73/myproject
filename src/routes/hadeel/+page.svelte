@@ -1,4 +1,6 @@
 <script lang="ts">
+  import * as Carousel from "$lib/components/ui/carousel/index.js";
+
   </script>
   
 <div class="flex flex-col items-center pb-20">
@@ -31,5 +33,22 @@
             </div>
             
         </div>
+        <Carousel.Root>
+            <Carousel.Content>
+              <Carousel.Item  class="basis-1/2">
+                <img src="cake1.jpg" alt="">
+              </Carousel.Item>
+              <Carousel.Item  class="basis-1/2">
+                <img src="cake2.jpg" alt="">
+              </Carousel.Item>
+              <Carousel.Item  class="basis-1/2">
+                <img src="cake3.jpg" alt="">
+        
+              </Carousel.Item>
+            </Carousel.Content>
+            <Carousel.Previous />
+            <Carousel.Next />
+        </Carousel.Root>
     </div>
 </div>
+
