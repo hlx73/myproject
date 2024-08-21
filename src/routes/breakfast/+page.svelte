@@ -900,7 +900,7 @@
                 </ol>
               </section>
               <h2 class="text-primary font-bold">السعرات الحرارية:</h2>
-              <p>-430 سعرة حرارية .</p>
+              <p>-570 سعرة حرارية .</p>
             </div>
             <div></div>
             <div></div>

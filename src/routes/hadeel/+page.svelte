@@ -1,5 +1,4 @@
 <script lang="ts">
-    import { ScrollArea } from "$lib/components/ui/scroll-area/index.js";
   </script>
   
 <div class="flex flex-col items-center pb-20">
@@ -30,14 +29,7 @@
                 </h2>
                 
             </div>
-            <ScrollArea  
-            class="w-[50vw] lg:w-[30vw] h-[35vh] p-4"
-            orientation="horizontal">
-               <img src="cake1.jpg" alt="">
-                <img src="cake2.jpg" alt="">
-                <img src="cake3.jpg" alt="">
-
-            </ScrollArea>
+            
         </div>
     </div>
 </div>
