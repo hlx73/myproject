@@ -30,7 +30,7 @@
             </Dialog.Header>
             <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
+                class=" w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh] rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>

@@ -20,7 +20,7 @@
 		{transition}
 		{transitionConfig}
 		class={cn(
-			"max-w-[40rem] max-h-[50rem] text-secondary-foreground bg-background  shadow-md fixed left-[50%] top-[50%] z-50 grid  translate-x-[-50%] translate-y-[-50%] gap-4 border lg:p-7 p-5 sm:rounded-lg md:w-full",
+			"w-[22rem] lg:w-[35rem] h-[32rem] lg:h-[33rem] text-secondary-foreground bg-background  shadow-md fixed left-[50%] top-[50%] z-50 grid  translate-x-[-50%] translate-y-[-50%] gap-4 border lg:p-7 p-5 sm:rounded-lg md:w-full",
 			className
 		)}
 		{...$$restProps}
