@@ -24,17 +24,13 @@
               },
             )}">كرات التمر</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
                 >كرات التمر
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
-              <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
-              >
                 <div class="  text-sm">
                   <section>
                     <h2 class="text-primary font-bold py-1">المكونات:</h2>
@@ -68,8 +64,6 @@
                     <p>- السعرات الحرارية للكمية الكاملة: 937 سعرة حرارية.</p>
                   </section>
                 </div>
-              </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/diet.marwa.2018?igsh=MTVzZmUwMnAxczRk">
                
@@ -145,17 +139,14 @@
               },
             )}">كرات الحلوى</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content>
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
                 >كرات الحلوى
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
-              <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
-              >
+            
                 <div class=" text-sm">
                   <section>
                     <h2 class="text-primary font-bold py-1">المكونات:</h2>
@@ -183,8 +174,7 @@
                     </p>
                   </section>
                 </div>
-              </ScrollArea>
-            </div>
+             
             <div class="flex justify-end items-end text-xs ">
               <Button variant="ghost" href="https://www.instagram.com/fatima_diet04?igsh=cXRianEyajc1Nmow">
                
@@ -260,17 +250,14 @@
               },
             )}">شوكولاتة دارك</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
                 >شوكولاتة دارك
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
-              <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
-              >
+           <ScrollArea>
                 <div class=" text-sm">
                   <section>
                     <h2 class="text-primary font-bold py-1">المكونات:</h2>
@@ -319,7 +306,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/360better?igsh=d3ZhcXNlZTNtMzJ5">
                
@@ -395,16 +381,14 @@
               },
             )}">بليلة</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
                 >بليلة
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -448,7 +432,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/nada_helthy?igsh=b3RzM2V4dzY3NmFx">
                
@@ -531,10 +514,7 @@
                 >بطاطس
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
-              <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
-              >
+           
                 <div class=" text-sm">
                   <section>
                     <h2 class="text-primary font-bold py-1">المكونات:</h2>
@@ -567,8 +547,7 @@
                     <p>- إجمالي السعرات: 182 سعرة حرارية.</p>
                   </section>
                 </div>
-              </ScrollArea>
-            </div>
+             
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
                
@@ -644,17 +623,15 @@
               },
             )}">شوكولاتة وفراولة</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh] shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
                 >شوكولاتة و فراولة
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh] 
-                 rounded-md p-4"
+                
               >
                 <div class=" text-sm">
                   <section>
@@ -703,7 +680,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
                

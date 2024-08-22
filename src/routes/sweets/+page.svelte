@@ -22,15 +22,13 @@
               },
             )}">بودينج الشوكولاتة</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content>
             <Dialog.Header class="">
               <Dialog.Title class="flex justify-center "
                 >بودينج الشوكولاتة
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class=" w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh] rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -98,7 +96,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
 
             <div class="flex justify-end items-end text-xs">
               <Button
@@ -176,15 +173,13 @@
               },
             )}">ميني بانكيك</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title class="flex justify-center "
                 >ميني بانكيك
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -262,7 +257,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button
                 variant="ghost"
@@ -339,13 +333,11 @@
               },
             )}">كوكيز</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title class="flex justify-center ">كوكيز</Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -400,7 +392,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button
                 variant="ghost"
@@ -477,15 +468,13 @@
               },
             )}">فاكتوريا كيك</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content>
             <Dialog.Header class="">
               <Dialog.Title class="flex justify-center "
                 >فاكتوريا كيك
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -551,7 +540,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button
                 variant="ghost"
@@ -628,15 +616,13 @@
               },
             )}">تشيز كيك الفراولة</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title class="flex justify-center"
                 >تشيز كيك فراولة
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -712,7 +698,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button
                 variant="ghost"
@@ -790,7 +775,6 @@
             )}">حلى الاوريو</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg-w-[90vw] lg:h-fit  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title class="flex justify-center"
@@ -799,7 +783,6 @@
             </Dialog.Header>
             <!-- svelte-ignore missing-declaration -->
             <ScrollArea
-              class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
             >
               <div class="text-sm">
                 <section>
@@ -920,7 +903,6 @@
             )}">حلى الآيسكريم</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg-w-[90vw] lg:h-fit  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title class="flex justify-center "
@@ -1037,14 +1019,11 @@
             )}">مافن</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg-w-[90vw] lg:h-fit  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title class="flex justify-center ">مافن</Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class="text-sm">
                   <section>
@@ -1092,7 +1071,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button
                 variant="ghost"
@@ -1170,13 +1148,11 @@
               },
             )}">حلى منعش</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title class="flex justify-center ">حلى منعش</Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -1234,7 +1210,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button
                 variant="ghost"
@@ -1311,15 +1286,13 @@
               },
             )}">بانكيك السينابون</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title class="flex justify-center "
                 >بانكيك السينابون
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class="  text-sm">
                   <section>
@@ -1379,7 +1352,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button
                 variant="ghost"
@@ -1456,15 +1428,13 @@
               },
             )}">كيكة الكندر</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title class="flex justify-center "
                 >كيكة الكندر
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class="  text-sm">
                   <section>
@@ -1507,7 +1477,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button
                 variant="ghost"
@@ -1584,15 +1553,13 @@
               },
             )}">كيكة ليمون بالتوت</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh] shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title class="flex justify-center"
                 >كيكة ليمون بالتوت
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class="  text-sm">
                   <section>
@@ -1638,7 +1605,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button
                 variant="ghost"

@@ -22,7 +22,6 @@
             )}">سلطة دجاج</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[95vh]  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -30,8 +29,7 @@
                 >سلطة دجاج
               </Dialog.Title>
             </Dialog.Header>
-            <ScrollArea class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
-            >
+            <ScrollArea   >
             <div class=" text-sm">
               <section>
                 <h2 class="text-primary font-bold py-1">المكونات:</h2>
@@ -152,7 +150,6 @@
             )}">سلطة التونة</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[95vh]  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -160,8 +157,7 @@
                 >سلطة التونة والباذنجان
               </Dialog.Title>
             </Dialog.Header>
-            <ScrollArea class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4">
-            <div class=" text-sm">
+            <ScrollArea > <div class=" text-sm">
               <section>
                 <h2 class="text-primary font-bold py-1">المكونات:</h2>
                 <ul>
@@ -279,7 +275,6 @@
             )}">سلطة الباذنجان</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[95vh]   shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -287,8 +282,7 @@
                 >سلطة الباذنجان
               </Dialog.Title>
             </Dialog.Header>
-            <ScrollArea class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4">
-            <div class="text-sm">
+            <ScrollArea ><div class="text-sm">
               <section>
                 <h2 class="text-primary font-bold py-1">المكونات:</h2>
                 <ul>
@@ -417,7 +411,6 @@
             )}">سلطة منعشة</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[95vh]  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -426,8 +419,7 @@
                 سلطة منعشة
               </Dialog.Title>
             </Dialog.Header>
-            <ScrollArea class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4">
-
+            <ScrollArea >
             <div class="  text-sm">
               <section>
                 <h2 class="text-primary font-bold py-1">المكونات:</h2>
@@ -544,7 +536,6 @@
             )}">سلطة البطاطس</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[95vh]  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -553,8 +544,7 @@
                 سلطة البطاطس
               </Dialog.Title>
             </Dialog.Header>
-            <ScrollArea class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4">
-
+            <ScrollArea >
             <div class=" text-sm">
               <section>
                 <h2 class="text-primary font-bold py-1">المكونات:</h2>
@@ -675,7 +665,6 @@
             )}">سلطة آسيوية</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[90vh]   shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -683,10 +672,8 @@
                 >سلطة آسيوية
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
-              >
+                >
                 <div class="  text-sm">
                   <section>
                     <h2 class="text-primary font-bold py-1">المكونات:</h2>
@@ -737,7 +724,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
                
@@ -812,17 +798,14 @@
             )}">سلطة البروكلي</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[90vh]  shadow-md"
-          >
+            >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
                 >سلطة البروكلي
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class="  text-sm">
                   <section>
@@ -880,7 +863,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthymindq8?igsh=YW0ydmxwcDI2cDQ2">
                
@@ -955,7 +937,6 @@
             )}">سلطة كينوا</Dialog.Trigger
           >
           <Dialog.Content
-            class=" w-[70vw] h-[90vh] lg:h-[90vh]  shadow-md"
           >
             <Dialog.Header class="">
               <Dialog.Title
@@ -963,9 +944,7 @@
                 >سلطة كينوا
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -1015,7 +994,6 @@
                   
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/thedhuhaa?igsh=ODh4MXduamQ4OHlo">
                
