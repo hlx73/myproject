@@ -3,7 +3,7 @@
   import * as Dialog from "$lib/components/ui/dialog";
   import { buttonVariants } from "$lib/components/ui/button";
 </script>
-<div class="h-[60rem]">
+<div class="min-h-[100vh] pb-20">
   <div class="">
     <div class="flex flex-col items-center ">
       <div

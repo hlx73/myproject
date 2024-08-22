@@ -4,7 +4,7 @@
   import * as Dialog from "$lib/components/ui/dialog";
   import { ScrollArea } from "$lib/components/ui/scroll-area/index.js";
 </script>
-<div class="h-fit ">
+<div class="min-h-[100vh] pb-20">
   <div class="flex flex-col items-center pb-20">
     <div
       class="
