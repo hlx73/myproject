@@ -3,9 +3,9 @@
   import * as Dialog from "$lib/components/ui/dialog";
   import { buttonVariants } from "$lib/components/ui/button";
 </script>
-<div class="h-fit">
+<div class="h-[60rem]">
   <div class="">
-    <div class="flex flex-col items-center pb-20">
+    <div class="flex flex-col items-center ">
       <div
         class="
        min-w-[18rem]  lg:gap-8
