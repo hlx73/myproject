@@ -158,7 +158,6 @@
                 >شكشوكة تركية
               </Dialog.Title>
             </Dialog.Header>
-            <ScrollArea class=" w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh] rounded-md p-4">
 
             <div class=" text-sm ">
               <section>
@@ -192,7 +191,6 @@
               </section>
               
             </div>
-            </ScrollArea>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
                
@@ -274,7 +272,6 @@
             <Dialog.Header>
               <Dialog.Title>شوفان وبروتين</Dialog.Title>
             </Dialog.Header>
-            <ScrollArea>
             <div class="  text-sm">
               <section>
                 <h2 class="text-primary font-bold">المكونات:</h2>
@@ -306,7 +303,6 @@
                 <p>- 320 سعرة حرارية.</p>
               </section>
             </div>
-          </ScrollArea>
            
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
@@ -765,7 +761,6 @@
                 >أفكار للتوست
               </Dialog.Title>
             </Dialog.Header>
-            <ScrollArea>
             <div class="  text-sm">
               <section>
                 <h2 class="text-primary font-bold">شريحة البيض:</h2>
@@ -795,7 +790,6 @@
                 <p>- 113 سعرة حرارية.</p>
               </div>
             </div>
-          </ScrollArea>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
                
@@ -878,7 +872,6 @@
                 >بانكيك زبدة الفول السوداني
               </Dialog.Title>
             </Dialog.Header>
-          <ScrollArea>
             <div class="text-sm ">
               <section>
                 <h2 class="text-primary font-bold">المكونات:</h2>
@@ -910,7 +903,6 @@
               <h2 class="text-primary font-bold">السعرات الحرارية:</h2>
               <p>-570 سعرة حرارية .</p>
             </div>
-          </ScrollArea>
            
             <div class="flex justify-end items-end text-xs">
               

@@ -22,6 +22,6 @@
 >
 	<slot />
 	<ScrollAreaPrimitive.Thumb
-		class={cn(" relative border rounded-full", orientation === "vertical" && "flex-1")}
+		class={cn(" relative  rounded-full", orientation === "vertical" && "flex-1")}
 	/>
 </ScrollAreaPrimitive.Scrollbar>

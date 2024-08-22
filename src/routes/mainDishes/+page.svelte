@@ -22,17 +22,14 @@
               },
             )}">ساندوتش روبيان
             </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center"
                 >ساندوتش روبيان
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
-              <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
-              >
+              <ScrollArea>
                 <div class=" text-sm">
                   <section>
                     <h2 class="text-primary font-bold pb-1">المكونات:</h2>
@@ -87,7 +84,7 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
+
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/nanv.healthy?igsh=MWVxc2o4cXRwZG51MQ==">
                
@@ -163,16 +160,14 @@
               },
             )}">بيتزا خضار
             </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh] shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
                 >بيتزا خضار
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -226,7 +221,6 @@
                   <p>-481 سعرة حرارية</p>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/azm_halth55?igsh=MTUzOWV2OHhpZGYzbA==">
                
@@ -302,16 +296,14 @@
             },
           )}">فاهيتا الدجاج
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
                 >فاهيتا الدجاج
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -375,7 +367,6 @@
                   <p>-509 سعرة حرارية</p>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
                
@@ -452,16 +443,14 @@
             )}">سبرينغ رول
             </Dialog.Trigger>
           
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
                 >سبرينغ رول
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -505,7 +494,6 @@
                   <p>-377 سعرة حرارية</p>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
                
@@ -582,16 +570,14 @@
             )}"
             >زنجر
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
                 >زنجر
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -671,7 +657,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
                
@@ -748,16 +733,14 @@
             )}"
             >كلوب ديلوكس
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
                 >كلوب ديلوكس
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -834,7 +817,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
                
@@ -912,7 +894,7 @@
           >
             صحن فاهيتا
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh] shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
@@ -920,9 +902,7 @@
                 صحن فاهيتا
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -1008,7 +988,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
                
@@ -1086,7 +1065,7 @@
           >
             صينية بطاطس
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh] shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
@@ -1094,9 +1073,7 @@
                 صينية بطاطس
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -1173,7 +1150,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
                
@@ -1251,7 +1227,7 @@
           >
             معكرونة باللحم
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center"
@@ -1259,9 +1235,7 @@
                 معكرونة باللحم
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -1304,7 +1278,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/azm_halth55?igsh=MTUzOWV2OHhpZGYzbA==">
                
@@ -1382,7 +1355,7 @@
           >
             بيتزا الشوفان
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
@@ -1390,9 +1363,7 @@
                 بيتزا الشوفان
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -1473,7 +1444,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/fatima_diet04?igsh=cXRianEyajc1Nmow">
                
@@ -1549,16 +1519,14 @@
               },
             )}">فطيرة البطاطس</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
                 >فطيرة البطاطس
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -1605,7 +1573,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/amanymona22_healthy?igsh=ZXhtYzcwN2YzbXdh">
                
@@ -1682,16 +1649,14 @@
             )}"
             >معكرونة بالصلصة
           </Dialog.Trigger>
-          <Dialog.Content class=" w-[70vw] h-[90vh] shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
                 >معكرونة بالصلصة
               </Dialog.Title>
             </Dialog.Header>
-            <div class="flex justify-center items-center">
               <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
                 <div class=" text-sm">
                   <section>
@@ -1767,7 +1732,6 @@
                   </section>
                 </div>
               </ScrollArea>
-            </div>
             <div class="flex justify-end items-end text-xs">
               <Button variant="ghost" href="https://www.instagram.com/healthy_shody?igsh=NG5kY28yamt0amk3">
                
