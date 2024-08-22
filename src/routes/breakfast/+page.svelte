@@ -18,7 +18,7 @@
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[20vw] lg:h-fit h-[5vh] {buttonVariants(
+            class="text-xs lg:w-[20vw] w-[20vw] lg:h-fit  {buttonVariants(
               { variant: 'outline' },
             )}">سكرمبل الشوفان</Dialog.Trigger
           >
@@ -147,7 +147,7 @@
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit  {buttonVariants(
               { variant: 'outline' },
             )}">شكشوكة تركية</Dialog.Trigger
           >
@@ -261,7 +261,7 @@
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit  {buttonVariants(
               { variant: 'outline' },
             )}"
           >
@@ -373,7 +373,7 @@
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit  {buttonVariants(
               { variant: 'outline' },
             )}"
           >
@@ -494,7 +494,7 @@
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit  {buttonVariants(
               { variant: 'outline' },
             )}"
           >
@@ -614,7 +614,7 @@
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit  {buttonVariants(
               { variant: 'outline' },
             )}"
           >
@@ -749,7 +749,7 @@
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit  {buttonVariants(
               { variant: 'outline' },
             )}">أفكار للتوست</Dialog.Trigger
           >
@@ -859,7 +859,7 @@
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit  {buttonVariants(
               { variant: 'outline' },
             )}"
           >
