@@ -8,12 +8,13 @@
   <div class="flex flex-col items-center pb-20">
     <div
       class="
-      lg:h-fit w-auto ring-1 ring-secondary lg:p-10 lg:gap-16 lg:gap-y-4  bg-gradient-to-r from-background/90 to-primary/50 dark:bg-primary shadow-[0_20px_60px_-15px_rgba(0,0,0,0.7)] rounded-xl
-      p-6 grid grid-cols-3 gap-8 gap-y-6
+     min-w-[18rem]  lg:gap-8
+      ring-1 ring-secondary bg-gradient-to-r from-background/90 to-primary/50 dark:bg-primary shadow-[0_20px_60px_-15px_rgba(0,0,0,0.7)] rounded-xl
+      p-6 grid grid-cols-3 gap-9 
      justify-items-center
        "
     >
-      <div class=" w-[15vw] h-auto rounded-xl">
+      <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
         <img src="/j1.JPG" alt="" class=" rounded-xl" />
         <span class="flex justify-center py-2 pr-2">
           <Dialog.Root>
@@ -54,7 +55,7 @@
           </Dialog.Root>
         </span>
       </div>
-      <div class=" w-[15vw] h-auto rounded-xl">
+      <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
         <img src="/j2.JPG" alt="" class=" rounded-xl" />
         <span class="flex justify-center py-2 pr-2">
           <Dialog.Root>
@@ -98,7 +99,7 @@
           </Dialog.Root>
         </span>
       </div>
-      <div class=" w-[15vw] h-auto rounded-xl">
+      <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
         <img src="/j3.JPG" alt="" class=" rounded-xl" />
         <span class="flex justify-center py-2 pr-2">
           <Dialog.Root>
@@ -138,7 +139,7 @@
           </Dialog.Root>
         </span>
       </div>
-      <div class=" w-[15vw] h-auto rounded-xl">
+      <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
         <img src="/juice .jpg" alt="" class=" rounded-xl" />
         <span class="flex justify-center py-2 pr-2">
           <Dialog.Root>
@@ -176,7 +177,7 @@
           </Dialog.Root>
         </span>
       </div>
-      <div class=" w-[15vw] h-auto rounded-xl">
+      <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
         <img src="/j4.JPG" alt="" class=" rounded-xl" />
         <span class="flex justify-center py-2 pr-2">
           <Dialog.Root>
@@ -222,7 +223,7 @@
           </Dialog.Root>
         </span>
       </div>
-      <div class=" w-[15vw] h-auto rounded-xl">
+      <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
         <img src="/j5.JPG" alt="" class=" rounded-xl" />
         <span class="flex justify-center py-2 pr-2">
           <Dialog.Root>

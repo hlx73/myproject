@@ -5,11 +5,10 @@
   </script>
 <div class="flex justify-center items-center pb-20">
     <div
-        class=" w-[60rem] lg:w-[35rem] h-[85vh] lg:h-[115vh] lg:p-10 bg-gradient-to-r
-      from-background/90 to-primary/50 dark:bg-primary shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)]
-       
+        class=" min-w-[18rem]  lg:gap-8  h-auto
+         bg-gradient-to-r from-background/90 to-primary/50 dark:bg-primary shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)]
        ring-1 ring-secondary
-       rounded-xl  p-4"
+       rounded-xl  "
     >
         <div class="text-secondary-foreground">
             <h1 class="font-bold flex justify-center lg:text-xl">المبرمجة هديل </h1>

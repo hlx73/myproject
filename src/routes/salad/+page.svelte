@@ -7,12 +7,13 @@
 
 <div class="flex flex-col items-center pb-20">
   <div
-    class="lg:h-fit w-[80vw] lg:p-10 lg:gap-16 lg:gap-y-4  bg-gradient-to-r from-background/90 to-primary/50 dark:bg-primary shadow-[0_20px_60px_-15px_rgba(0,0,0,0.7)] ring-1 ring-secondary
+    class=" min-w-[18rem]  lg:gap-8  h-auto
+    bg-gradient-to-r from-background/90 to-primary/50 dark:bg-primary shadow-[0_20px_60px_-15px_rgba(0,0,0,0.7)] ring-1 ring-secondary
      
-     rounded-xl grid grid-cols-4 gap-5 p-4 px-2"
+     rounded-xl grid grid-cols-3 gap-9 p-6"
   >
-    <div class=" w-[15vw] h-auto rounded-xl">
-      <img src="/l1.jpg" alt="" class=" rounded-xl" />
+    <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
+      <img src="/l1.jpg" alt="" class=" rounded-xl ring-2 ring-primary/40" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
@@ -141,8 +142,8 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl">
-      <img src="/l2.jpg" alt="" class=" rounded-xl" />
+    <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
+      <img src="/l2.jpg" alt="" class=" rounded-xl ring-2 ring-primary/40" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
@@ -268,8 +269,8 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl">
-      <img src="/l3.jpg" alt="" class=" rounded-xl" />
+    <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
+      <img src="/l3.jpg" alt="" class=" rounded-xl ring-2 ring-primary/40" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
@@ -406,8 +407,8 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl">
-      <img src="/l4.jpg" alt="" class=" rounded-xl" />
+    <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
+      <img src="/l4.jpg" alt="" class=" rounded-xl ring-2 ring-primary/40" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
@@ -533,8 +534,8 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl">
-      <img src="/l5.jpg" alt="" class=" rounded-xl" />
+    <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
+      <img src="/l5.jpg" alt="" class=" rounded-xl ring-2 ring-primary/40" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
@@ -664,7 +665,7 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl">
+    <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
       <img src="/l6.jpg" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
@@ -801,8 +802,8 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl">
-      <img src="/l7.jpg" alt="" class=" rounded-xl" />
+    <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
+      <img src="/l7.jpg" alt="" class=" rounded-xl ring-2 ring-primary/40" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
@@ -944,8 +945,8 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl">
-      <img src="/l8.jpg" alt="" class=" rounded-xl" />
+    <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
+      <img src="/l8.jpg" alt="" class=" rounded-xl ring-2 ring-primary/40" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger

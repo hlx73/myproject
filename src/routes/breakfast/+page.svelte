@@ -18,7 +18,7 @@
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[20vw] lg:h-fit  {buttonVariants(
+            class="text-xs lg:w-[20vw] w-[20vw]   {buttonVariants(
               { variant: 'outline' },
             )}">سكرمبل الشوفان</Dialog.Trigger
           >
