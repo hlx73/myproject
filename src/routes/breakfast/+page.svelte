@@ -30,7 +30,7 @@
                 >سكرمبل الشوفان
               </Dialog.Title>
             </Dialog.Header>
-           <ScrollArea class=" w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh] rounded-md p-4">
+           <ScrollArea >
             <div class=" text-sm">
               <section>
                 <h2 class="text-primary font-bold  py-1">المكونات:</h2>
@@ -634,7 +634,6 @@
               </Dialog.Title>
             </Dialog.Header>
             <ScrollArea
-                class="w-[65vw] h-[70vh] lg:w-[35vw] lg-h[90vh]  rounded-md p-4"
               >
             <div class=" text-sm">
               <section>
@@ -683,6 +682,7 @@
               <p>- بدون الإضافات: 411 سعرة حرارية.</p>
               <p>- مع الإضافات: 472 سعرة حرارية.</p>
             </div>
+          </ScrollArea>
 
             <div class="flex justify-end items-end text-xs">
 
@@ -745,7 +745,6 @@
                 >
               </Button>
             </div>
-          </ScrollArea>
           </Dialog.Content>
         </Dialog.Root>
       </span>
