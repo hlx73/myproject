@@ -507,7 +507,7 @@
               },
             )}">بطاطس</Dialog.Trigger
           >
-          <Dialog.Content class=" w-[70vw] h-[90vh]  shadow-md">
+          <Dialog.Content >
             <Dialog.Header class="">
               <Dialog.Title
                 class="flex justify-center "
