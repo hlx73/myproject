@@ -26,7 +26,7 @@
 	class={cn(
 		"absolute h-2 w-8 touch-manipulation bg- rounded-full",
 		$orientation === "horizontal"
-			? "-left-14 top-1/2 -translate-y-1/2"
+			? "-left-14 top-1/2 -translate-y-1/2 lg:-left-28"
 			: "-top-5 left-1/2 -translate-x-1/2 rotate-90",
 		className
 	)}
