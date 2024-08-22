@@ -683,7 +683,6 @@
               <p>- بدون الإضافات: 411 سعرة حرارية.</p>
               <p>- مع الإضافات: 472 سعرة حرارية.</p>
             </div>
-          </ScrollArea>
 
             <div class="flex justify-end items-end text-xs">
 
@@ -746,6 +745,7 @@
                 >
               </Button>
             </div>
+          </ScrollArea>
           </Dialog.Content>
         </Dialog.Root>
       </span>
