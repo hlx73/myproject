@@ -9,16 +9,16 @@
 
 <div class="flex flex-col items-center  pb-20">
   <div
-    class=" min-w-[20rem]  lg:gap-8 bg-gradient-to-r from-background/90 to-primary/50 dark:bg-primary shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)] 
+    class=" min-w-[18rem]  lg:gap-8 bg-gradient-to-r from-background/90 to-primary/50 dark:bg-primary shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)] 
        ring-1 ring-secondary
-     rounded-xl grid grid-cols-3 gap-8 p-6  "
+     rounded-xl grid grid-cols-3 gap-9 p-6  "
   >
-    <div class=" w-[15vw]  h-auto rounded-xl"> 
+    <div class=" max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl"> 
       <img src="/b3.PNG" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
-            class="text-xs lg:w-[20vw] w-[18vw] lg:h-fit h-[5vh] {buttonVariants(
+            class="text-xs lg:w-[20vw] w-[20vw] lg:h-fit h-[5vh] {buttonVariants(
               { variant: 'outline' },
             )}">سكرمبل الشوفان</Dialog.Trigger
           >
@@ -142,7 +142,7 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto  rounded-xl">
+    <div class=" max-w-[5rem] lg:max-w-[12rem] h-auto  rounded-xl">
       <img src="/b4.JPG" alt="" class=" rounded-xl " />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
@@ -255,7 +255,7 @@
       </span>
     </div>
 
-    <div class=" w-[15vw] h-auto rounded-xl">
+    <div class=" max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
       <img src="/b1.PNG" alt="" class=" rounded-xl" />
 
       <span class="flex justify-center py-2 pr-2">
@@ -368,7 +368,7 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl">
+    <div class=" max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
       <img src="/b7.jpg" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
@@ -489,7 +489,7 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl">
+    <div class=" max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
       <img src="/b5.JPG" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
@@ -609,7 +609,7 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl">
+    <div class=" max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
       <img src="/b2.JPG" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
@@ -744,7 +744,7 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl">
+    <div class=" max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
       <img src="/b6.JPG" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
@@ -854,7 +854,7 @@
         </Dialog.Root>
       </span>
     </div>
-    <div class=" w-[15vw] h-auto rounded-xl">
+    <div class=" max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
       <img src="/b8.jpg" alt="" class=" rounded-xl" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
