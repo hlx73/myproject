@@ -7,10 +7,11 @@
 
 </script>
 
-<div class="flex flex-col items-center pb-20">
+<div class="flex flex-col items-center  pb-20">
   <div
-    class=" w-[80vw] lg:w-[85vw]  lg:p-10 bg-gradient-to-r from-background/90 to-primary/50 dark:bg-primary shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)]  lg:h-fit  ring-1 ring-secondary
-     rounded-xl grid grid-cols-4 gap-5 p-4 "
+    class=" min-w-[25rem]  lg:gap-8 bg-gradient-to-r from-background/90 to-primary/50 dark:bg-primary shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)] 
+       ring-1 ring-secondary
+     rounded-xl grid grid-cols-3 gap-8 p-6  "
   >
     <div class=" w-[15vw]  h-auto rounded-xl"> 
       <img src="/b3.PNG" alt="" class=" rounded-xl" />
