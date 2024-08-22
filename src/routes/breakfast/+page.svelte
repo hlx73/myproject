@@ -9,7 +9,7 @@
 
 <div class="flex flex-col items-center  pb-20">
   <div
-    class=" min-w-[25rem]  lg:gap-8 bg-gradient-to-r from-background/90 to-primary/50 dark:bg-primary shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)] 
+    class=" min-w-[20rem]  lg:gap-8 bg-gradient-to-r from-background/90 to-primary/50 dark:bg-primary shadow-[0_30px_80px_-15px_rgba(0,0,0,0.4)] 
        ring-1 ring-secondary
      rounded-xl grid grid-cols-3 gap-8 p-6  "
   >
