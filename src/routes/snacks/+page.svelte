@@ -14,7 +14,7 @@
        justify-items-center"
     >
       <div class=" max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
-        <img src="/snacks.jpg" alt="" class=" rounded-xl" />
+        <img src="/snacks2.jpg" alt="" class=" rounded-xl" />
         <span class="flex justify-center py-2 pr-2">
           <Dialog.Root>
             <Dialog.Trigger
