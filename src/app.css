@@ -4,7 +4,13 @@
  *{
   @apply select-none
  }
-
+ img {
+  
+  width: 300px;
+  height: fit;
+  object-fit: cover; 
+  /* هذا الخيار يساعد في الحفاظ على تناسق الصورة */
+}
 @layer base {
   :root {
     --background: 0 0% 100%;

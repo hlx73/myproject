@@ -119,7 +119,7 @@
      justify-items-center"
   >
     <div class="lg:w-[15vw] w-[20vw] h-auto rounded-xl ">
-      <img src="/breakfast.png" alt="" class=" rounded-xl " />
+      <img src="/breakfast.png" alt="" class=" rounded-xl " loading="lazy"/>
       <span class="flex justify-center py-2">
         <Button
           variant="outline"

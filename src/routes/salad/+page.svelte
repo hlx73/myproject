@@ -141,7 +141,7 @@
       </span>
     </div>
     <div class="  max-w-[5rem] lg:max-w-[12rem] h-auto rounded-xl">
-      <img src="/l2.jpg" alt="" class=" rounded-xl " />
+      <img src="/l2.jpg" alt="" class=" rounded-xl " width="300" height="300" loading="lazy" />
       <span class="flex justify-center py-2 pr-2">
         <Dialog.Root>
           <Dialog.Trigger
